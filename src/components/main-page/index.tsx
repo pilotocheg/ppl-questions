@@ -1,5 +1,5 @@
 import { memo } from "react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
 import styles from "./styles.module.scss";

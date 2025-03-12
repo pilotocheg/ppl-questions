@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import { memo, useCallback, useState } from "react";
 import { Question } from "types";
