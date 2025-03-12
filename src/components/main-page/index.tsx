@@ -1,6 +1,7 @@
 import { memo } from "react";
 import { Link } from "react-router-dom";
 import { Helmet } from "react-helmet";
+import classNames from "classnames";
 
 import styles from "./styles.module.scss";
 
@@ -20,7 +21,12 @@ export const MainPage = memo((props: Props) => {
       <ul className={styles.list}>
         {pages.map(([path, title]) => (
           <li className={styles.listItem} key={path}>
-            <Link className={styles.listItemLink} to={path}>
+            <Link
+              className={classNames(styles.listItemLink, {
+                [styles.favorites]: path === "favorites",
+              })}
+              to={path}
+            >
               {title}
             </Link>
           </li>

@@ -1,4 +1,4 @@
-import { ChangeEvent, memo, useRef, useState } from "react";
+import { ChangeEvent, memo, useEffect, useRef, useState } from "react";
 
 import styles from "./styles.module.scss";
 
@@ -12,6 +12,13 @@ export const Pagination = memo((props: Props) => {
   const { page: actualPage, onPageChange, maxPage } = props;
 
   const [page, setPage] = useState(actualPage);
+
+  useEffect(() => {
+    if (actualPage > maxPage) {
+      setPage(maxPage);
+      onPageChange(maxPage);
+    }
+  }, [actualPage, maxPage, onPageChange]);
 
   const timeout = useRef<number | undefined>(undefined);
 

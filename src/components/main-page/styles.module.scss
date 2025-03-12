@@ -34,4 +34,20 @@
     background-color: var(--color-main);
     box-shadow: 0 0 20px #ddd;
   }
+
+  &.favorites {
+    background-color: var(--background-success);
+    margin-top: 2rem;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: -1.5rem;
+      left: 0;
+      width: 100%;
+      border-top: 1px solid #ddd;
+      pointer-events: none;
+    }
+  }
 }
