@@ -1251,10 +1251,10 @@
     {
       "name": "PL010-0186",
       "text": "Służba informacji powietrznej jest zapewniana przez:",
-      "q1": "Wszystkie organy służby ruchu lotniczego w odniesieniu do statkówpowietrznych będących w ich  kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony.",
-      "q2": "Organ służby kontroli ruchu lotniczego w odniesieniu dowszystkich statków powietrznych.",
-      "q3": "Organ wojskowej służby ruchu lotniczego wodniesieniu do wszystkich statków powietrznych.",
-      "q4": "Wydzieloną służbę ustanowioną w granicachokreślonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej."
+      "q1": "Wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich  kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony.",
+      "q2": "Organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych.",
+      "q3": "Organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych.",
+      "q4": "Wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej."
     },
     {
       "name": "PL010-0187",
@@ -1378,11 +1378,11 @@
     },
     {
       "name": "PL010-0202",
-      "text": "W jakim celu jest ustanowiona służba ruchu lotniczegozwana służbą kontroli ruchu lotniczego?",
-      "q1": "W celu zapobiegania zderzeniom statkówpowietrznych podczas lotu.",
-      "q2": "W celu udzielania wskazówek i informacjiużytecznych dla bezpiecznego i sprawnego wykonywania lotów.",
-      "q3": "W celu zapewniania załogom statków powietrznychniezbędnych  danych meteorologicznych.",
-      "q4": "W celu zawiadamiania organów systemuposzukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami."
+      "text": "W jakim celu jest ustanowiona służba ruchu lotniczego zwana służbą kontroli ruchu lotniczego?",
+      "q1": "W celu zapobiegania zderzeniom statków powietrznych podczas lotu.",
+      "q2": "W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów.",
+      "q3": "W celu zapewniania załogom statków powietrznych niezbędnych  danych meteorologicznych.",
+      "q4": "W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami."
     },
     {
       "name": "PL010-0204",
@@ -1411,9 +1411,9 @@
     {
       "name": "PL010-0207",
       "text": "W jakim celu ustanowiono służbę meteorologiczną?",
-      "q1": "W celu zapewnienia organom służb ruchu lotniczego, organomsystemu poszukiwania i ratownictwa oraz innym organom prowadzącym lub obsługującym żeglugę powietrzną niezbędnych danych meteorologicznych.",
-      "q2": "W celu zbierania i publikowania informacji lub danychlotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej.",
-      "q3": "W celu zapewnienia pomocy statkompowietrznym w niebezpieczeństwie.",
+      "q1": "W celu zapewnienia organom służb ruchu lotniczego, organom systemu poszukiwania i ratownictwa oraz innym organom prowadzącym lub obsługującym żeglugę powietrzną niezbędnych danych meteorologicznych.",
+      "q2": "W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej.",
+      "q3": "W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie.",
       "q4": "W celu optymalizacji natężenia ruchu lotniczego."
     },
     {
@@ -1436,7 +1436,7 @@
       "name": "PL010-0210",
       "text": "W jakim celu ustanowiono służbę poszukiwania i ratownictwa?",
       "q1": "W celu przyjścia z pomocą osobom znajdującym się w niebezpieczeństwie.",
-      "q2": "W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa iregularności żeglugi powietrznej.",
+      "q2": "W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej.",
       "q3": "W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych.",
       "q4": "W celu optymalizacji natężenia ruchu lotniczego."
     },
@@ -1474,11 +1474,11 @@
     },
     {
       "name": "PL010-0215",
-      "text": "W jakim przypadku można cofnąć albozawiesić licencję lub wynikające z niej niektóre uprawnienia?",
-      "q1": "W przypadku korzystania z praw wynikających zposiadania licencji gdy pilot jest pod wpływem alkoholu.",
+      "text": "W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?",
+      "q1": "W przypadku korzystania z praw wynikających z posiadania licencji gdy pilot jest pod wpływem alkoholu.",
       "q2": "W przypadku braku opłaty lotniczej.",
-      "q3": "W przypadku stwierdzenia żeczłonek personelu lotniczego nie jest obywatelem polskim.",
-      "q4": "W przypadku stwierdzenia żeczłonek personelu lotniczego nie jest obywatelem UE."
+      "q3": "W przypadku stwierdzenia że członek personelu lotniczego nie jest obywatelem polskim.",
+      "q4": "W przypadku stwierdzenia że członek personelu lotniczego nie jest obywatelem UE."
     },
     {
       "name": "PL010-0216",
@@ -1514,7 +1514,7 @@
     },
     {
       "name": "PL010-0220",
-      "text": "W lotach VFR nie należy startować ani lądować na lotnisku niekontrolowanym, którego przestrzeń powietrzna maklasę G, jeżeli pułap chmur:",
+      "text": "W lotach VFR nie należy startować ani lądować na lotnisku niekontrolowanym, którego przestrzeń powietrzna ma klasę G, jeżeli pułap chmur:",
       "q1": "Jest niższy niż minimalny określony dla danego rodzaju statku powietrznego na danym lotnisku.",
       "q2": "Jest poniżej 150 m.",
       "q3": "Jest niższy niż minimalny określony dla danego lotniska, lecz nie niższy niż 200 m.",
@@ -1538,7 +1538,7 @@
     },
     {
       "name": "PL010-0223",
-      "text": "W pobliżu lotniska przelatuje statek powietrzny bez łączności. Aby wydać temu statkowi polecenie udzielenia pierwszeństwo drogi innym statkom powietrznym ikontynuowania krążenia, informator AFIS nada sygnał świetlny:",
+      "text": "W pobliżu lotniska przelatuje statek powietrzny bez łączności. Aby wydać temu statkowi polecenie udzielenia pierwszeństwo drogi innym statkom powietrznym i kontynuowania krążenia, informator AFIS nada sygnał świetlny:",
       "q1": "Ciągły sygnał czerwony.",
       "q2": "Serię błysków czerwonych.",
       "q3": "Ciągły sygnał zielony.",
@@ -1610,7 +1610,7 @@
     },
     {
       "name": "PL010-0232",
-      "text": "W przypadku zawieszenia uprawnienia lotniczego wpisywanego do licencji, jejposiadacz ma obowiązek?",
+      "text": "W przypadku zawieszenia uprawnienia lotniczego wpisywanego do licencji, jej posiadacz ma obowiązek?",
       "q1": "Niezwłocznego zwrotu licencji Prezesowi ULC w celu dokonania wpisu o zawieszeniu uprawnienia lotniczego.",
       "q2": "Nie ma żadnego obowiązku.",
       "q3": "Niezwłocznie zniszczyć druk licencji.",
@@ -1642,11 +1642,11 @@
     },
     {
       "name": "PL010-0236",
-      "text": "Według jakich przepisów odbywasię lot i manewrowanie statku powietrznego na obszarze niepodlegającym zwierzchnictwu żadnego państwa?",
+      "text": "Według jakich przepisów odbywa się lot i manewrowanie statku powietrznego na obszarze niepodlegającym zwierzchnictwu żadnego państwa?",
       "q1": "Zgodnie z przepisami międzynarodowymi.",
       "q2": "Zgodnie z przepisami polskimi.",
-      "q3": "Zgodnie z przepisami kraju rejestracjidanego statku powietrznego.",
-      "q4": "Zgodnie z przepisami kraju z któregonastąpił start danego statku powietrznego ."
+      "q3": "Zgodnie z przepisami kraju rejestracji danego statku powietrznego.",
+      "q4": "Zgodnie z przepisami kraju z którego nastąpił start danego statku powietrznego ."
     },
     {
       "name": "PL010-0237",
@@ -1674,7 +1674,7 @@
     },
     {
       "name": "PL010-0243",
-      "text": "Zgodnie z rozporządzeniem ministrawłaściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R na samolocie wyposażonym w silnik inny niż tłokowy nad obszarami miast o liczbie mieszkańców od 25 000 do 50 000 nie powinien być wykonywany na wysokości mniejszej niż:",
+      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R na samolocie wyposażonym w silnik inny niż tłokowy nad obszarami miast o liczbie mieszkańców od 25 000 do 50 000 nie powinien być wykonywany na wysokości mniejszej niż:",
       "q1": "1000 m AMSL GND.",
       "q2": "600 m AMSL GND.",
       "q3": "1500 m AMSL GND.",
@@ -1682,7 +1682,7 @@
     },
     {
       "name": "PL010-0244",
-      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R na śmigłowcu lub samolocie o napędzie tłokowym nad obszaramimiast o liczbie mieszkańców od 25000 do 50000 nie powinien być wykonywany na wysokości mniejszej niż:",
+      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R na śmigłowcu lub samolocie o napędzie tłokowym nad obszarami miast o liczbie mieszkańców od 25000 do 50000 nie powinien być wykonywany na wysokości mniejszej niż:",
       "q1": "500 m AMSL GND.",
       "q2": "300 m AMSL GND.",
       "q3": "600 m AMSL GND.",
@@ -1698,7 +1698,7 @@
     },
     {
       "name": "PL010-0246",
-      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3miesiące lot w strefie R nad obszarami miast o liczbie mieszkańców powyżej 25 000 nie powinien być wykonywany na wysokości mniejszej niż 500 m:",
+      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R nad obszarami miast o liczbie mieszkańców powyżej 25 000 nie powinien być wykonywany na wysokości mniejszej niż 500 m:",
       "q1": "AMSL GND.",
       "q2": "Od wierzchołka najwyższej przeszkody w promieniu 600 m od statku powietrznego.",
       "q3": "Od wierzchołka najwyższej przeszkody na terenie tego miasta.",
@@ -1714,7 +1714,7 @@
     },
     {
       "name": "PL010-0248",
-      "text": "Zgodnie z rozporządzeniem ministra właściwego dospraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R nad obszarem miasta stołecznego Warszawy  nie powinien być wykonywany na wysokości mniejszej niż:",
+      "text": "Zgodnie z rozporządzeniem ministra właściwego do spraw transportu w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące lot w strefie R nad obszarem miasta stołecznego Warszawy  nie powinien być wykonywany na wysokości mniejszej niż:",
       "q1": "1850 m  AMSL GND.",
       "q2": "1000 m  AMSL GND.",
       "q3": "1500 m  AMSL GND.",
@@ -1738,11 +1738,11 @@
     },
     {
       "name": "PL010-0251",
-      "text": "Członek personelu lotniczego obowiązany jest niezwłocznie zasięgnąć porady lekarza orzecznika w celuprzeprowadzenia badań okolicznościowych i wykluczenia przeciwwskazań do wykonywania określonych czynności lotniczych w przypadku:",
-      "q1": "Pogorszenia się sprawności psychicznej lub fizycznej, w takim stopniu, że może mieć to wpływ na jego zdolność do bezpiecznegowykonywania czynności lotniczych.",
-      "q2": "Pogorszenia się sprawności psychicznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznegowykonywania czynności lotniczych.",
-      "q3": "Doznania urazu nie związanego z ograniczeniem sprawności, umożliwiającego wykonywanieczynności członka personelu lotniczego.",
-      "q4": "Pogorszenia się sprawności fizycznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznegowykonywania czynności lotniczych."
+      "text": "Członek personelu lotniczego obowiązany jest niezwłocznie zasięgnąć porady lekarza orzecznika w celu przeprowadzenia badań okolicznościowych i wykluczenia przeciwwskazań do wykonywania określonych czynności lotniczych w przypadku:",
+      "q1": "Pogorszenia się sprawności psychicznej lub fizycznej, w takim stopniu, że może mieć to wpływ na jego zdolność do bezpiecznego wykonywania czynności lotniczych.",
+      "q2": "Pogorszenia się sprawności psychicznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznego wykonywania czynności lotniczych.",
+      "q3": "Doznania urazu nie związanego z ograniczeniem sprawności, umożliwiającego wykonywanie czynności członka personelu lotniczego.",
+      "q4": "Pogorszenia się sprawności fizycznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznego wykonywania czynności lotniczych."
     },
     {
       "name": "PL010-0252",
@@ -1754,7 +1754,7 @@
     },
     {
       "name": "PL010-0253",
-      "text": "Czy użytkownik statku powietrznego wykonując czynności związane z przeglądami, naprawami i obsługą techniczną statku powietrznego, ma obowiązek powiadamiać Prezesa ULC o wszelkich zdarzeniach i okolicznościach mogących mieć istotne znaczeniedla zdatności statku powietrznego do lotu?",
+      "text": "Czy użytkownik statku powietrznego wykonując czynności związane z przeglądami, naprawami i obsługą techniczną statku powietrznego, ma obowiązek powiadamiać Prezesa ULC o wszelkich zdarzeniach i okolicznościach mogących mieć istotne znaczenie dla zdatności statku powietrznego do lotu?",
       "q1": "Tak.",
       "q2": "Nie, użytkownik nie ma takiego obowiązku.",
       "q3": "Tak, ale tylko jeżeli statek powietrzny jest używany w przewozie.",
@@ -1779,7 +1779,7 @@
     {
       "name": "PL010-0256",
       "text": "Dowódca statku powietrznego ma prawo decydować:",
-      "q1": "O zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń oraz zatrzymaniu osoby zagrażającej porządkowioraz bezpieczeństwu lotu na pokładzie statku powietrznego, do czasu przekazania jej właściwym organom.",
+      "q1": "O zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń oraz zatrzymaniu osoby zagrażającej porządkowi oraz bezpieczeństwu lotu na pokładzie statku powietrznego, do czasu przekazania jej właściwym organom.",
       "q2": "Tylko o zatrzymaniu osoby zagrażającej porządkowi na pokładzie statku powietrznego, do czasu przekazania jej właściwym organom.",
       "q3": "Tylko o zatrzymaniu osoby zagrażającej bezpieczeństwu lotu, do czasu przekazania jej właściwym organom.",
       "q4": "Tylko o zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń."
@@ -1810,7 +1810,7 @@
     },
     {
       "name": "PL010-0294",
-      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służb ruchu lotniczego mogą wezwać cywilny statek powietrzny do wylądowania nawskazanym lotnisku lub do wykonania innych poleceń?",
+      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służb ruchu lotniczego mogą wezwać cywilny statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?",
       "q1": "Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem.",
       "q2": "Gdy statek powietrzny jest zarejestrowany poza UE.",
       "q3": "Gdy statek powietrzny wykonuje lot wbrew decyzjom Ministra Komunikacji.",
@@ -1862,7 +1862,7 @@
       "q1": "Funkcjonariusze Policji podczas wykonywania czynności służbowych.",
       "q2": "Inspektorzy ULC podczas wykonywania czynności służbowych.",
       "q3": "Straż Miejska podczas wykonywania czynności służbowych.",
-      "q4": "Funkcjonariusze Ministerstwa Infrastruktury podczas wykonywaniaczynności służbowych."
+      "q4": "Funkcjonariusze Ministerstwa Infrastruktury podczas wykonywania czynności służbowych."
     },
     {
       "name": "PL010-0303",
@@ -1898,7 +1898,7 @@
     },
     {
       "name": "PL010-0310",
-      "text": "Mając na względzie przeciwdziałanie oddziaływaniu lotnictwa cywilnego na środowisko oraz wymagania wynikające z przepisów międzynarodowych , Minister właściwy do sprawtransportu w porozumieniu z ministrem właściwym do spraw środowiska może:",
+      "text": "Mając na względzie przeciwdziałanie oddziaływaniu lotnictwa cywilnego na środowisko oraz wymagania wynikające z przepisów międzynarodowych , Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw środowiska może:",
       "q1": "W drodze rozporządzenia wprowadzić częściowy lub całkowity zakaz lotów dla statków powietrznych niespełniających wymogów ochrony środowiska w zakresie ochrony przed hałasem.",
       "q2": "W drodze uchwały wprowadzić częściowy zakaz lotów dla statków powietrznych.",
       "q3": "W drodze uchwały wprowadzić częściowy lub całkowity zakaz lotów dla statków powietrznych niespełniających wymogów ochrony środowiska w zakresie ochrony przed hałasem.",
@@ -1930,7 +1930,7 @@
     },
     {
       "name": "PL010-0316",
-      "text": "Oprócz służb ruchu lotniczego statkompowietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:",
+      "text": "Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:",
       "q1": "Służbę meteorologiczną.",
       "q2": "Służbę alarmową.",
       "q3": "Służbę kontroli lotniska.",
@@ -1994,7 +1994,7 @@
     },
     {
       "name": "PL010-0325",
-      "text": "Osoba która odnalazła porzucony statek powietrzny lub jegoszczątki jest obowiązana niezwłocznie zawiadomić:",
+      "text": "Osoba która odnalazła porzucony statek powietrzny lub jego szczątki jest obowiązana niezwłocznie zawiadomić:",
       "q1": "Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy.",
       "q2": "Prezesa ULC.",
       "q3": "Ministra właściwego do spraw transportu.",
@@ -2026,7 +2026,7 @@
     },
     {
       "name": "PL010-0337",
-      "text": "W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych wcelu przedłużenia uprawnień lotniczych:",
+      "text": "W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:",
       "q1": "Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji.",
       "q2": "Prezes ULC zabiera licencję w której jest wpisane uprawnienie.",
       "q3": "Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego.",
@@ -2051,10 +2051,10 @@
     {
       "name": "PL010-0345",
       "text": "W przypadku utraty ważności poprzedniej licencji nową wydaje się po załączeniu do wniosku:",
-      "q1": "Dokumentów potwierdzających spełnienie wymagań dotyczących sprawności psychicznej i fizycznej; dokumentów potwierdzających spełnienie odpowiednichwymagań dotyczących praktyki lotniczej; oraz dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących szkolenia lotniczego teoretycznego i praktycznego.",
+      "q1": "Dokumentów potwierdzających spełnienie wymagań dotyczących sprawności psychicznej i fizycznej; dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących praktyki lotniczej; oraz dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących szkolenia lotniczego teoretycznego i praktycznego.",
       "q2": "Tylko dokumentów potwierdzających spełnienie wymagań dotyczących sprawności psychicznej i fizycznej.",
       "q3": "Tylko dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących praktyki lotniczej.",
-      "q4": "Tylko dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących szkolenia lotniczegoteoretycznego i praktycznego."
+      "q4": "Tylko dokumentów potwierdzających spełnienie odpowiednich wymagań dotyczących szkolenia lotniczego teoretycznego i praktycznego."
     },
     {
       "name": "PL010-0346",
@@ -2066,7 +2066,7 @@
     },
     {
       "name": "PL010-0347",
-      "text": "Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego używanego przez osoby nieuprawnione w celu niedopuszczenia dodalszego jego użytkowania?",
+      "text": "Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego używanego przez osoby nieuprawnione w celu niedopuszczenia do dalszego jego użytkowania?",
       "q1": "Tak, ale tylko po okazaniu legitymacji służbowej.",
       "q2": "Nie.",
       "q3": "Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego.",
@@ -2090,7 +2090,7 @@
     },
     {
       "name": "PL010-0350",
-      "text": "Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli widzialność w lociejest nie mniejsza niż:",
+      "text": "Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli widzialność w locie jest nie mniejsza niż:",
       "q1": "8 km.",
       "q2": "1500 m.",
       "q3": "5 km.",
@@ -2106,7 +2106,7 @@
     },
     {
       "name": "PL010-0352",
-      "text": "Nie mając przydzielonego indywidualnego kodu SSR, wlatując w locie IFR w przestrzeń powietrzną, gdzie na potrzeby służby ruchu lotniczego wykorzystywany jest radar wtórny, dowódca statku powietrznego wyposażonego w transponder powinien włączyćgo w modzie A na kod:",
+      "text": "Nie mając przydzielonego indywidualnego kodu SSR, wlatując w locie IFR w przestrzeń powietrzną, gdzie na potrzeby służby ruchu lotniczego wykorzystywany jest radar wtórny, dowódca statku powietrznego wyposażonego w transponder powinien włączyć go w modzie A na kod:",
       "q1": "2000",
       "q2": "7000",
       "q3": "7600",
@@ -2130,7 +2130,7 @@
     },
     {
       "name": "PL010-0355",
-      "text": "Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany, jeżeliodległość pozioma od chmur jest:",
+      "text": "Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany, jeżeli odległość pozioma od chmur jest:",
       "q1": "Nie mniejsza niż 1500 m.",
       "q2": "Nie mniejsza niż 3 km.",
       "q3": "Nie mniejsza niż 5 km.",
@@ -2194,11 +2194,11 @@
     },
     {
       "name": "PL010-0364",
-      "text": "Czy działalność ośrodka szkolenialotniczego podlega certyfikacji?",
+      "text": "Czy działalność ośrodka szkolenia lotniczego podlega certyfikacji?",
       "q1": "Tak.",
       "q2": "Nie.",
-      "q3": "Tak, ale tylko w przypadku kiedyośrodek chce wykonywać szkolenia na statkach powietrznych o masie powyżej 5700 kg.",
-      "q4": "Tak, ale tylko w przypadku kiedyośrodek chce wykonywać szkolenia na śmigłowcach."
+      "q3": "Tak, ale tylko w przypadku kiedy ośrodek chce wykonywać szkolenia na statkach powietrznych o masie powyżej 5700 kg.",
+      "q4": "Tak, ale tylko w przypadku kiedy ośrodek chce wykonywać szkolenia na śmigłowcach."
     },
     {
       "name": "PL010-0365",
@@ -2306,7 +2306,7 @@
     },
     {
       "name": "PL010-0379",
-      "text": "Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego znajdującego się w nieodpowiednimstanie technicznym w celu niedopuszczenia do dalszego jego używania?",
+      "text": "Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego znajdującego się w nieodpowiednim stanie technicznym w celu niedopuszczenia do dalszego jego używania?",
       "q1": "Tak, ale tylko po okazaniu legitymacji służbowej.",
       "q2": "Nie.",
       "q3": "Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego.",
@@ -2338,10 +2338,10 @@
     },
     {
       "name": "PL010-0383",
-      "text": "Czym się charakteryzuje szkoleniepraktyczne na ziemi i w locie?",
+      "text": "Czym się charakteryzuje szkolenie praktyczne na ziemi i w locie?",
       "q1": "Nauczaniem umiejętności praktycznych – dla pilotów wszystkich specjalności.",
-      "q2": "Nauczaniem wiedzy lotniczej – dla wszystkichspecjalności członków personelu lotniczego.",
-      "q3": "Nauczaniem naziemnymkontrolerów ruchu lotniczego.",
+      "q2": "Nauczaniem wiedzy lotniczej – dla wszystkich specjalności członków personelu lotniczego.",
+      "q3": "Nauczaniem naziemnym kontrolerów ruchu lotniczego.",
       "q4": "Odbyciem nadzorowanej praktyki lotniczej."
     },
     {
@@ -2378,11 +2378,11 @@
     },
     {
       "name": "PL010-0390",
-      "text": "Do lotniska dolatuje statek powietrzny bezłączności. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał czerwony. Oznacza to, że:",
-      "q1": "Należy dać pierwszeństwo drogi innym statkompowietrznym i kontynuować okrążenie.",
+      "text": "Do lotniska dolatuje statek powietrzny bez łączności. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał czerwony. Oznacza to, że:",
+      "q1": "Należy dać pierwszeństwo drogi innym statkom powietrznym i kontynuować okrążenie.",
       "q2": "Lotnisko nie jest bezpieczne, nie lądować.",
       "q3": "Zezwala się lądować.",
-      "q4": "Należy lądować na tym lotnisku ikołować do płyty postojowej."
+      "q4": "Należy lądować na tym lotnisku i kołować do płyty postojowej."
     },
     {
       "name": "PL010-0391",
@@ -2395,9 +2395,9 @@
     {
       "name": "PL010-0392",
       "text": "Dowódca statku powietrznego ma prawo decydować o:",
-      "q1": "Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń oraz w stosunku do osób zagrażających bezpieczeństwu lotu lubporządkowi na pokładzie statku powietrznego, a także zatrzymaniu osoby podejrzanej o popełnienie przestępstwa na statku powietrznym do czasu przekazania jej właściwym organom.",
+      "q1": "Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń oraz w stosunku do osób zagrażających bezpieczeństwu lotu lub porządkowi na pokładzie statku powietrznego, a także zatrzymaniu osoby podejrzanej o popełnienie przestępstwa na statku powietrznym do czasu przekazania jej właściwym organom.",
       "q2": "Tylko o zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń.",
-      "q3": "Tylko o zastosowani niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób zagrażających bezpieczeństwu lotu lub porządkowi napokładzie statku powietrznego.",
+      "q3": "Tylko o zastosowani niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób zagrażających bezpieczeństwu lotu lub porządkowi na pokładzie statku powietrznego.",
       "q4": "Tylko o zatrzymaniu osoby podejrzanej o popełnienie przestępstwa na statku powietrznym do czasu przekazania jej właściwym organom."
     },
     {
@@ -2410,7 +2410,7 @@
     },
     {
       "name": "PL010-0394",
-      "text": "Dowódca uprowadzanego statku powietrznego, jeżeli nie ma innej możliwości powiadomienia służby ruchu lotniczego owymuszonej zmianie trasy lotu, powinien:",
+      "text": "Dowódca uprowadzanego statku powietrznego, jeżeli nie ma innej możliwości powiadomienia służby ruchu lotniczego o wymuszonej zmianie trasy lotu, powinien:",
       "q1": "Zmienić wysokość lotu o 500 ft  (1000 ft powyżej FL 410).",
       "q2": "Wykonywać skręty o 360 stopni w regularnych odstępach czasu.",
       "q3": "Zmienić wysokość lotu o 1000 ft  (2000 ft powyżej FL 410).",
@@ -2418,7 +2418,7 @@
     },
     {
       "name": "PL010-0395",
-      "text": "Gdy dowódca statku powietrznego wykonując lot kontrolowany przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się od czasu, który został podany służbom ruchu lotniczego, to powinien podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawionyprzewidywany czas, jeżeli różnica jest większa niż:",
+      "text": "Gdy dowódca statku powietrznego wykonując lot kontrolowany przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się od czasu, który został podany służbom ruchu lotniczego, to powinien podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas, jeżeli różnica jest większa niż:",
       "q1": "3 minuty.",
       "q2": "1 minuta.",
       "q3": "5 minut.",
@@ -2434,7 +2434,7 @@
     },
     {
       "name": "PL010-0398",
-      "text": "Gdy dowódca statku powietrznego wykonując lot kontrolowany VFR przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego,który z powyższych punktów będzie pierwszy, różni się o więcej niż trzy minuty od czasu, który został podany służbom ruchu lotniczego, powinien:",
+      "text": "Gdy dowódca statku powietrznego wykonując lot kontrolowany VFR przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się o więcej niż trzy minuty od czasu, który został podany służbom ruchu lotniczego, powinien:",
       "q1": "Podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas.",
       "q2": "Dostosować prędkość tak, aby czasy przelotu były zgodne z podanymi w planie lotu.",
       "q3": "Kontynuować przez trzy minuty lot z aktualną prędkością a następnie poprosić właściwy organ służby kontroli ruchu lotniczego o zezwolenie na zmianę trasy lotu tak, aby przejść znaczące punkty nawigacyjne w granicach tolerancji czasu.",
@@ -2562,7 +2562,7 @@
     },
     {
       "name": "PL010-0414",
-      "text": "Jakie jednostki prędkości oznaczane są wplanie lotu literą \"\"N\"\"?",
+      "text": "Jakie jednostki prędkości oznaczane są w planie lotu literą \"\"N\"\"?",
       "q1": "Węzły.",
       "q2": "Kilometry na godzinę.",
       "q3": "Liczba Macha.",
@@ -2644,8 +2644,8 @@
       "name": "PL010-0425",
       "text": "Jakie ma uprawnienia posiadacz licencji pilota samolotowego turystycznego?",
       "q1": "Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotu używanego w celach niezarobkowych.",
-      "q2": "Jest uprawniony do wykonywania za wynagrodzeniem czynności dowódcy i drugiego pilota każdego samolotuużywanego nieodpłatnie.",
-      "q3": "Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotuużywanego odpłatnie.",
+      "q2": "Jest uprawniony do wykonywania za wynagrodzeniem czynności dowódcy i drugiego pilota każdego samolotu używanego nieodpłatnie.",
+      "q3": "Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotu używanego odpłatnie.",
       "q4": "Jest uprawniony do zabrania lub pozostawienia pasażerów, bagażu lub poczty (przewożonych odpłatnie)."
     },
     {
@@ -2682,7 +2682,7 @@
     },
     {
       "name": "PL010-0430",
-      "text": "Jeżeli  lot VFR ma być wykonany wprzestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić przed przewidywanym przybyciem statku powietrznego do zamierzonego punktu przecięcia drogi lotniczej nie później, niż:",
+      "text": "Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić przed przewidywanym przybyciem statku powietrznego do zamierzonego punktu przecięcia drogi lotniczej nie później, niż:",
       "q1": "10 min.",
       "q2": "30 min.",
       "q3": "60 min.",
@@ -2714,7 +2714,7 @@
     },
     {
       "name": "PL010-0434",
-      "text": "Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, będzie naruszać przestrzeń powietrzną kontrolowaną to plan lotu należy dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przedrozpoczęciem lotu, niż:",
+      "text": "Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, będzie naruszać przestrzeń powietrzną kontrolowaną to plan lotu należy dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przed rozpoczęciem lotu, niż:",
       "q1": "60 min.",
       "q2": "30 min.",
       "q3": "10 min.",
@@ -2730,7 +2730,7 @@
     },
     {
       "name": "PL010-0437",
-      "text": "Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, nie będzie naruszać przestrzeni powietrznej kontrolowanej lub nie będzie przekraczać granicy FIR-u, to zgodnie z pkt. 7.2 Biuletynu VFR, plan lotu należy dostarczyć do Biura OdprawZałóg lub właściwego terytorialnie ośrodka FIS nie później przed rozpoczęciem lotu, niż:",
+      "text": "Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, nie będzie naruszać przestrzeni powietrznej kontrolowanej lub nie będzie przekraczać granicy FIR-u, to zgodnie z pkt. 7.2 Biuletynu VFR, plan lotu należy dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przed rozpoczęciem lotu, niż:",
       "q1": "30 min.",
       "q2": "60 min.",
       "q3": "10 min.",
@@ -2746,7 +2746,7 @@
     },
     {
       "name": "PL010-0439",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy B nad zgromadzeniem osób na wolnympowietrzu na wysokości względnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy B nad zgromadzeniem osób na wolnym powietrzu na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 m above the highest obstacle.",
@@ -2762,7 +2762,7 @@
     },
     {
       "name": "PL010-0441",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy D nad zgromadzeniem osób na wolnym powietrzu na wysokościwzględnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy D nad zgromadzeniem osób na wolnym powietrzu na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 m above the highest obstacle.",
@@ -2802,7 +2802,7 @@
     },
     {
       "name": "PL010-0446",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą byćwykonywane w przestrzeni klasy B nad miastami na wysokości względnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy B nad miastami na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 nad najwyższą przeszkodą.",
@@ -2826,7 +2826,7 @@
     },
     {
       "name": "PL010-0449",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne zewzględu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy E nad miastami na wysokości względnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy E nad miastami na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 nad najwyższą przeszkodą.",
@@ -2866,10 +2866,10 @@
     },
     {
       "name": "PL010-0455",
-      "text": "Jeżeli zdarzenie nastąpiło na obszarzekonkretnego państwa, to według prawa jakiego państwa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych?",
+      "text": "Jeżeli zdarzenie nastąpiło na obszarze konkretnego państwa, to według prawa jakiego państwa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych?",
       "q1": "Według prawa państwa, na którego obszarze zdarzenie nastąpiło.",
-      "q2": "Według prawa państwa, w którym jest zarejestrowanystatek powietrzny ponoszący winę za zderzenie.",
-      "q3": "Według prawa państwa , w którym jest zarejestrowanystatek powietrzny nie ponoszący winy za zderzenie.",
+      "q2": "Według prawa państwa, w którym jest zarejestrowany statek powietrzny ponoszący winę za zderzenie.",
+      "q3": "Według prawa państwa , w którym jest zarejestrowany statek powietrzny nie ponoszący winy za zderzenie.",
       "q4": "Według prawa państwa, którego sąd rozpoznaje spór."
     },
     {
@@ -2922,7 +2922,7 @@
     },
     {
       "name": "PL010-0463",
-      "text": "Ile można zaliczyć godzin na szkoleniowych urządzeniach symulacji lotu (FSTD) do uzyskania licencji pilotasamolotowego turystycznego?",
+      "text": "Ile można zaliczyć godzin na szkoleniowych urządzeniach symulacji lotu (FSTD) do uzyskania licencji pilota samolotowego turystycznego?",
       "q1": "5 godzin.",
       "q2": "15 godzin .",
       "q3": "10 godzin.",
@@ -3002,7 +3002,7 @@
     },
     {
       "name": "PL010-0475",
-      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organywojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?",
+      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?",
       "q1": "Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia.",
       "q2": "Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota.",
       "q3": "Kiedy nie ma opłaty nawigacyjnej.",
@@ -3018,7 +3018,7 @@
     },
     {
       "name": "PL010-0477",
-      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogąwezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?",
+      "text": "Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?",
       "q1": "Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem.",
       "q2": "Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota.",
       "q3": "Kiedy nie ma opłaty nawigacyjnej.",
@@ -3034,7 +3034,7 @@
     },
     {
       "name": "PL010-0483",
-      "text": "Kiedy Prezes ULC ma prawo uznać zezwolenie na lot statku powietrznego bez świadectwa zdatności do lotu wydane lub potwierdzone przez właściwy organinnego państwa na równi z zezwoleniami na lot statku powietrznego bez świadectwa zdatności do lotu wydanymi w Rzeczypospolitej Polskiej?",
+      "text": "Kiedy Prezes ULC ma prawo uznać zezwolenie na lot statku powietrznego bez świadectwa zdatności do lotu wydane lub potwierdzone przez właściwy organ innego państwa na równi z zezwoleniami na lot statku powietrznego bez świadectwa zdatności do lotu wydanymi w Rzeczypospolitej Polskiej?",
       "q1": "Jeżeli zostanie wykazane, że wymagania przyjęte przy wydawaniu lub potwierdzaniu tych zezwoleń na lot statku powietrznego bez świadectwa zdatności do lotu nie były niższe niż określone zgodnie z ustawą Prawo Lotnicze.",
       "q2": "Prezes ULC nie ma takiego prawa.",
       "q3": "Tylko w przypadku wydania zgody na taką czynność przez ministra właściwego do spraw transportu.",
@@ -3098,7 +3098,7 @@
     },
     {
       "name": "PL010-0494",
-      "text": "Kto ma prawo uznać potwierdzenie spełnianie przez statek powietrzny wymagań dotyczących ochrony środowiska wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi z potwierdzeniami spełnienia przez statek powietrzny wymagań dotyczącychochrony środowiska wydanymi w Rzeczypospolitej Polskiej?",
+      "text": "Kto ma prawo uznać potwierdzenie spełnianie przez statek powietrzny wymagań dotyczących ochrony środowiska wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi z potwierdzeniami spełnienia przez statek powietrzny wymagań dotyczących ochrony środowiska wydanymi w Rzeczypospolitej Polskiej?",
       "q1": "Prezes ULC.",
       "q2": "Minister właściwy do spraw transportu.",
       "q3": "Organizacja obsługująca dany statek powietrzny.",
@@ -3114,7 +3114,7 @@
     },
     {
       "name": "PL010-0496",
-      "text": "Kto ma prawo uznać, świadectwo zdatności do lotu statku powietrznego wydane lub potwierdzone przezwłaściwy organ innego państwa, za ważne na równi ze świadectwami zdatności do lotu statku powietrznego wydanymi w Rzeczypospolitej Polskiej?",
+      "text": "Kto ma prawo uznać, świadectwo zdatności do lotu statku powietrznego wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi ze świadectwami zdatności do lotu statku powietrznego wydanymi w Rzeczypospolitej Polskiej?",
       "q1": "Prezes ULC.",
       "q2": "Minister właściwy do spraw transportu.",
       "q3": "Organizacja obsługująca dany statek powietrzny.",
@@ -3187,7 +3187,7 @@
     {
       "name": "PL010-0506",
       "text": "Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?",
-      "q1": "Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba że użycie statkupowietrznego nastąpiło bez jej winy.",
+      "q1": "Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba że użycie statku powietrznego nastąpiło bez jej winy.",
       "q2": "Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba.",
       "q3": "Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody.",
       "q4": "Ubezpieczyciel."
@@ -3250,7 +3250,7 @@
     },
     {
       "name": "PL010-0515",
-      "text": "Z wyjątkiem sytuacji, gdy organ kontroli ruchu lotniczego udzieli specjalnego zezwolenia, wlotach VFR nie startuje się ani nie ląduje na lotnisku znajdującym się w strefie kontrolowanej gdy:",
+      "text": "Z wyjątkiem sytuacji, gdy organ kontroli ruchu lotniczego udzieli specjalnego zezwolenia, w lotach VFR nie startuje się ani nie ląduje na lotnisku znajdującym się w strefie kontrolowanej gdy:",
       "q1": "Widzialność przy ziemi jest mniejsza niż 5 km.",
       "q2": "Widzialność przy ziemi jest mniejsza niż 4 km.",
       "q3": "Widzialność przy ziemi jest mniejsza niż 6 km.",
@@ -3274,7 +3274,7 @@
     },
     {
       "name": "PL010-0521",
-      "text": "Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany zprędkością nie większą, niż:",
+      "text": "Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany z prędkością nie większą, niż:",
       "q1": "Prędkość poddźwiękowa.",
       "q2": "250 kt TAS.",
       "q3": "463 km/h TAS.",
@@ -3314,7 +3314,7 @@
     },
     {
       "name": "PL010-0526",
-      "text": "Meldunek „Na długiej prostej” jestpodawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
+      "text": "Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
       "q1": "15 km.",
       "q2": "8 km.",
       "q3": "15 NM.",
@@ -3330,7 +3330,7 @@
     },
     {
       "name": "PL010-0528",
-      "text": "Meldunek „Na prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgunadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od punktu przyziemienia:",
+      "text": "Meldunek „Na prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od punktu przyziemienia:",
       "q1": "7 km.",
       "q2": "15 km.",
       "q3": "10 km.",
@@ -3355,10 +3355,10 @@
     {
       "name": "PL010-0531",
       "text": "MSA na mapie procedury podejścia oznacza:",
-      "q1": "Minimum Sector Altitude – najniższą wysokość bezwzględną jaka może być stosowana, która zapewnia  minimalne przewyższenie nad przeszkodami wynoszące300 m (1000 ft) nad wszystkimi obiektami znajdującymi się na wycinku koła o promieniu 46 km (25 NM), wychodzącym od pomocy radionawigacyjnej.",
+      "q1": "Minimum Sector Altitude – najniższą wysokość bezwzględną jaka może być stosowana, która zapewnia  minimalne przewyższenie nad przeszkodami wynoszące 300 m (1000 ft) nad wszystkimi obiektami znajdującymi się na wycinku koła o promieniu 46 km (25 NM), wychodzącym od pomocy radionawigacyjnej.",
       "q2": "Minimum Sector Altitude - Minimalną, sektorową wysokość względną lotu dla lotu IFR poza CTR.",
       "q3": "Minimum Safe Altitude – Minimalną bezpieczną  wysokość bezwzględną lotu dla lotów IFR i VFR poza CTA.",
-      "q4": "Minimum Safe Altitude - wysokość bezwzględną dla danego obszaru zapewniającą minimalne przewyższenie nadprzeszkodami dla lotu IFR."
+      "q4": "Minimum Safe Altitude - wysokość bezwzględną dla danego obszaru zapewniającą minimalne przewyższenie nad przeszkodami dla lotu IFR."
     },
     {
       "name": "PL010-0532",
@@ -3378,9 +3378,9 @@
     },
     {
       "name": "PL010-0535",
-      "text": "O ile może zostać zmniejszony czas 45 godzin lotu na samolotach jednosilnikowychtłokowych, kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem licencji pilota wiatrakowcowego zawodowego?",
-      "q1": "O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego,jednak nie więcej niż 10 godzin.",
-      "q2": "O 20 godzin pod warunkiem prowadzenia szkolenia według programu szkoleniazatwierdzonego dla tego typu kandydatów.",
+      "text": "O ile może zostać zmniejszony czas 45 godzin lotu na samolotach jednosilnikowych tłokowych, kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem licencji pilota wiatrakowcowego zawodowego?",
+      "q1": "O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin.",
+      "q2": "O 20 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów.",
       "q3": "O 10 godzin.",
       "q4": "Nie ma takiej możliwości."
     },
@@ -3402,7 +3402,7 @@
     },
     {
       "name": "PL010-0538",
-      "text": "O ile może zostać zmniejszony czaslotów do licencji pilota samolotowego turystycznego, kiedy kandydat jest posiadaczem licencji pilota śmigłowcowego?",
+      "text": "O ile może zostać zmniejszony czas lotów do licencji pilota samolotowego turystycznego, kiedy kandydat jest posiadaczem licencji pilota śmigłowcowego?",
       "q1": "O nie więcej niż 10 godzin.",
       "q2": "O 15 godzin.",
       "q3": "Nie ma takiej możliwości.",
@@ -3458,7 +3458,7 @@
     },
     {
       "name": "PL010-0545",
-      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotuwg oznaczeń stosowanych w planach lotów - lot IFR:",
+      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot IFR:",
       "q1": "I.",
       "q2": "V.",
       "q3": "X.",
@@ -3482,7 +3482,7 @@
     },
     {
       "name": "PL010-0548",
-      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych wplanach lotów - lot nierozkładowy lotnictwa komunikacyjnego:",
+      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot nierozkładowy lotnictwa komunikacyjnego:",
       "q1": "N.",
       "q2": "X.",
       "q3": "S.",
@@ -3506,7 +3506,7 @@
     },
     {
       "name": "PL010-0552",
-      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeństosowanych w planach lotów – najpierw lot IFR, potem lot VFR:",
+      "text": "Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów – najpierw lot IFR, potem lot VFR:",
       "q1": "Y.",
       "q2": "X.",
       "q3": "I.",
@@ -3538,7 +3538,7 @@
     },
     {
       "name": "PL010-0559",
-      "text": "Podstawowym dokumentem zawierającym informacje lotnicze autoryzowane przez właściwewładze państwa jest:",
+      "text": "Podstawowym dokumentem zawierającym informacje lotnicze autoryzowane przez właściwe władze państwa jest:",
       "q1": "AIP -  Zbiór Informacji Lotniczych.",
       "q2": "Dokumentacja JEPPESEN.",
       "q3": "Podręcznik pilota.",
@@ -3572,9 +3572,9 @@
       "name": "PL010-0563",
       "text": "Poziom przelotu (Cruising Level) jest to:",
       "q1": "Poziom utrzymywany podczas znacznej części lotu.",
-      "q2": "Wyrażenie ogólne odnoszące się do pozycji statku powietrznego w lociew płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu..",
-      "q3": "Płaszczyzna izobaryczna odniesiona do wartości ciśnienia1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę ciśnienia.",
-      "q4": "Płaszczyzna izobaryczna odniesiona do wartości ciśnienia1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę wysokości."
+      "q2": "Wyrażenie ogólne odnoszące się do pozycji statku powietrznego w locie w płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu..",
+      "q3": "Płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę ciśnienia.",
+      "q4": "Płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę wysokości."
     },
     {
       "name": "PL010-0564",
@@ -3594,7 +3594,7 @@
     },
     {
       "name": "PL010-0566",
-      "text": "Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny kołuje po lotnisku. Aby zatrzymać ten statek w miejscu, w którym sięznajduje, kierujący lotami powinien użyć sygnału świetlnego:",
+      "text": "Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny kołuje po lotnisku. Aby zatrzymać ten statek w miejscu, w którym się znajduje, kierujący lotami powinien użyć sygnału świetlnego:",
       "q1": "Ciągłe światło czerwone.",
       "q2": "Seria błysków zielonych.",
       "q3": "Seria błysków białych.",
@@ -3610,7 +3610,7 @@
     },
     {
       "name": "PL010-0568",
-      "text": "Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby nakazać temu statkowi powrót do punktu wyjściowego na lotnisku kierującylotami powinien użyć sygnału świetlnego:",
+      "text": "Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby nakazać temu statkowi powrót do punktu wyjściowego na lotnisku kierujący lotami powinien użyć sygnału świetlnego:",
       "q1": "Seria błysków białych.",
       "q2": "Ciągłe światło czerwone.",
       "q3": "Seria błysków zielonych.",
@@ -3666,7 +3666,7 @@
     },
     {
       "name": "PL010-0575",
-      "text": "Rada Ministrów w drodze rozporządzenia wprowadza zakazy iograniczenia w ruchu lotniczym, niezbędne ze względu na:",
+      "text": "Rada Ministrów w drodze rozporządzenia wprowadza zakazy i ograniczenia w ruchu lotniczym, niezbędne ze względu na:",
       "q1": "Zobowiązania RP wynikające z wiążących uchwał Rady Bezpieczeństwa ONZ.",
       "q2": "Poszukiwanie i ratownictwo.",
       "q3": "Służbę zdrowia.",
@@ -3698,7 +3698,7 @@
     },
     {
       "name": "PL010-0580",
-      "text": "Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy Dseparacje  między statkami powietrznymi wykonującymi loty:",
+      "text": "Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy D separacje  między statkami powietrznymi wykonującymi loty:",
       "q1": "IFR od IFR.",
       "q2": "IFR od VFR.",
       "q3": "VFR od  IFR.",
@@ -3714,7 +3714,7 @@
     },
     {
       "name": "PL010-0582",
-      "text": "Statek powietrzny nie zgłosił się w ciągu 30 minut po: a) przewidywanym czasie przylotu podanym przez pilota; b) ostatnio potwierdzonym spodziewanym czasie podejścia; w zależności od tego, który z tych czasów jest najpóźniejszy, odpowiednie informacje dotyczące tego statku powinny być przekazane użytkownikom statkówpowietrznych lub ich upoważnionym przedstawicielom oraz dowódcom innych zainteresowanych statków powietrznych i na ich życzenie powinna być podjęta normalna kontrola ruchu lotniczego. Za podjęcie decyzji w sprawie dalszego, normalnego kontynuowania lotów lub też za podjęcie innego działania odpowiedzialni są:",
+      "text": "Statek powietrzny nie zgłosił się w ciągu 30 minut po: a) przewidywanym czasie przylotu podanym przez pilota; b) ostatnio potwierdzonym spodziewanym czasie podejścia; w zależności od tego, który z tych czasów jest najpóźniejszy, odpowiednie informacje dotyczące tego statku powinny być przekazane użytkownikom statków powietrznych lub ich upoważnionym przedstawicielom oraz dowódcom innych zainteresowanych statków powietrznych i na ich życzenie powinna być podjęta normalna kontrola ruchu lotniczego. Za podjęcie decyzji w sprawie dalszego, normalnego kontynuowania lotów lub też za podjęcie innego działania odpowiedzialni są:",
       "q1": "Dowódcy statków powietrznych oraz użytkownicy statków powietrznych lub ich wyznaczeni przedstawiciele.",
       "q2": "Służby portowe /Dyżurny Operacyjny Lotniska/.",
       "q3": "Kontrola ruchu lotniczego  w przestrzeni odpowiedzialności tego lotniska.",
@@ -3730,7 +3730,7 @@
     },
     {
       "name": "PL010-0584",
-      "text": "Statek powietrzny porusza się po lotnisku. Przezprzypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków białych. Oznacza to, że:",
+      "text": "Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków białych. Oznacza to, że:",
       "q1": "Należy wracać do punktu wyjściowego na lotnisku.",
       "q2": "Należy zatrzymać się.",
       "q3": "Zezwala się kołować.",
@@ -3746,7 +3746,7 @@
     },
     {
       "name": "PL010-0586",
-      "text": "Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnikzostała zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków zielonych. Oznacza to, że:",
+      "text": "Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków zielonych. Oznacza to, że:",
       "q1": "Zezwala się kołować.",
       "q2": "Należy wracać do punktu wyjściowego na lotnisku.",
       "q3": "Należy zatrzymać się.",
@@ -3762,7 +3762,7 @@
     },
     {
       "name": "PL010-0588",
-      "text": "Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwośćradiowa. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał zielony. Oznacza to, że:",
+      "text": "Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał zielony. Oznacza to, że:",
       "q1": "Zezwala się startować.",
       "q2": "Płyta postojowa zajęta.",
       "q3": "Należy wracać do punktu wyjściowego na lotnisku.",
@@ -3786,7 +3786,7 @@
     },
     {
       "name": "PL010-0591",
-      "text": "Strefa identyfikacji obrony powietrznej (ADIZ) jest to przestrzeń powietrzna, która rozciąga się wzdłużgranicy państwowej w głąb kraju do odległości:",
+      "text": "Strefa identyfikacji obrony powietrznej (ADIZ) jest to przestrzeń powietrzna, która rozciąga się wzdłuż granicy państwowej w głąb kraju do odległości:",
       "q1": "15 km.",
       "q2": "2,5 km.",
       "q3": "10 km.",
@@ -3826,7 +3826,7 @@
     },
     {
       "name": "PL010-0596",
-      "text": "Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300 m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany zprędkością nie większą, niż:",
+      "text": "Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300 m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany z prędkością nie większą, niż:",
       "q1": "250 kt IAS.",
       "q2": "250 kt TAS.",
       "q3": "463 km/h TAS.",
@@ -3898,7 +3898,7 @@
     },
     {
       "name": "PL010-0610",
-      "text": "W planach lotu wysokość bezwzględną wsetkach stóp oznacza się literą:",
+      "text": "W planach lotu wysokość bezwzględną w setkach stóp oznacza się literą:",
       "q1": "A.",
       "q2": "M.",
       "q3": "Z.",
@@ -3930,7 +3930,7 @@
     },
     {
       "name": "PL010-0614",
-      "text": "W przypadku akcji przechwytywania dowódca przechwytywanego statku powietrznegopowinien włączyć kod transpondera:",
+      "text": "W przypadku akcji przechwytywania dowódca przechwytywanego statku powietrznego powinien włączyć kod transpondera:",
       "q1": "7700",
       "q2": "7500",
       "q3": "7600",
@@ -3962,7 +3962,7 @@
     },
     {
       "name": "PL010-0624",
-      "text": "W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM FAILURE) pilot nastawiatransponder w modzie „A” na kod:",
+      "text": "W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM FAILURE) pilot nastawia transponder w modzie „A” na kod:",
       "q1": "7600",
       "q2": "7500",
       "q3": "7700",
@@ -3986,7 +3986,7 @@
     },
     {
       "name": "PL010-0627",
-      "text": "W strefie kontrolowanej lotniska objętej klasą C dowódca statku powietrznego wykonującego lot VFR jest odpowiedzialny za separacje  z innymistatkami powietrznymi wykonującymi lot:",
+      "text": "W strefie kontrolowanej lotniska objętej klasą C dowódca statku powietrznego wykonującego lot VFR jest odpowiedzialny za separacje  z innymi statkami powietrznymi wykonującymi lot:",
       "q1": "VFR.",
       "q2": "IFR.",
       "q3": "VFR - specjalny.",
@@ -4010,11 +4010,11 @@
     },
     {
       "name": "PL010-0630",
-      "text": "Według prawa jakiego państwa ocenia sięroszczenia o szkody powstałe  w razie zderzenia statków powietrznych, jeżeli statki powietrzne, mają tę samą przynależność państwową?",
-      "q1": "Według prawa państwa przynależności statków powietrznych, bez względuna miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa.",
-      "q2": "Według prawa państwa, na któregoobszarze zdarzenie nastąpiło.",
+      "text": "Według prawa jakiego państwa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych, jeżeli statki powietrzne, mają tę samą przynależność państwową?",
+      "q1": "Według prawa państwa przynależności statków powietrznych, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa.",
+      "q2": "Według prawa państwa, na którego obszarze zdarzenie nastąpiło.",
       "q3": "Według prawa państwa, którego sąd rozpoznaje spór.",
-      "q4": "Według prawa państwa , z którego startował statekpowietrzny nie ponoszący winy za zderzenie."
+      "q4": "Według prawa państwa , z którego startował statek powietrzny nie ponoszący winy za zderzenie."
     },
     {
       "name": "PL010-0631",
@@ -4026,7 +4026,7 @@
     },
     {
       "name": "PL010-0633",
-      "text": "Wykonując lot VFR w FIR WARSZAWA, nie mając przydzielonego indywidualnego kodu SSR, wlatując w przestrzeń powietrzną, gdzie na potrzeby służby kontroli ruchu lotniczego wykorzystywanyjest radar wtórny, pilot powinien włączyć transponder ustawiając go w modzie A na kod:",
+      "text": "Wykonując lot VFR w FIR WARSZAWA, nie mając przydzielonego indywidualnego kodu SSR, wlatując w przestrzeń powietrzną, gdzie na potrzeby służby kontroli ruchu lotniczego wykorzystywany jest radar wtórny, pilot powinien włączyć transponder ustawiając go w modzie A na kod:",
       "q1": "7000",
       "q2": "2000",
       "q3": "7500",
@@ -4066,7 +4066,7 @@
     },
     {
       "name": "PL010-1337",
-      "text": "Jeżeli nie podano inaczej w zezwoleniu kontroliruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C przelot poziomy może się odbyć na",
+      "text": "Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C przelot poziomy może się odbyć na",
       "q1": "wysokości bezwzględnej 600 m",
       "q2": "wysokości bezwzględnej 1250 m",
       "q3": "wysokości bezwzględnej 1450 m",
@@ -4106,7 +4106,7 @@
     },
     {
       "name": "PL010-1535",
-      "text": "Wyrażenie ogólne obejmujące odpowiednio służbę informacji powietrznej, służbę alarmową, służbę doradczą ruchu lotniczego, służbękontroli ruchu lotniczego (służba kontroli obszaru, służba kontroli zbliżania lub służba kontroli lotniska) to:",
+      "text": "Wyrażenie ogólne obejmujące odpowiednio służbę informacji powietrznej, służbę alarmową, służbę doradczą ruchu lotniczego, służbę kontroli ruchu lotniczego (służba kontroli obszaru, służba kontroli zbliżania lub służba kontroli lotniska) to:",
       "q1": "Służba ruchu lotniczego.",
       "q2": "Służba łączności, nawigacji i dozorowania .",
       "q3": "Służba meteorologiczna.",
@@ -4178,7 +4178,7 @@
     },
     {
       "name": "PL010-1544",
-      "text": "Kto jest centralnym organem administracjirządowej właściwym w sprawach lotnictwa cywilnego w Polsce?",
+      "text": "Kto jest centralnym organem administracji rządowej właściwym w sprawach lotnictwa cywilnego w Polsce?",
       "q1": "Prezes ULC.",
       "q2": "Minister Komunikacji.",
       "q3": "Minister Lotnictwa.",
@@ -4266,7 +4266,7 @@
     },
     {
       "name": "PL010-1556",
-      "text": "Który Załącznik do Konwencji o MiędzynarodowymLotnictwie Cywilnym określa Służby ruchu lotniczego?",
+      "text": "Który Załącznik do Konwencji o Międzynarodowym Lotnictwie Cywilnym określa Służby ruchu lotniczego?",
       "q1": "Załącznik 11.",
       "q2": "Załącznik 2.",
       "q3": "Załącznik 1.",
@@ -4298,7 +4298,7 @@
     },
     {
       "name": "PL010-1560",
-      "text": "Gdzie osoba ubiegająca się o licencję SPL, BPLlub PPL musi ukończyć szkolenie lotnicze?",
+      "text": "Gdzie osoba ubiegająca się o licencję SPL, BPL lub PPL musi ukończyć szkolenie lotnicze?",
       "q1": "W ATO.",
       "q2": "W AHAC.",
       "q3": "W CTO.",
@@ -4338,7 +4338,7 @@
     },
     {
       "name": "PL010-1566",
-      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazaćpodczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
+      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazać podczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
       "q1": "Prawo lotnicze.",
       "q2": "Prawo cywilne.",
       "q3": "Prawo karne.",
@@ -4362,7 +4362,7 @@
     },
     {
       "name": "PL010-1569",
-      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazaćpodczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
+      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazać podczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
       "q1": "Meteorologia.",
       "q2": "Funkcje życiowe człowieka.",
       "q3": "Trasa lotu.",
@@ -4386,7 +4386,7 @@
     },
     {
       "name": "PL010-1572",
-      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazaćpodczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
+      "text": "Kandydat ubiegający się o uzyskanie licencji pilota turystycznego (PPL) powinien wykazać podczas egzaminu teoretycznego, że posiada wiedzę w zakresie przedmiotu:",
       "q1": "Zasady lotu.",
       "q2": "Aerodynamika.",
       "q3": "Trasa lotu.",
@@ -4414,7 +4414,7 @@
       "q1": "Funkcjonariusze Straży Granicznej podczas wykonywania czynności służbowych.",
       "q2": "Inspektorzy ULC podczas wykonywania czynności służbowych.",
       "q3": "Straż Miejska podczas wykonywania czynności służbowych.",
-      "q4": "Funkcjonariusze Ministerstwa Infrastruktury podczas wykonywaniaczynności służbowych."
+      "q4": "Funkcjonariusze Ministerstwa Infrastruktury podczas wykonywania czynności służbowych."
     },
     {
       "name": "PL010-1576",
@@ -4434,7 +4434,7 @@
     },
     {
       "name": "PL010-1578",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane wprzestrzeni klasy D nad lasami na wysokości względnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy D nad lasami na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 nad najwyższą przeszkodą.",
@@ -4458,7 +4458,7 @@
     },
     {
       "name": "PL010-1581",
-      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na startlub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy G nad lasami na wysokości względnej mniejszej niż:",
+      "text": "Z wyjątkiem sytuacji, gdy jest to konieczne ze względu na start lub lądowanie loty VFR nie mogą być wykonywane w przestrzeni klasy G nad lasami na wysokości względnej mniejszej niż:",
       "q1": "300 m nad najwyższą przeszkodą.",
       "q2": "250 nad najwyższą przeszkodą.",
       "q3": "200 nad najwyższą przeszkodą.",
@@ -4570,8 +4570,8 @@
     },
     {
       "name": "PL099-0014",
-      "text": "Do zestawu pierwszej pomocypowinien być dołączony:",
-      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO(„ground-air visual signal code for use by survivors”)",
+      "text": "Do zestawu pierwszej pomocy powinien być dołączony:",
+      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)",
       "q2": "jedynie podręcznik pierwszej pomocy",
       "q3": "podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO",
       "q4": "Aneks 12 ICAO"
@@ -4594,7 +4594,7 @@
     },
     {
       "name": "PL099-0017",
-      "text": "Gdy w czasie lotu rzeczywista ilość paliwa użytecznego w zbiornikach samolotu jest mniejsza od ostatecznej rezerwy paliwa, dowódca statkupowietrznego powinien:",
+      "text": "Gdy w czasie lotu rzeczywista ilość paliwa użytecznego w zbiornikach samolotu jest mniejsza od ostatecznej rezerwy paliwa, dowódca statku powietrznego powinien:",
       "q1": "zgłosić sytuację awaryjną",
       "q2": "zamówić paliwo na lotnisku lądowania",
       "q3": "natychmiast lądować w terenie przygodnym",
@@ -4690,11 +4690,11 @@
     },
     {
       "name": "PL099-0030",
-      "text": "Czy wskazane jest przed lotemzapoznanie się z właściwościami spadochronu który jest do dyspozycji?",
-      "q1": "Tak- szczególnie istotne informacje to minimalnawysokość skoku przy różnych prędkościach i różnych konfiguracjach lotu,maksymalne prędkości użycia i dopuszczalny ciężar pilota",
-      "q2": "Nie jest to konieczne - z każdymspadochronem można wyskoczyć z tej samej wysokości a na prędkość lotu nie mamy wpływu podczas sytuacji przymusowej",
-      "q3": "Nie jest to konieczne – wszystkiespadochrony zawsze otwierają się z wysokości nie mniejszej niż 100 m i mają zapewnić bezpieczeństwo dla każdego przeciętnego pilota w całym zakresie prędkości statku powietrznego",
-      "q4": "Tak – właściwości spadochronu mogąbyć inne przy rożnej wilgotności powietrza"
+      "text": "Czy wskazane jest przed lotem zapoznanie się z właściwościami spadochronu który jest do dyspozycji?",
+      "q1": "Tak- szczególnie istotne informacje to minimalna wysokość skoku przy różnych prędkościach i różnych konfiguracjach lotu,maksymalne prędkości użycia i dopuszczalny ciężar pilota",
+      "q2": "Nie jest to konieczne - z każdym spadochronem można wyskoczyć z tej samej wysokości a na prędkość lotu nie mamy wpływu podczas sytuacji przymusowej",
+      "q3": "Nie jest to konieczne – wszystkie spadochrony zawsze otwierają się z wysokości nie mniejszej niż 100 m i mają zapewnić bezpieczeństwo dla każdego przeciętnego pilota w całym zakresie prędkości statku powietrznego",
+      "q4": "Tak – właściwości spadochronu mogą być inne przy rożnej wilgotności powietrza"
     },
     {
       "name": "PL099-0031",
@@ -4722,7 +4722,7 @@
     },
     {
       "name": "PL099-0034",
-      "text": "Na użytkowanie samolotu pozaograniczeniami wyznaczonymi w głównym wykazie wyposażenia minimalnego (Master Minimum Equipment List - MMEL) może zezwolić:",
+      "text": "Na użytkowanie samolotu poza ograniczeniami wyznaczonymi w głównym wykazie wyposażenia minimalnego (Master Minimum Equipment List - MMEL) może zezwolić:",
       "q1": "nie można zezwolić",
       "q2": "Prezes ULC",
       "q3": "dowódca statku powietrznego",
@@ -4786,7 +4786,7 @@
     },
     {
       "name": "PL099-0042",
-      "text": "Osobę zatrzymaną na pokładzie statku powietrznego podejrzaną odokonanie przestępstwa przekazuje się:",
+      "text": "Osobę zatrzymaną na pokładzie statku powietrznego podejrzaną o dokonanie przestępstwa przekazuje się:",
       "q1": "Organom Policji lub Straży Granicznej",
       "q2": "Służbie Więziennej",
       "q3": "Straży Ochrony Lotniska",
@@ -4850,7 +4850,7 @@
     },
     {
       "name": "PL099-0050",
-      "text": "Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tegowymagają złożyć organowi, który otrzymał zawiadomienie:",
+      "text": "Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają złożyć organowi, który otrzymał zawiadomienie:",
       "q1": "Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni",
       "q2": "Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni",
       "q3": "Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym",
@@ -4934,7 +4934,7 @@
       "q1": "około 3-7 m/s",
       "q2": "około 6-9 m/s",
       "q3": "około 8 m/s",
-      "q4": "nie uzyska certyfikatu spadochron któryopada z prędkością większą niż 4 m/s"
+      "q4": "nie uzyska certyfikatu spadochron który opada z prędkością większą niż 4 m/s"
     },
     {
       "name": "PL099-0061",
@@ -4962,7 +4962,7 @@
     },
     {
       "name": "PL099-0064",
-      "text": "Przepisy dotyczące sygnałów, stosowanych w akcjach poszukiwawczo -ratowniczych znajdują się w:",
+      "text": "Przepisy dotyczące sygnałów, stosowanych w akcjach poszukiwawczo - ratowniczych znajdują się w:",
       "q1": "Aneksie 12 ICAO",
       "q2": "Aneksie 6 ICAO",
       "q3": "Aneksie 2 ICAO",
@@ -5002,8 +5002,8 @@
     },
     {
       "name": "PL099-0070",
-      "text": "Statek powietrzny, wymagający asysty statku morskiego i nie mogącynawiązać z nim łączności radiowej, powinien:",
-      "q1": "okrążyć statek morski co najmniej raz i przeciąć przedłużenie jego liniidrogi na możliwie małej wysokości",
+      "text": "Statek powietrzny, wymagający asysty statku morskiego i nie mogący nawiązać z nim łączności radiowej, powinien:",
+      "q1": "okrążyć statek morski co najmniej raz i przeciąć przedłużenie jego linii drogi na możliwie małej wysokości",
       "q2": "przelecieć za rufą statku na małej wysokości",
       "q3": "przelecieć wzdłuż lewej burty statku",
       "q4": "cyklicznie zwiększać i zmniejszać wysokość lotu"
@@ -5026,7 +5026,7 @@
     },
     {
       "name": "PL099-0073",
-      "text": "Szczegółowe czynności dyspozytora lotniczego w przypadku zagrożenia bezpieczeństwa nadzorowanej przez dyspozytoraoperacji lotniczej, są opisane w:",
+      "text": "Szczegółowe czynności dyspozytora lotniczego w przypadku zagrożenia bezpieczeństwa nadzorowanej przez dyspozytora operacji lotniczej, są opisane w:",
       "q1": "Instrukcji Operacyjnej",
       "q2": "AIP",
       "q3": "ustawie „Prawo Lotnicze",
@@ -5090,7 +5090,7 @@
     },
     {
       "name": "PL099-0081",
-      "text": "W instalacji elektrycznej samolotu za napięcieniebezpieczne dla życia uważa się:",
+      "text": "W instalacji elektrycznej samolotu za napięcie niebezpieczne dla życia uważa się:",
       "q1": "110 V / 400 Hz",
       "q2": "36 V / 400 Hz",
       "q3": "27 V",
@@ -5138,8 +5138,8 @@
     },
     {
       "name": "PL099-0087",
-      "text": "W przypadku stwierdzenia przez załogę/dowódcę statku powietrznego zagrożenia bezpieczeństwa innego statkupowietrznego należy:",
-      "q1": "Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statkupowietrznego, pasażerów, załogi.",
+      "text": "W przypadku stwierdzenia przez załogę/dowódcę statku powietrznego zagrożenia bezpieczeństwa innego statku powietrznego należy:",
+      "q1": "Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.",
       "q2": "Użyć wszelkich środków do udzielenia pomocy naruszając nawet przepisy lotnicze.",
       "q3": "Powiadomić odpowiednie służby lotnicze.",
       "q4": "Powiadomić odpowiednie służby lotnicze i działać według ich poleceń."
@@ -5170,8 +5170,8 @@
     },
     {
       "name": "PL099-0091",
-      "text": "W trakcie wykonywania lotupilot statku powietrznego powinien mieć zapięte pasy w czasie:",
-      "q1": "podczas startu i lądowania oraz zawsze, kiedydowódca uzna to za konieczne",
+      "text": "W trakcie wykonywania lotu pilot statku powietrznego powinien mieć zapięte pasy w czasie:",
+      "q1": "podczas startu i lądowania oraz zawsze, kiedy dowódca uzna to za konieczne",
       "q2": "przez cały czas trwania lotu",
       "q3": "w czasie startu i lądowania",
       "q4": "występowania turbulencji"
@@ -5210,7 +5210,7 @@
     },
     {
       "name": "PL099-0096",
-      "text": "Za zapewnienie, aby wszyscy członkowie załogi lotniczej mogli porozumiewać się we wspólnymjęzyku jest odpowiedzialny:",
+      "text": "Za zapewnienie, aby wszyscy członkowie załogi lotniczej mogli porozumiewać się we wspólnym języku jest odpowiedzialny:",
       "q1": "przewoźnik lub dysponent statku powietrznego",
       "q2": "dowódca statku powietrznego",
       "q3": "Urząd Lotnictwa Cywilnego",
@@ -5373,7 +5373,7 @@
     {
       "name": "PL020-0018",
       "text": "Przeznaczenie klap skrzydłowych:",
-      "q1": "Zasadniczym przeznaczeniem klap jestzwiększenie współczynnika siły nośnej skrzydła",
+      "q1": "Zasadniczym przeznaczeniem klap jest zwiększenie współczynnika siły nośnej skrzydła",
       "q2": "Służą głównie jako hamulec aerodynamiczny",
       "q3": "Służą głównie do polepszenia efektywności lotek",
       "q4": "Służą do sterowania przechyleniem w osi podłużnej samolotu"
@@ -5438,7 +5438,7 @@
       "name": "PL020-0029",
       "text": "Automatyczny układ przeciw poślizgowy zabudowany jest i służy:",
       "q1": "Nadajnik na każdym hamowanym kole podwozia głównego i przeciwdziała powstaniu poślizgu poprzez odpowiednie odhamowanie",
-      "q2": "Nadajnik na wybranym hamowanym kole podwozia głównego i całkowicie rozhamowujewszystkie koła przy powstaniu poślizgu",
+      "q2": "Nadajnik na wybranym hamowanym kole podwozia głównego i całkowicie rozhamowuje wszystkie koła przy powstaniu poślizgu",
       "q3": "Stosowane jest na kołach podwozia przedniego i zabezpiecza przed poślizgiem w czasie skrętu kołami",
       "q4": "Zabudowane na podwoziu głównym i odhamowuje koła przed przyziemieniem"
     },
@@ -5508,7 +5508,7 @@
     },
     {
       "name": "PL020-0041",
-      "text": "Co stanowi nadajnik temperatury olejuw układzie trójwskazówkoweg o kontrolera parametrów silnika:",
+      "text": "Co stanowi nadajnik temperatury oleju w układzie trójwskazówkoweg o kontrolera parametrów silnika:",
       "q1": "drut oporowy",
       "q2": "element magnetyczny",
       "q3": "dioda",
@@ -5604,7 +5604,7 @@
     },
     {
       "name": "PL020-0054",
-      "text": "Do czego służy termometrtemperatury cylindrów:",
+      "text": "Do czego służy termometr temperatury cylindrów:",
       "q1": "pomiaru temperatury cylindrów silnika",
       "q2": "pomiaru ciśnienia oleju",
       "q3": "pomiaru ciśnienia ładowania",
@@ -5724,7 +5724,7 @@
     },
     {
       "name": "PL020-0069",
-      "text": "Elementy skrzydła, na których zainstalowana jestinstalacja przeciw oblodzeniowa:",
+      "text": "Elementy skrzydła, na których zainstalowana jest instalacja przeciw oblodzeniowa:",
       "q1": "Krawędź natarcia",
       "q2": "Górna powierzchnia skrzydła",
       "q3": "Krawędź spływu",
@@ -5796,7 +5796,7 @@
     },
     {
       "name": "PL020-0080",
-      "text": "Ilość oleju w silniku kontrolowana jestzazwyczaj z wykorzystaniem",
+      "text": "Ilość oleju w silniku kontrolowana jest zazwyczaj z wykorzystaniem",
       "q1": "Miarki bagnetowej",
       "q2": "Wskaźnika w kabinie",
       "q3": "Zasady naczyń połączonych",
@@ -5844,7 +5844,7 @@
     },
     {
       "name": "PL020-0086",
-      "text": "Jaka powinna być minimalna wartość napięcia akumulatora na samolocie ,sprawdzanego pod obciążeniem:",
+      "text": "Jaka powinna być minimalna wartość napięcia akumulatora na samolocie , sprawdzanego pod obciążeniem:",
       "q1": "24 V  lub 12 V",
       "q2": "40 V",
       "q3": "15 V",
@@ -5892,7 +5892,7 @@
     },
     {
       "name": "PL020-0094",
-      "text": "Jaki przyrząd określa położenie przestrzennesamolotu podczas lotu:",
+      "text": "Jaki przyrząd określa położenie przestrzenne samolotu podczas lotu:",
       "q1": "sztuczny horyzont",
       "q2": "wskaźnik radiowysokościomier za",
       "q3": "prędkościomierz",
@@ -6180,7 +6180,7 @@
     },
     {
       "name": "PL020-0132",
-      "text": "Oddzielacze powietrza z olejusilnikowego ze względu na sposób ich działania dzielimy na",
+      "text": "Oddzielacze powietrza z oleju silnikowego ze względu na sposób ich działania dzielimy na",
       "q1": "Statyczne i dynamiczne",
       "q2": "Odśrodkowe i dynamiczne",
       "q3": "Bezwładnościowe i statyczne",
@@ -6244,7 +6244,7 @@
     },
     {
       "name": "PL020-0143",
-      "text": "Optymalna temperatura olejuw silniku to (<sup>°</sup>C)",
+      "text": "Optymalna temperatura oleju w silniku to (<sup>°</sup>C)",
       "q1": "90-100",
       "q2": "30-40",
       "q3": "50-70",
@@ -6340,7 +6340,7 @@
     },
     {
       "name": "PL020-0156",
-      "text": "Pomocnicze pompy podające paliwozazwyczaj napędzane są",
+      "text": "Pomocnicze pompy podające paliwo zazwyczaj napędzane są",
       "q1": "elektrycznie",
       "q2": "od silnika",
       "q3": "ręcznie",
@@ -6468,7 +6468,7 @@
     },
     {
       "name": "PL020-0173",
-      "text": "Przydzielone pasmo częstotliwości w zakresie UKF dla łączności radiowejw lotnictwie cywilnym to:",
+      "text": "Przydzielone pasmo częstotliwości w zakresie UKF dla łączności radiowej w lotnictwie cywilnym to:",
       "q1": "118,00 – 136,975 MHz",
       "q2": "105,00 – 131,00 MHz",
       "q3": "95,00 – 101,00 MHz",
@@ -6604,7 +6604,7 @@
     },
     {
       "name": "PL020-0191",
-      "text": "Słuchawki i mikrofony załogi w większości statków powietrznych zradiostacją połączono:",
+      "text": "Słuchawki i mikrofony załogi w większości statków powietrznych z radiostacją połączono:",
       "q1": "Przez skrzynki ASP.(Audio Selector Panel) z rosyjska SPU.",
       "q2": "Słuchawki bezpośrednio do odbiornika.",
       "q3": "Mikrofony bezpośrednio do nadajnika.",
@@ -6676,11 +6676,11 @@
     },
     {
       "name": "PL020-0200",
-      "text": "Stopy aluminium używane są wbudowie samolotów na:",
-      "q1": "Jest to zasadniczy materiał na konstrukcje zespołówpłatowca bez głównych elementów siłowych i wytrzymałościowych",
-      "q2": "Używany jako podstawowy materiałna konstrukcje okuć i sworzni połączeniowych skrzydło – kadłub",
+      "text": "Stopy aluminium używane są w budowie samolotów na:",
+      "q1": "Jest to zasadniczy materiał na konstrukcje zespołów płatowca bez głównych elementów siłowych i wytrzymałościowych",
+      "q2": "Używany jako podstawowy materiał na konstrukcje okuć i sworzni połączeniowych skrzydło – kadłub",
       "q3": "Konstrukcję podwozia",
-      "q4": "Konstrukcję zespołów silników odpornychna wysoką temperaturę"
+      "q4": "Konstrukcję zespołów silników odpornych na wysoką temperaturę"
     },
     {
       "name": "PL020-0201",
@@ -6844,7 +6844,7 @@
     },
     {
       "name": "PL020-0223",
-      "text": "W silniku chłodzonym powietrzemnajbardziej użebrowane są okolice",
+      "text": "W silniku chłodzonym powietrzem najbardziej użebrowane są okolice",
       "q1": "Zaworu wylotowego",
       "q2": "Zaworu wlotowego",
       "q3": "Dolna część cylindra",
@@ -6940,7 +6940,7 @@
     },
     {
       "name": "PL020-0235",
-      "text": "Z jakiego zapasowego źródła zasilania gdy jestawaria prądnicy prądu stałego",
+      "text": "Z jakiego zapasowego źródła zasilania gdy jest awaria prądnicy prądu stałego",
       "q1": "akumulatora",
       "q2": "prądnicy prądu przemiennego",
       "q3": "przetwornicy",
@@ -6988,10 +6988,10 @@
     },
     {
       "name": "PL020-0241",
-      "text": "Zakrętomierz jako przyrząd żyroskopowycharakteryzuje się tym że:",
+      "text": "Zakrętomierz jako przyrząd żyroskopowy charakteryzuje się tym że:",
       "q1": "mierzy prędkość precesji przechylenia",
       "q2": "ma oś główną poziomą",
-      "q3": "mierzy odchylenie kierunku linii magnetycznych odpłaszczyzny horyzontu",
+      "q3": "mierzy odchylenie kierunku linii magnetycznych od płaszczyzny horyzontu",
       "q4": "mierzy ciśnienie lotniska"
     },
     {
@@ -7061,7 +7061,7 @@
     {
       "name": "PL020-0251",
       "text": "Zestaw urządzeń łączności składa się z:",
-      "q1": "Radiostacji UKF,ASP (Audio Selektor Panel z rosyjskaSPU) oraz słuchawek i mikrofonów.",
+      "q1": "Radiostacji UKF,ASP (Audio Selektor Panel z rosyjska SPU) oraz słuchawek i mikrofonów.",
       "q2": "Radiostacji KF i SGU.",
       "q3": "Radiostacji średniofalowej i mikrofonów.",
       "q4": "Słuchawek i zespołów kontrolnych."
@@ -7111,7 +7111,7 @@
     {
       "name": "PL030-0002",
       "text": "Błąd temperaturowy wysokościomierza pojawia się, gdy:",
-      "q1": "Gradient zmiany temperatury jest inny niż standardowy –  czyli warunki różnią się od tych zdefiniowanychMiędzynarodową Atmosferą Wzorcową.",
+      "q1": "Gradient zmiany temperatury jest inny niż standardowy –  czyli warunki różnią się od tych zdefiniowanych Międzynarodową Atmosferą Wzorcową.",
       "q2": "Gradient zmiany ciśnienia jest inny niż standardowy.",
       "q3": "Wysokościomierz został nagrzany (np.w świetle słonecznym) do wysokiej temperatury.",
       "q4": "Ciśnienie npm (Mean Sea Level) różni się od wartości 1013.25hPa."
@@ -7150,7 +7150,7 @@
     },
     {
       "name": "PL030-0010",
-      "text": "Ważenie statku powietrznego (SP): odczyt na wadzepod przednim podwoziem 155 kg, odczyt – suma na głównym 320 kg. Odległość przód SP – przednie podwozie 0.8m, przód SP - główne 2.4 m. Jaka jest odległość przód SP – środek ciężkości?",
+      "text": "Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 155 kg, odczyt – suma na głównym 320 kg. Odległość przód SP – przednie podwozie 0.8m, przód SP - główne 2.4 m. Jaka jest odległość przód SP – środek ciężkości?",
       "q1": "1.88 m",
       "q2": "2.92",
       "q3": "3.2",
@@ -7176,9 +7176,9 @@
       "name": "PL030-0025",
       "text": "Wysokość ciśnieniową lotniska danego dnia możemy ustalić:",
       "q1": "Odczytując wysokość wskazywaną przez wysokościomierz nastawiony na 1013.2 hPa.",
-      "q2": "Odczytujemy wysokość z wysokościomierza nastawionego na 1013.2hPa, anastępnie korygujemy ją, ze względu odczytaną temperaturę otoczenia.",
-      "q3": "Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, anastępnie skorygujemyją ze względu odczytaną temperaturę otoczenia.",
-      "q4": "Zawsze odczytując wysokość wskazywaną przez wysokościomierznastawiony na aktualne QNH."
+      "q2": "Odczytujemy wysokość z wysokościomierza nastawionego na 1013.2hPa, a następnie korygujemy ją, ze względu odczytaną temperaturę otoczenia.",
+      "q3": "Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, a następnie skorygujemyją ze względu odczytaną temperaturę otoczenia.",
+      "q4": "Zawsze odczytując wysokość wskazywaną przez wysokościomierz nastawiony na aktualne QNH."
     },
     {
       "name": "PL030-0027",
@@ -7209,7 +7209,7 @@
       "text": "Co to jest V<sub>X</sub>:.",
       "q1": "To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.",
       "q2": "To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.",
-      "q3": "To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania ikontynuowania startu.",
+      "q3": "To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.",
       "q4": "To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu."
     },
     {
@@ -7246,7 +7246,7 @@
     },
     {
       "name": "PL030-0045",
-      "text": "Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku) wysokatemperatura otoczenia w porównaniu z przypadkiem, gdy temperatura otoczenia jest niska:.",
+      "text": "Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku) wysoka temperatura otoczenia w porównaniu z przypadkiem, gdy temperatura otoczenia jest niska:.",
       "q1": "Zwiększenie długości rozbiegu.",
       "q2": "Zmniejszenie długości rozbiegu.",
       "q3": "Temperatura otoczenia nie ma wpływu na długość rozbiegu.",
@@ -7278,11 +7278,11 @@
     },
     {
       "name": "PL030-0049",
-      "text": "Jakie będą efekty zmianytemperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmnienione:.",
-      "q1": "Spadek temperatury otoczenia spowodujewzrost gradientu wznoszenia.",
-      "q2": "Wzrost temperatury otoczenia spowodujespadek wymaganego dystansu do startu.",
-      "q3": "Spadek temperatury otoczenia spowodujewzrost wymaganego dystansu do startu.",
-      "q4": "Wzrost temperatury otoczenia spowodujespadek wymaganego dystansu do startu i lądowania."
+      "text": "Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmnienione:.",
+      "q1": "Spadek temperatury otoczenia spowoduje wzrost gradientu wznoszenia.",
+      "q2": "Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.",
+      "q3": "Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.",
+      "q4": "Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu i lądowania."
     },
     {
       "name": "PL030-0050",
@@ -7304,9 +7304,9 @@
       "name": "PL030-0057",
       "text": "Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:.",
       "q1": "Ze względu na konieczność większego wychylenia steru wysokości – wzrasta wymagana siła nośna na płacie – zwiększa się opór indukowany, co negatywnie wpływa na osiągi.",
-      "q2": "Ze względu na konieczność mniejszego wychylenia steru wysokości – zmniejsza się siła nośna na usterzeniu, co wymagazwiększenia siły nosniej na płacie co zmniejsza opór indukowany i ma negatywny wpływ na osiągi.",
-      "q3": "Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejszasię prędkość przeciągniecia.",
-      "q4": "Ze względu na konieczność większego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zwiększasię prędkość przeciągniecia."
+      "q2": "Ze względu na konieczność mniejszego wychylenia steru wysokości – zmniejsza się siła nośna na usterzeniu, co wymaga zwiększenia siły nosniej na płacie co zmniejsza opór indukowany i ma negatywny wpływ na osiągi.",
+      "q3": "Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza się prędkość przeciągniecia.",
+      "q4": "Ze względu na konieczność większego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zwiększa się prędkość przeciągniecia."
     },
     {
       "name": "PL030-0059",
@@ -7350,7 +7350,7 @@
     },
     {
       "name": "PL030-0064",
-      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczyniąsię największego spadku osiągów samolotu:.",
+      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:.",
       "q1": "duża temperatura, duża wysokość gęstościowa, duża wilgotność.",
       "q2": "mała temperatura, duża wysokość gestościowa, mała wilgotność.",
       "q3": "duża temperatura, mała wysokość gestościowa, małą wilgotność.",
@@ -7518,7 +7518,7 @@
     },
     {
       "name": "PL030-0111",
-      "text": "Ważenie samolotu: przednie kółko 1000kg, lewe i prawe koła główne po 5000kg. Odległość między kółkiem przednim i głównymi wynosi10 m. Ile przed kołami głównego podwozia znajduje się środek masy:",
+      "text": "Ważenie samolotu: przednie kółko 1000kg, lewe i prawe koła główne po 5000kg. Odległość między kółkiem przednim i głównymi wynosi 10 m. Ile przed kołami głównego podwozia znajduje się środek masy:",
       "q1": "0.91 m",
       "q2": "0.75 m",
       "q3": "9.1 m",
@@ -7617,7 +7617,7 @@
     {
       "name": "PL040-0015",
       "text": "Asertywność relacjach międzyludzkich to:",
-      "q1": "zachowanie, w którym potrafimy wyrazić siebie z pełną wiarą we własne możliwości, niezachowując się biernie , ulegle, czy manipulująco",
+      "q1": "zachowanie, w którym potrafimy wyrazić siebie z pełną wiarą we własne możliwości, nie zachowując się biernie , ulegle, czy manipulująco",
       "q2": "nastawienie na unikanie konfliktów i postawy uległe",
       "q3": "stanowcza i władcza postawa w kontaktach z ludźmi",
       "q4": "umiejętność instrumentalnego manipulowania ludźmi"
@@ -7712,7 +7712,7 @@
     },
     {
       "name": "PL040-0031",
-      "text": "Choroba powietrzną jest reakcją organizmu na niewielkie zmienne przyspieszeniepodczas lotu i jest zależna od :",
+      "text": "Choroba powietrzną jest reakcją organizmu na niewielkie zmienne przyspieszenie podczas lotu i jest zależna od :",
       "q1": "podrażnienie błędnika /narządu przedsionkowego/",
       "q2": "podrażnienie ślimaka /narządu słuchu /",
       "q3": "narządu wzroku",
@@ -7768,7 +7768,7 @@
     },
     {
       "name": "PL040-0040",
-      "text": "Ciśnienie parcjalne tlenu w pęcherzyku płucnym w stosunku dociśnienia parcjalnego tlenu w powietrzu na danej wysokości jest:",
+      "text": "Ciśnienie parcjalne tlenu w pęcherzyku płucnym w stosunku do ciśnienia parcjalnego tlenu w powietrzu na danej wysokości jest:",
       "q1": "niższe",
       "q2": "wyższe",
       "q3": "takie samo",
@@ -7848,7 +7848,7 @@
     },
     {
       "name": "PL040-0050",
-      "text": "Czynny pilot podczas wizyty u lekarza, który proponuje mu lekiuspokajające, powinien:",
+      "text": "Czynny pilot podczas wizyty u lekarza, który proponuje mu leki uspokajające, powinien:",
       "q1": "skontaktować się z odpowiednim centrum medycyny lotniczej celem weryfikacji stanu zdrowia",
       "q2": "zacząć je zażywać i latać dalej",
       "q3": "nigdy ich nie zażywać",
@@ -7992,11 +7992,11 @@
     },
     {
       "name": "PL040-0070",
-      "text": "Funkcje integracyjne człowieka wukładzie sterowania pilot – statek powietrzny obejmują podstawowe procesy :",
-      "q1": "intelektualne, emocjonalno-motywacyjne, orientacji i wykonawcze",
+      "text": "Funkcje integracyjne człowieka w układzie sterowania pilot – statek powietrzny obejmują podstawowe procesy :",
+      "q1": "intelektualne, emocjonalno- motywacyjne, orientacji i wykonawcze",
       "q2": "złożone procesy myślowe analizy i syntezy",
       "q3": "antycypacji, czyli przewidywania biegu wydarzeń",
-      "q4": "decyzyjne w sytuacji wyboru – gdy występuje możliwośćpojawienia się więcej niż jednej reakcji w danym zadaniu"
+      "q4": "decyzyjne w sytuacji wyboru – gdy występuje możliwość pojawienia się więcej niż jednej reakcji w danym zadaniu"
     },
     {
       "name": "PL040-0071",
@@ -8032,7 +8032,7 @@
     },
     {
       "name": "PL040-0075",
-      "text": "Jaka jest najczęstszaprzyczyna pourazowej śmierci „do uniknięcia” u dorosłego pacjenta po doznanym urazie?",
+      "text": "Jaka jest najczęstsza przyczyna pourazowej śmierci „do uniknięcia” u dorosłego pacjenta po doznanym urazie?",
       "q1": "niedrożność dróg oddechowych",
       "q2": "tamponada osierdzia",
       "q3": "wstrząs krwotoczny",
@@ -8080,11 +8080,11 @@
     },
     {
       "name": "PL040-0084",
-      "text": "Komunikacja niewerbalna czylitzw. „mowa ciała” to:",
-      "q1": "podlegająca kontroli komunikacja bezsłowna oparta na przekazieinformacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach zachowań ludzkich",
+      "text": "Komunikacja niewerbalna czyli tzw. „mowa ciała” to:",
+      "q1": "podlegająca kontroli komunikacja bezsłowna oparta na przekazie informacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach zachowań ludzkich",
       "q2": "wygląd zewnętrzny człowieka i jego komunikatywność",
-      "q3": "siła, barwa i tembr głosu oraz intonacjaw przekazie werbalnym",
-      "q4": "głęboko ukryte, niewypowiedzianemyśli  i pragnienia człowieka"
+      "q3": "siła, barwa i tembr głosu oraz intonacja w przekazie werbalnym",
+      "q4": "głęboko ukryte, niewypowiedziane myśli  i pragnienia człowieka"
     },
     {
       "name": "PL040-0085",
@@ -8113,7 +8113,7 @@
     {
       "name": "PL040-0088",
       "text": "Krwawienie z przedramienia może być chwilowo zatamowane przez :",
-      "q1": "doraźny ucisk na tętnicę ramienną np. palcami rąk w połowie długościramienia po jego stronie wewnętrznej",
+      "q1": "doraźny ucisk na tętnicę ramienną np. palcami rąk w połowie długości ramienia po jego stronie wewnętrznej",
       "q2": "doraźny ucisk na tętnicę promieniową (uciśnięcie nadgarstka)",
       "q3": "doraźny ucisk na tętnicę udową",
       "q4": "doraźny ucisk na tętnicę szyjną (uciśnięcie bocznej części szyi)"
@@ -8144,7 +8144,7 @@
     },
     {
       "name": "PL040-0092",
-      "text": "Które z poniższych jest najczęstszą przyczyną zatrzymania krążenia u pacjentapo doznanym urazie?",
+      "text": "Które z poniższych jest najczęstszą przyczyną zatrzymania krążenia u pacjenta po doznanym urazie?",
       "q1": "niedotlenienie",
       "q2": "uraz mózgu",
       "q3": "stłuczenie serca",
@@ -8184,7 +8184,7 @@
     },
     {
       "name": "PL040-0097",
-      "text": "Który z kierunków przelotu jest najbardziejniekorzystny z punktu widzenia chronobiologii:",
+      "text": "Który z kierunków przelotu jest najbardziej niekorzystny z punktu widzenia chronobiologii:",
       "q1": "zachód – wschód",
       "q2": "północ – południe",
       "q3": "wschód – zachód",
@@ -8232,7 +8232,7 @@
     },
     {
       "name": "PL040-0103",
-      "text": "Leki, które są przeciwwskazane w przy operowaniu maszynami  (np.prowadzeniu samochodu) :",
+      "text": "Leki, które są przeciwwskazane w przy operowaniu maszynami  (np. prowadzeniu samochodu) :",
       "q1": "są zawsze zakazane w lotnictwie",
       "q2": "nie są przeciwwskazane w lotnictwie sportowym",
       "q3": "nie są przeciwwskazane u pilotów liniowych",
@@ -8281,9 +8281,9 @@
     {
       "name": "PL040-0113",
       "text": "Nagły ból zęba podczas lotu może być spowodowany",
-      "q1": "pęcherzykiem powietrza pod wypełnieniem(plombą) i występuje przy wznoszeniu",
-      "q2": "pęcherzykiem powietrza pod wypełnieniem(plombą) i występuje przy zmniejszaniu wysokości",
-      "q3": "pęcherzykiem powietrza pod wypełnieniem iwystępuje zarówno przy wznoszeniu i zmniejszaniu wysokości",
+      "q1": "pęcherzykiem powietrza pod wypełnieniem (plombą) i występuje przy wznoszeniu",
+      "q2": "pęcherzykiem powietrza pod wypełnieniem (plombą) i występuje przy zmniejszaniu wysokości",
+      "q3": "pęcherzykiem powietrza pod wypełnieniem i występuje zarówno przy wznoszeniu i zmniejszaniu wysokości",
       "q4": "lotem bez zmiany wysokości"
     },
     {
@@ -8320,7 +8320,7 @@
     },
     {
       "name": "PL040-0118",
-      "text": "Najważniejszym czynnikiem wpływającym na nieprzystosowaniezdrowotne pilotów jest :",
+      "text": "Najważniejszym czynnikiem wpływającym na nieprzystosowanie zdrowotne pilotów jest :",
       "q1": "indywidualne różnice w wydolności funkcjonalnej wynikające z cech struktury osobowości",
       "q2": "zbyt racjonalne i trafne szacowanie ryzyka",
       "q3": "niezaspokojenie potrzeb wyższych związanych z poziomem aspiracji",
@@ -8496,7 +8496,7 @@
     },
     {
       "name": "PL040-0141",
-      "text": "Objawy zespołu odstawiennego (popularnego \"kaca\") mogą być równie groźne podczas lotu jaksam stan upojenia alkoholowego :",
+      "text": "Objawy zespołu odstawiennego (popularnego \"kaca\") mogą być równie groźne podczas lotu jak sam stan upojenia alkoholowego :",
       "q1": "teza jest prawdziwa",
       "q2": "teza jest fałszywa",
       "q3": "teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej",
@@ -8585,10 +8585,10 @@
     {
       "name": "PL040-0153",
       "text": "Osobowość to:",
-      "q1": "względnie stała i trwała organizacja cech temperamentu, intelektu, charakteru,oraz konstytucji fizycznej człowieka determinującaspecyficzny sposób przystosowania się jednostki do otoczenia",
+      "q1": "względnie stała i trwała organizacja cech temperamentu, intelektu, charakteru,oraz konstytucji fizycznej człowieka determinująca specyficzny sposób przystosowania się jednostki do otoczenia",
       "q2": "system postaw i wartości człowieka",
-      "q3": "struktura psychicznych dyspozycji do określonych zachowań i gotowościreagowania na bodźce środowiskowe",
-      "q4": "grupa skorelowanych cech danej osoby ulegająca płynnymi znacznym zmianom w ciągu całego życia inabywania doświadczeń"
+      "q3": "struktura psychicznych dyspozycji do określonych zachowań i gotowości reagowania na bodźce środowiskowe",
+      "q4": "grupa skorelowanych cech danej osoby ulegająca płynnymi znacznym zmianom w ciągu całego życia i nabywania doświadczeń"
     },
     {
       "name": "PL040-0154",
@@ -8632,11 +8632,11 @@
     },
     {
       "name": "PL040-0159",
-      "text": "Pilot nie powinien przed lotem spożywaćpokarmów powodujących zwiększane wytwarzanie gazów w jelitach oraz napojów gazowanych",
-      "q1": "ponieważ gazy uwięzione w jelitach mogąpowodować ból brzucha podczas wznoszenia",
-      "q2": "ponieważ gazy uwięzione w jelitach powodują bólbrzucha niezależnie wysokości",
-      "q3": "ponieważ gazy uwięzione w jelitach mogą powodowaćból brzucha przy zmniejszaniu wysokości",
-      "q4": "ponieważ gazy uwięzione w jelitach zmniejszajątolerancję na niedotlenienie"
+      "text": "Pilot nie powinien przed lotem spożywać pokarmów powodujących zwiększane wytwarzanie gazów w jelitach oraz napojów gazowanych",
+      "q1": "ponieważ gazy uwięzione w jelitach mogą powodować ból brzucha podczas wznoszenia",
+      "q2": "ponieważ gazy uwięzione w jelitach powodują ból brzucha niezależnie wysokości",
+      "q3": "ponieważ gazy uwięzione w jelitach mogą powodować ból brzucha przy zmniejszaniu wysokości",
+      "q4": "ponieważ gazy uwięzione w jelitach zmniejszają tolerancję na niedotlenienie"
     },
     {
       "name": "PL040-0160",
@@ -8656,7 +8656,7 @@
     },
     {
       "name": "PL040-0162",
-      "text": "Po kilkunastu sekundach obserwacji stacjonarnego światła na ciemnym tle powierzchni ziemi, pilot odnosi wrażenie jego poruszania.Złudzenie takie nazywamy:",
+      "text": "Po kilkunastu sekundach obserwacji stacjonarnego światła na ciemnym tle powierzchni ziemi, pilot odnosi wrażenie jego poruszania. Złudzenie takie nazywamy:",
       "q1": "autokinezą",
       "q2": "psychokinezą",
       "q3": "oczopląsem",
@@ -8688,8 +8688,8 @@
     },
     {
       "name": "PL040-0166",
-      "text": "Podczas lotów wysokościowych zmarznięty pilot wskostniałych kończynach ma:",
-      "q1": "mniejszą wrażliwość na dotyk, zmniejszoną zdolność wykonywaniaprecyzyjnych ruchów, obniżenie siły mięśniowej",
+      "text": "Podczas lotów wysokościowych zmarznięty pilot w skostniałych kończynach ma:",
+      "q1": "mniejszą wrażliwość na dotyk, zmniejszoną zdolność wykonywania precyzyjnych ruchów, obniżenie siły mięśniowej",
       "q2": "obniżenie napięcia mięśniowego",
       "q3": "przyspieszenie akcji serca i zwolnienie akcji oddechowej",
       "q4": "zmniejszenie przemiany materii"
@@ -8832,9 +8832,9 @@
     },
     {
       "name": "PL040-0187",
-      "text": "Prawidłowo zaopatrzonekrwawienie z kończyny to:",
+      "text": "Prawidłowo zaopatrzone krwawienie z kończyny to:",
       "q1": "opatrunek uciskowy na ranie",
-      "q2": "opaska uciskowa poniżej rany iopatrunek uciskowy na ranie",
+      "q2": "opaska uciskowa poniżej rany i opatrunek uciskowy na ranie",
       "q3": "opaska uciskowa powyżej  rany",
       "q4": "zwykły opatrunek na ranie"
     },
@@ -8920,11 +8920,11 @@
     },
     {
       "name": "PL040-0199",
-      "text": "Przy przekroczeniu optimum prędkości przetwarzania i odbioru określonejilości informacji przez człowieka",
-      "q1": "mogą wystąpić defekty w procesie orientacji człowieka w postaci przepuszczania i zniekształcenia sygnałów,zmniejszenie zakresu ich rozróżniania i rozpoznawania",
-      "q2": "następuje pełna, optymalna adaptacja możliwości odbioru i przetwarzania informacji uczłowieka bez zakłóceń",
+      "text": "Przy przekroczeniu optimum prędkości przetwarzania i odbioru określonej ilości informacji przez człowieka",
+      "q1": "mogą wystąpić defekty w procesie orientacji człowieka w postaci przepuszczania i zniekształcenia sygnałów, zmniejszenie zakresu ich rozróżniania i rozpoznawania",
+      "q2": "następuje pełna, optymalna adaptacja możliwości odbioru i przetwarzania informacji u człowieka bez zakłóceń",
       "q3": "następuje zjawisko wizualizacji podobnych zdarzeń z przeszłości",
-      "q4": "następuje zawsze całkowite zahamowanie przebiegu procesówmyślowych u człowieka"
+      "q4": "następuje zawsze całkowite zahamowanie przebiegu procesów myślowych u człowieka"
     },
     {
       "name": "PL040-0200",
@@ -8960,7 +8960,7 @@
     },
     {
       "name": "PL040-0204",
-      "text": "Przyczyną dolegliwości wchorobie dekompresyjnej są pęcherzyki którego gazu :",
+      "text": "Przyczyną dolegliwości w chorobie dekompresyjnej są pęcherzyki którego gazu :",
       "q1": "azotu",
       "q2": "tlenu",
       "q3": "dwutlenku węgla",
@@ -9128,7 +9128,7 @@
     },
     {
       "name": "PL040-0225",
-      "text": "Strefa krytyczna dla pilota oddychającego bezaparatu tlenowego wynosi:",
+      "text": "Strefa krytyczna dla pilota oddychającego bez aparatu tlenowego wynosi:",
       "q1": "6-7 tys. m",
       "q2": "3-4 tys. m",
       "q3": "4-5 tys. m",
@@ -9176,7 +9176,7 @@
     },
     {
       "name": "PL040-0231",
-      "text": "Stwierdzenie, że wymiana gazowa w pęcherzykach płucnych jest możliwa dopóki ciśnienie parcjalne tlenu (pO2) w powietrzu pęcherzykowym jest wyższe niżciśnienie parcjalne tlenu we krwi jest:",
+      "text": "Stwierdzenie, że wymiana gazowa w pęcherzykach płucnych jest możliwa dopóki ciśnienie parcjalne tlenu (pO2) w powietrzu pęcherzykowym jest wyższe niż ciśnienie parcjalne tlenu we krwi jest:",
       "q1": "prawdziwe i ma znaczenie dla pilotów",
       "q2": "prawdziwe ale nie ma znaczenia dla pilotów",
       "q3": "fałszywe",
@@ -9408,10 +9408,10 @@
     },
     {
       "name": "PL040-0265",
-      "text": "W czasie badania tolerancji ustroju na niedobór tlenuw otaczającym środowisku głębokie oddychanie :",
+      "text": "W czasie badania tolerancji ustroju na niedobór tlenu w otaczającym środowisku głębokie oddychanie :",
       "q1": "poprawia tolerancję niedotlenienia",
-      "q2": "poprawia tolerancję niedotlenienia wysokościowego,jeżeli wzrośnie również liczba oddechów",
-      "q3": "nie poprawia tolerancjiniedotlenienia wysokościowego",
+      "q2": "poprawia tolerancję niedotlenienia wysokościowego, jeżeli wzrośnie również liczba oddechów",
+      "q3": "nie poprawia tolerancji niedotlenienia wysokościowego",
       "q4": "nie ma wpływu na tolerancję niedotlenienia"
     },
     {
@@ -9456,10 +9456,10 @@
     },
     {
       "name": "PL040-0272",
-      "text": "W przypadku gdy poszkodowany oddychasamodzielnie, ale nie ma wyczuwalnego tętna:",
-      "q1": "należy poszukać tętna na dużych tętnicach, ponieważ brak tętna przyzachowanym przez dłuższy czas oddechu jest wysoce nieprawdopodobne, a jeśli tętno jest zatrzymane wkrótce ustanie również oddech",
+      "text": "W przypadku gdy poszkodowany oddycha samodzielnie, ale nie ma wyczuwalnego tętna:",
+      "q1": "należy poszukać tętna na dużych tętnicach, ponieważ brak tętna przy zachowanym przez dłuższy czas oddechu jest wysoce nieprawdopodobne, a jeśli tętno jest zatrzymane wkrótce ustanie również oddech",
       "q2": "należy od razu przystąpić do masażu serca",
-      "q3": "należy położyć poszkodowanego w pozycji bocznejbezpiecznej nawet mimo zachowanej świadomości",
+      "q3": "należy położyć poszkodowanego w pozycji bocznej bezpiecznej nawet mimo zachowanej świadomości",
       "q4": "należy wykonywać od razu masaż serca i sztuczne oddychanie"
     },
     {
@@ -9480,7 +9480,7 @@
     },
     {
       "name": "PL040-0275",
-      "text": "W przypadku podejrzeniau nieprzytomnego złamania kręgosłupa w bezpiecznym otoczeniuz zachowanym własnymoddechem i tętnem, należy:",
+      "text": "W przypadku podejrzeniau nieprzytomnego złamania kręgosłupa w bezpiecznym otoczeniuz zachowanym własnym oddechem i tętnem, należy:",
       "q1": "pozostawić go pod nadzorem na miejscu do przyjazdu wyspecjalizowanych ratowników medycznych",
       "q2": "pozostawić go pod nadzorem na miejscu do czasu odzyskania przytomności, a następnie wynieść z miejsca wypadku",
       "q3": "położyć na twardym podłożu",
@@ -9512,9 +9512,9 @@
     },
     {
       "name": "PL040-0279",
-      "text": "W przypadku wystąpienia hiperwentylacji (przyspieszonegooddychania bez potrzeby wynikającej z metabolizmu ustroju) należy:",
+      "text": "W przypadku wystąpienia hiperwentylacji (przyspieszonego oddychania bez potrzeby wynikającej z metabolizmu ustroju) należy:",
       "q1": "starać się uspokoić oddech, a w razie niepowodzenia oddychać do worka papierowego",
-      "q2": "przyspieszać oddech do momentu kiedy mięśnie oddechowe zmęczą się i nie będąw stanie dalej przyspieszać",
+      "q2": "przyspieszać oddech do momentu kiedy mięśnie oddechowe zmęczą się i nie będą w stanie dalej przyspieszać",
       "q3": "nie zwracać uwagi na tempo oddechu",
       "q4": "przełykać ślinę"
     },
@@ -9680,10 +9680,10 @@
     },
     {
       "name": "PL040-0305",
-      "text": "Wybierz odpowiedź, w której wymieniononajwięcej objawów mogących pojawić się z powodu niedotlenienia organizmu",
-      "q1": "uczucie braku powietrza, uczucie zmęczenia,nudności, wymioty, zawroty głowy",
-      "q2": "uczucie braku powietrza, uczucie zmęczenia, nudności,wymioty, widzenie lunetowate",
-      "q3": "uczucie braku powietrza, uczucie zmęczenia, nudności,wymioty, zawroty głowy, widzenie w kolorze czerwonym",
+      "text": "Wybierz odpowiedź, w której wymieniono najwięcej objawów mogących pojawić się z powodu niedotlenienia organizmu",
+      "q1": "uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, zawroty głowy",
+      "q2": "uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, widzenie lunetowate",
+      "q3": "uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, zawroty głowy, widzenie w kolorze czerwonym",
       "q4": "nudności, wymioty, zawroty głowy, utrata słuchu"
     },
     {
@@ -9777,10 +9777,10 @@
     {
       "name": "PL040-0318",
       "text": "Zaburzenia uwagi to:",
-      "q1": "patologiczne zmniejszenie zakresu uwagi, jej koncentracji, trwałości,podzielności doprowadzające do ogólnego zmniejszenia zdolności odbierania bodźców zewnętrznych",
-      "q2": "zdolność do bardzo szybkiego przenoszenia uwagi zjednego elementu na drugi",
-      "q3": "niezdolność do zmiany zachowania aktualnego podwpływem minionych doświadczeń",
-      "q4": "ograniczenie pola widzenia przy utrzymaniu uwagidowolnej na tym samym poziomie"
+      "q1": "patologiczne zmniejszenie zakresu uwagi, jej koncentracji, trwałości, podzielności doprowadzające do ogólnego zmniejszenia zdolności odbierania bodźców zewnętrznych",
+      "q2": "zdolność do bardzo szybkiego przenoszenia uwagi z jednego elementu na drugi",
+      "q3": "niezdolność do zmiany zachowania aktualnego pod wpływem minionych doświadczeń",
+      "q4": "ograniczenie pola widzenia przy utrzymaniu uwagi dowolnej na tym samym poziomie"
     },
     {
       "name": "PL040-0319",
@@ -9817,8 +9817,8 @@
     {
       "name": "PL040-0323",
       "text": "Zażycie marihuany lub haszyszu powoduje:",
-      "q1": "podniesienie nastroju, zaburzenia koncentracji i uwagi, osłabienie pamięci oraz orientacji, obniżenie krytycyzmu, lęk i urojenia prześladowcze,poszerzenie źrenic i zaczerwienienie spojówek",
-      "q2": "zubożenie emocjonalne, stępienie, sztywność, spłycenie uczuć, zachowania aspołeczne, unikanie kontaktów z ludźmi,nieuzasadniona wrogość, poczucie małej wartości",
+      "q1": "podniesienie nastroju, zaburzenia koncentracji i uwagi, osłabienie pamięci oraz orientacji, obniżenie krytycyzmu, lęk i urojenia prześladowcze, poszerzenie źrenic i zaczerwienienie spojówek",
+      "q2": "zubożenie emocjonalne, stępienie, sztywność, spłycenie uczuć, zachowania aspołeczne, unikanie kontaktów z ludźmi, nieuzasadniona wrogość, poczucie małej wartości",
       "q3": "nie ma charakterystycznych objawów zewnętrznych",
       "q4": "po niekontrolowanej euforii i pobudzenia: zanik woli i chęci działania, krótkotrwała depresja połączona z lękami i bezsennością"
     },
@@ -9857,10 +9857,10 @@
     {
       "name": "PL040-0328",
       "text": "Zespół stresu pourazowego to:",
-      "q1": "zespół opóźnionych reakcji stresowychw postaci dolegliwości natury psychicznej nawracającychwielokrotnie nawet po upływie długiego czasu, związanych z ekspozycją na zdarzenie szczególnie przerażające lub katastroficzne",
-      "q2": "określenie rozdrażnienia typu neurastenicznego polegającego nazwiększonej pobudliwości na bodźce zmysłowe /światło, hałas, dotyk/ odbierane z subiektywnym poczuciem dyskomfortu lub bólu",
-      "q3": "określenie fazy rekonwalescencji w terapii chorób psychicznych poustąpieniu objawów ostrych danego schorzenia",
-      "q4": "określenie zespołu objawów związanych z brakiem poczucia kontroli nadjedzeniem w chwilach smutku i przygnębienia"
+      "q1": "zespół opóźnionych reakcji stresowychw postaci dolegliwości natury psychicznej nawracających wielokrotnie nawet po upływie długiego czasu, związanych z ekspozycją na zdarzenie szczególnie przerażające lub katastroficzne",
+      "q2": "określenie rozdrażnienia typu neurastenicznego polegającego na zwiększonej pobudliwości na bodźce zmysłowe /światło, hałas, dotyk/ odbierane z subiektywnym poczuciem dyskomfortu lub bólu",
+      "q3": "określenie fazy rekonwalescencji w terapii chorób psychicznych po ustąpieniu objawów ostrych danego schorzenia",
+      "q4": "określenie zespołu objawów związanych z brakiem poczucia kontroli nad jedzeniem w chwilach smutku i przygnębienia"
     },
     {
       "name": "PL040-0329",
@@ -9952,7 +9952,7 @@
     },
     {
       "name": "PL040-0340",
-      "text": "Zmiana ciśnienia atmosferycznego między otoczeniem a uchem środkowymwyrównywane jest przez:",
+      "text": "Zmiana ciśnienia atmosferycznego między otoczeniem a uchem środkowym wyrównywane jest przez:",
       "q1": "trąbkę słuchową Eustachiusza",
       "q2": "kanały półkoliste",
       "q3": "młoteczek i kowadełko",
@@ -10442,7 +10442,7 @@
     },
     {
       "name": "PL050-0084",
-      "text": "Prędkość wiatru, w dolnej atmoferze,wraz z wysokością najczęściej:",
+      "text": "Prędkość wiatru, w dolnej atmoferze, wraz z wysokością najczęściej:",
       "q1": "Wzrasta",
       "q2": "Maleje",
       "q3": "Nie zmienia się",
@@ -10730,7 +10730,7 @@
     },
     {
       "name": "PL050-0125",
-      "text": "Za frontem chłodnym wokresie lata napływają masy:",
+      "text": "Za frontem chłodnym w okresie lata napływają masy:",
       "q1": "PPm",
       "q2": "PAm",
       "q3": "PZm",
@@ -11060,7 +11060,7 @@
     },
     {
       "name": "PL060-0002",
-      "text": "Ciśnienie panujące na progu drogistartowej w użyciu oznaczamy jako:",
+      "text": "Ciśnienie panujące na progu drogi startowej w użyciu oznaczamy jako:",
       "q1": "QFE",
       "q2": "QNE",
       "q3": "QNH",
@@ -11100,7 +11100,7 @@
     },
     {
       "name": "PL060-0007",
-      "text": "Zjawisko zmienności polamagnetycznego Ziemi jest wykorzystywane przez:",
+      "text": "Zjawisko zmienności pola magnetycznego Ziemi jest wykorzystywane przez:",
       "q1": "Busolę magnetyczną",
       "q2": "Chyłomierz poprzeczny",
       "q3": "VOR/ILS",
@@ -11220,7 +11220,7 @@
     },
     {
       "name": "PL060-0022",
-      "text": "Jeden stopień łuku koła wielkiegoZiemi odpowiada odległości:",
+      "text": "Jeden stopień łuku koła wielkiego Ziemi odpowiada odległości:",
       "q1": "60 Mm",
       "q2": "1 Mm",
       "q3": "60 km",
@@ -11276,7 +11276,7 @@
     },
     {
       "name": "PL060-0029",
-      "text": "Jeżeli wektor wiatru jest prostopadły donakazanej linii drogi, to kąt znoszenia jest:",
+      "text": "Jeżeli wektor wiatru jest prostopadły do nakazanej linii drogi, to kąt znoszenia jest:",
       "q1": "maksymalny",
       "q2": "równy zero",
       "q3": "dodatn lub ujemny, lecz nie jest maksymalny",
@@ -11404,7 +11404,7 @@
     },
     {
       "name": "PL060-0053",
-      "text": "Linia na powierzchni Ziemi przecinającapołudniki pod tym samym kątem to:",
+      "text": "Linia na powierzchni Ziemi przecinająca południki pod tym samym kątem to:",
       "q1": "loksodroma",
       "q2": "ortodroma",
       "q3": "izogona",
@@ -11476,7 +11476,7 @@
     },
     {
       "name": "PL060-0064",
-      "text": "KDR = 259°, KDM = 255°, dewiacja = +2°. Wartoścideklinacji magnetycznej i Kursu Busoli wynoszą odpowiednio:",
+      "text": "KDR = 259°, KDM = 255°, dewiacja = +2°. Wartości deklinacji magnetycznej i Kursu Busoli wynoszą odpowiednio:",
       "q1": "4°E, 253°",
       "q2": "2°W, 255°",
       "q3": "4°W, 251°",
@@ -11580,7 +11580,7 @@
     },
     {
       "name": "PL060-0078",
-      "text": "Punkty A i B są oddalone od siebieo 15 km. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?",
+      "text": "Punkty A i B są oddalone od siebie o 15 km. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?",
       "q1": "1 : 250 000",
       "q2": "1 : 300 000",
       "q3": "1 : 400 000",
@@ -11621,9 +11621,9 @@
     {
       "name": "PL060-0083",
       "text": "Równik ziemski to:",
-      "q1": "Łuk koła wielkiego powstały w wyniku przecięcia powierzchni kuli ziemskiej płaszczyzną prostopadłą do osi Ziemiprzechodzącą przez jej środek.",
-      "q2": "łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemipłaszczyzną przechodzącą przez oś obrotu Ziemi",
-      "q3": "Kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyznąpołudnika przechodzącego przez dany punkt na powierzchni Ziemi",
+      "q1": "Łuk koła wielkiego powstały w wyniku przecięcia powierzchni kuli ziemskiej płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek.",
+      "q2": "łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi",
+      "q3": "Kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi",
       "q4": "Kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu"
     },
     {
@@ -11660,7 +11660,7 @@
     },
     {
       "name": "PL060-0088",
-      "text": "Wariometr pokazuje wartość 750 ft/min. Wprzeliczeniu na m/sek to:",
+      "text": "Wariometr pokazuje wartość 750 ft/min. W przeliczeniu na m/sek to:",
       "q1": "3.8 m/s",
       "q2": "2.5 m/s",
       "q3": "5.0 m/s",
@@ -11820,7 +11820,7 @@
     },
     {
       "name": "PL060-0122",
-      "text": "Odcinek 2 km odpowiada namapie lotniczej w skali 1:10 000:",
+      "text": "Odcinek 2 km odpowiada na mapie lotniczej w skali 1:10 000:",
       "q1": "20 cm",
       "q2": "40 cm",
       "q3": "5 cm",
@@ -11868,7 +11868,7 @@
     },
     {
       "name": "PL060-0133",
-      "text": "Kąt zawarty pomiędzy nakazanąlinią drogi a kursem statkupowietrznego, nazywamy:",
+      "text": "Kąt zawarty pomiędzy nakazanąlinią drogi a kursem statku powietrznego, nazywamy:",
       "q1": "kątem znoszenia",
       "q2": "kątowym bocznym odchyleniem",
       "q3": "kątową poprawką dopełniającą",
@@ -11932,7 +11932,7 @@
     },
     {
       "name": "PL060-0151",
-      "text": "Na mapie lotniczej w skali 1:10 000 odcinek 2 cm odpowiada rzeczywistejodległości w terenie:",
+      "text": "Na mapie lotniczej w skali 1:10 000 odcinek 2 cm odpowiada rzeczywistej odległości w terenie:",
       "q1": "200 m",
       "q2": "50 m",
       "q3": "100 m",
@@ -12060,7 +12060,7 @@
     },
     {
       "name": "PL060-0174",
-      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53\"\"57,8\"\" E015°47\"\" 7,8\"\") na lotnisko w Zamościu (N50°42\"\"6,5\"\" E023°12\"\"15,3\"\") tak, żeby wylądować przed zachodem słońca.W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
+      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53\"\"57,8\"\" E015°47\"\" 7,8\"\") na lotnisko w Zamościu (N50°42\"\"6,5\"\" E023°12\"\"15,3\"\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
       "q1": "zachód słońca w Zamościu następuje około 30 minut wcześniej",
       "q2": "zachód słońca w Zamościu następuje około 1 godzinę wcześniej",
       "q3": "zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie",
@@ -12076,7 +12076,7 @@
     },
     {
       "name": "PL060-0176",
-      "text": "Pilot uzyskał z TWR przed startem następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowapoprzeczna wiatru do pasa 30?",
+      "text": "Pilot uzyskał z TWR przed startem następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowa poprzeczna wiatru do pasa 30?",
       "q1": "23 w",
       "q2": "17 w",
       "q3": "29 w",
@@ -12108,7 +12108,7 @@
     },
     {
       "name": "PL060-0190",
-      "text": "Przy założeniu, że magnetyczny kąt drogi od LDZ do JED wynosi 159° a od JED do LDZ 339° to statek powietrzny, który przeleciał LDZ w kierunku JED w warunkachbezwietrznych znajduje się:",
+      "text": "Przy założeniu, że magnetyczny kąt drogi od LDZ do JED wynosi 159° a od JED do LDZ 339° to statek powietrzny, który przeleciał LDZ w kierunku JED w warunkach bezwietrznych znajduje się:",
       "q1": "Na radialu 159° od VOR LDZ, mając kurs 159°.",
       "q2": "Na radialu 339° od VOR LDZ, mając kurs 159°.",
       "q3": "Na radialu 159° od VOR LDZ, mając kurs 339°.",
@@ -12204,7 +12204,7 @@
     },
     {
       "name": "PL060-0211",
-      "text": "Samolot po przelocie 25 km znajduje się 5 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu wcelu osiągnięcia zaplanowanej linii drogi po następnych 25 km?",
+      "text": "Samolot po przelocie 25 km znajduje się 5 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 25 km?",
       "q1": "25 stopni w prawo",
       "q2": "5 stopni w lewo",
       "q3": "12 stopni w prawo",
@@ -12228,7 +12228,7 @@
     },
     {
       "name": "PL060-0214",
-      "text": "Samolot po przelocie 40 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu wcelu osiągnięcia zaplanowanej linii drogi po następnych 40 NM?",
+      "text": "Samolot po przelocie 40 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 40 NM?",
       "q1": "6 stopni w lewo",
       "q2": "3 stopni w prawo",
       "q3": "12 stopni w prawo",
@@ -12268,7 +12268,7 @@
     },
     {
       "name": "PL060-0229",
-      "text": "Statek powietrzny lecący w warunkachbezwietrznych z kursem 320 przecina radial 195 od VOR-a JED. Statek powietrzny znajdzie się:",
+      "text": "Statek powietrzny lecący w warunkach bezwietrznych z kursem 320 przecina radial 195 od VOR-a JED. Statek powietrzny znajdzie się:",
       "q1": "Na zachód od VOR-a JED.",
       "q2": "Na wschód od VOR-a JED.",
       "q3": "Nad VOR-em JED.",
@@ -12292,7 +12292,7 @@
     },
     {
       "name": "PL060-0232",
-      "text": "Statek powietrzny porusza się zprędkością 120 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:",
+      "text": "Statek powietrzny porusza się z prędkością 120 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:",
       "q1": "15°",
       "q2": "12°",
       "q3": "30°",
@@ -12324,7 +12324,7 @@
     },
     {
       "name": "PL060-0236",
-      "text": "Statek powietrzny startuje z lotniska o elewacji 1500 ftMSL i wznosi się z prędkością pionową 600 ft/min. Jego średnia prędkość podróżna wynosi 90 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 75?",
+      "text": "Statek powietrzny startuje z lotniska o elewacji 1500 ft MSL i wznosi się z prędkością pionową 600 ft/min. Jego średnia prędkość podróżna wynosi 90 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 75?",
       "q1": "15 Mm",
       "q2": "18 Mm",
       "q3": "20 Mm",
@@ -12348,7 +12348,7 @@
     },
     {
       "name": "PL060-0244",
-      "text": "Średnia prędkość podróżna statku powietrznegowynosi 150 km/h. W czasie 18 minut zostanie przebyta odległość",
+      "text": "Średnia prędkość podróżna statku powietrznego wynosi 150 km/h. W czasie 18 minut zostanie przebyta odległość",
       "q1": "45 km",
       "q2": "18 km",
       "q3": "27 km",
@@ -12412,7 +12412,7 @@
     },
     {
       "name": "PL060-0254",
-      "text": "W sytuacji utraty łaczności pilotwłącza transponder w modzie A na kod:",
+      "text": "W sytuacji utraty łaczności pilot włącza transponder w modzie A na kod:",
       "q1": "7600",
       "q2": "7000",
       "q3": "7500",
@@ -12460,7 +12460,7 @@
     },
     {
       "name": "PL060-0265",
-      "text": "Zakładając, że powietrze jest nieściśliwe i sposób umieszczenia nadajników ciśnienia na samolocie nie powoduje błędów wskazań prędkościomierza, to prędkośćrzeczywista TAS jest równa:",
+      "text": "Zakładając, że powietrze jest nieściśliwe i sposób umieszczenia nadajników ciśnienia na samolocie nie powoduje błędów wskazań prędkościomierza, to prędkość rzeczywista TAS jest równa:",
       "q1": "prędkości wskazywanej IAS w warunkach bezwietrznych",
       "q2": "prędkości wskazywanej IAS poprawionej o wartość poprawki na błąd gęstości powietrza",
       "q3": "prędkości podróżnej (GS), gdy uwzględnimy wpływ wiatru",
@@ -12542,7 +12542,7 @@
     },
     {
       "name": "PL070-0005",
-      "text": "Czy użytkownik może przystąpić dobadania incydentu lotniczego?",
+      "text": "Czy użytkownik może przystąpić do badania incydentu lotniczego?",
       "q1": "Tak, ale po decyzji PKBWL i pod jej nadzorem",
       "q2": "Tak",
       "q3": "Nie",
@@ -12582,7 +12582,7 @@
     },
     {
       "name": "PL070-0010",
-      "text": "Użytkownik statku powietrznego, organ ruchu lotniczego, zarządzający lotniskiem są zobowiązani powiadomić PKBWLo zdarzeniu lotniczym w nieprzekraczalnym czasie:",
+      "text": "Użytkownik statku powietrznego, organ ruchu lotniczego, zarządzający lotniskiem są zobowiązani powiadomić PKBWL o zdarzeniu lotniczym w nieprzekraczalnym czasie:",
       "q1": "72 godziny",
       "q2": "48 godzin",
       "q3": "24 godziny",
@@ -12614,7 +12614,7 @@
     },
     {
       "name": "PL070-0014",
-      "text": "Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenieprzygodnym i wystąpieniu pożaru jest:",
+      "text": "Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenie przygodnym i wystąpieniu pożaru jest:",
       "q1": "Ugaszenie pożaru",
       "q2": "Ratowanie rannych",
       "q3": "Telefon do straży pożarnej",
@@ -12654,7 +12654,7 @@
     },
     {
       "name": "PL070-0019",
-      "text": "W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostacjępokładową pilot jest zobowiązany:",
+      "text": "W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostację pokładową pilot jest zobowiązany:",
       "q1": "Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia",
       "q2": "Nadać sygnał SOS i opuścić statek powietrzny",
       "q3": "Opuścić statek powietrzny niezwłocznie.",
@@ -12696,8 +12696,8 @@
       "name": "PL070-0025",
       "text": "Badanie wypadków i incydentów lotniczych ma na celu:",
       "q1": "Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych.",
-      "q2": "Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceńprofilaktycznych oraz wskazanie winnych zdarzenia",
-      "q3": "Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceńprofilaktycznych, wskazanie winnych zdarzenia oraz rozpowszechnianie informacji dotyczącej zdarzeń.",
+      "q2": "Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych oraz wskazanie winnych zdarzenia",
+      "q3": "Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych, wskazanie winnych zdarzenia oraz rozpowszechnianie informacji dotyczącej zdarzeń.",
       "q4": "Wyjaśnienie okoliczności i przyczyn zdarzenia."
     },
     {
@@ -12734,7 +12734,7 @@
     },
     {
       "name": "PL070-0030",
-      "text": "Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statkupowietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają złożyć organowi, który otrzymał zawiadomienie:",
+      "text": "Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają złożyć organowi, który otrzymał zawiadomienie:",
       "q1": "Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni",
       "q2": "Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni",
       "q3": "Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym",
@@ -12758,7 +12758,7 @@
     },
     {
       "name": "PL070-0033",
-      "text": "Osoba naruszająca obowiązki w zakresie bezpiecznej eksploatacji statkupowietrznego podlega karze:",
+      "text": "Osoba naruszająca obowiązki w zakresie bezpiecznej eksploatacji statku powietrznego podlega karze:",
       "q1": "grzywny",
       "q2": "Pozbawienia wolności do lat 5",
       "q3": "Pozbawienia wolności do roku",
@@ -12798,7 +12798,7 @@
     },
     {
       "name": "PL070-0039",
-      "text": "Czy funkcjonariusz Policji może zażądać od pilota/załogi poddania się badaniu na obecność alkoholu we krwi po zaistnieniuwypadku lotniczego?",
+      "text": "Czy funkcjonariusz Policji może zażądać od pilota/załogi poddania się badaniu na obecność alkoholu we krwi po zaistnieniu wypadku lotniczego?",
       "q1": "Tak",
       "q2": "Nie",
       "q3": "Tylko w obecności członków PKBWL",
@@ -12854,8 +12854,8 @@
     },
     {
       "name": "PL070-0046",
-      "text": "W razie przypadkowegouruchomienia ELT należy:",
-      "q1": "niezwłocznie wyłączyć ELT i powiadomić o tym fakciewłaściwe RCC lub służbę informacji lotniczej",
+      "text": "W razie przypadkowego uruchomienia ELT należy:",
+      "q1": "niezwłocznie wyłączyć ELT i powiadomić o tym fakcie właściwe RCC lub służbę informacji lotniczej",
       "q2": "wyłączyć ELT",
       "q3": "zgłosić fakt mechanikowi gdy będzie to możliwe",
       "q4": "powiadomić policję"
@@ -12929,7 +12929,7 @@
       "text": "Komunikat MAYDAY nadaje się w przypadku:",
       "q1": "bezpośredniego zagrożenia życia załogi i pasażerów",
       "q2": "konieczności zapewnienia pomocy medycznej",
-      "q3": "ogólnego niebezpieczeństwa dla ruchu lotniczego,zaobserwowania groźnych zjawisk itp.",
+      "q3": "ogólnego niebezpieczeństwa dla ruchu lotniczego, zaobserwowania groźnych zjawisk itp.",
       "q4": "utraty łączności"
     },
     {
@@ -12966,7 +12966,7 @@
     },
     {
       "name": "PL070-0061",
-      "text": "Pożar instalacji elektrycznej statkupowietrznego powinien być gaszony:",
+      "text": "Pożar instalacji elektrycznej statku powietrznego powinien być gaszony:",
       "q1": "gaśnicą śniegową lub BCE",
       "q2": "pianą gaśniczą",
       "q3": "piaskiem",
@@ -13006,7 +13006,7 @@
     },
     {
       "name": "PL070-0066",
-      "text": "Pilot statku powietrznego może palić tytoń w czasielotu pod warunkiem:",
+      "text": "Pilot statku powietrznego może palić tytoń w czasie lotu pod warunkiem:",
       "q1": "palenie tytoniu nie jest dozwolone",
       "q2": "utrzymania dobrej wentylacji kabiny",
       "q3": "może palic tylko jedna osoba na raz",
@@ -13062,7 +13062,7 @@
     },
     {
       "name": "PL070-0073",
-      "text": "Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddającedziałalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są publikowane w:",
+      "text": "Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddające działalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są publikowane w:",
       "q1": "Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego",
       "q2": "Dzienniku Ustaw",
       "q3": "miesięczniku „Przegląd Lotniczy”",
@@ -13094,7 +13094,7 @@
     },
     {
       "name": "PL070-0077",
-      "text": "napotkanych w locie potencjalnych zagrożeniach bezpieczeństwa oraz zdarzeniachtakich, jak nieprawidłowa praca urządzeń naziemnych lub nawigacyjnych, niezwykłe zjawiska pogody, dowódca statku powietrznego powinien powiadomić:",
+      "text": "napotkanych w locie potencjalnych zagrożeniach bezpieczeństwa oraz zdarzeniach takich, jak nieprawidłowa praca urządzeń naziemnych lub nawigacyjnych, niezwykłe zjawiska pogody, dowódca statku powietrznego powinien powiadomić:",
       "q1": "właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe",
       "q2": "organ kontroli ruchu lotniczego, po wylądowaniu",
       "q3": "władze lokalne",
@@ -13177,10 +13177,10 @@
     {
       "name": "PL080-0011",
       "text": "Ciało porusza się po okręgu z prędkością ‘&upsilon;’. Jeżeli zwiększymy dwukrotnie promień okręgu  to:",
-      "q1": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie - przyśpieszeniedośrodkowe ‘ar’ zmaleje dwukrotnie",
-      "q2": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie - przyśpieszeniedośrodkowe ‘ar’ zmaleje dwukrotnie",
-      "q3": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszeniedośrodkowe ‘ar’ wzrośnie dwukrotnie",
-      "q4": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu \"T\" wzrośnie dwukrotnie -przyśpieszeniedośrodkowe ‘ar’ nie zmieni się"
+      "q1": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie - przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie",
+      "q2": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie - przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie",
+      "q3": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ wzrośnie dwukrotnie",
+      "q4": "-prędkość kątowa ‘&omega;’ zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu \"T\" wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ nie zmieni się"
     },
     {
       "name": "PL080-0012",
@@ -13307,7 +13307,7 @@
       "text": "Co to jest wysokość ciśnieniowa nad poziomem morza? .",
       "q1": "Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH",
       "q2": "Wysokość elewacji lotniska.",
-      "q3": "Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie napoziomie lotniska QFE",
+      "q3": "Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie lotniska QFE",
       "q4": "Wysokość wskazywana radiowysokościomier zem."
     },
     {
@@ -13632,7 +13632,7 @@
     },
     {
       "name": "PL080-0074",
-      "text": "Jaką nazwę nosi stosunek gęstościpowietrza na dowolnej wysokości do wzorcowej (standardowej) gęstości  na poziomie morza  σ =   ρ/  ρo?",
+      "text": "Jaką nazwę nosi stosunek gęstości powietrza na dowolnej wysokości do wzorcowej (standardowej) gęstości  na poziomie morza  σ =   ρ/  ρo?",
       "q1": "Gęstość powietrza względna.",
       "q2": "Stała Laplace’a",
       "q3": "Współczynnik M&amp;S",
@@ -13656,7 +13656,7 @@
     },
     {
       "name": "PL080-0077",
-      "text": "Jaką wielkość, wyrażoną w Kelwinach (K)  ma wzorcowa (standardowa)temperatura powietrza na poziomie morza?",
+      "text": "Jaką wielkość, wyrażoną w Kelwinach (K)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?",
       "q1": "To  =  288  K.",
       "q2": "To  =  258  K.",
       "q3": "To  =  277  K.",
@@ -13688,7 +13688,7 @@
     },
     {
       "name": "PL080-0082",
-      "text": "Jakie główne cechy ma gruby profil w porównaniu z cieńszym przytakiej samej prędkości opływu?",
+      "text": "Jakie główne cechy ma gruby profil w porównaniu z cieńszym przy takiej samej prędkości opływu?",
       "q1": "większy opór i większy współczynnik siły nośnej",
       "q2": "większy opór i mniejszy współczynnik siły nośnej",
       "q3": "większy opór i taki sam współczynnik siły nośnej",
@@ -13736,11 +13736,11 @@
     },
     {
       "name": "PL080-0088",
-      "text": "Jedną z miar statecznościdynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest „czas połówkowy”. Co to jest za wielkość?",
-      "q1": "Czas jaki upływa od odchylenia od równowagio jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).",
-      "q2": "Czas połowy okresu wahań fugoidalnychwywołanych odchyleniem.",
-      "q3": "Czas połowy okresu drgań flatterowychwywołanych wytrąceniem z równowagi.",
-      "q4": "Czas połowy okresu własnych drgańkonstrukcji (struktury) obiektu."
+      "text": "Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest „czas połówkowy”. Co to jest za wielkość?",
+      "q1": "Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).",
+      "q2": "Czas połowy okresu wahań fugoidalnych wywołanych odchyleniem.",
+      "q3": "Czas połowy okresu drgań flatterowych wywołanych wytrąceniem z równowagi.",
+      "q4": "Czas połowy okresu własnych drgań konstrukcji (struktury) obiektu."
     },
     {
       "name": "PL080-0089",
@@ -13760,11 +13760,11 @@
     },
     {
       "name": "PL080-0091",
-      "text": "Jeżeli dodamy do siebie opory wszystkich części płatowca (tj.skrzydeł, kadłuba, usterzenia, itd.), to otrzymana suma ta będzie:",
+      "text": "Jeżeli dodamy do siebie opory wszystkich części płatowca (tj. skrzydeł, kadłuba, usterzenia, itd.), to otrzymana suma ta będzie:",
       "q1": "mniejsza od oporu płatowca zmontowanego z tych części",
       "q2": "większa od oporu płatowca zmontowanego z tych części",
       "q3": "równa oporowi płatowca zmontowanego z tych części",
-      "q4": "do prawidłowej odpowiedzi potrzebne są dodatkowe dane ztunelu aerodynamicznego"
+      "q4": "do prawidłowej odpowiedzi potrzebne są dodatkowe dane z tunelu aerodynamicznego"
     },
     {
       "name": "PL080-0092",
@@ -13904,9 +13904,9 @@
     },
     {
       "name": "PL080-0110",
-      "text": "Które urządzenia nie są zaliczane domechanizacji skrzydła?",
-      "q1": "zwiększające CZmax poprzez zmniejszenieprzepływu indukowanego, np. winglety",
-      "q2": "przeszkadzające odrywaniu się strug powietrza nagrzbiecie skrzydła na małych kątach natarcia",
+      "text": "Które urządzenia nie są zaliczane do mechanizacji skrzydła?",
+      "q1": "zwiększające CZmax poprzez zmniejszenie przepływu indukowanego, np. winglety",
+      "q2": "przeszkadzające odrywaniu się strug powietrza na grzbiecie skrzydła na małych kątach natarcia",
       "q3": "wysklepiające profil mało wysklepiony na mocno wysklepiony",
       "q4": "powiększające powierzchnię skrzydła"
     },
@@ -13952,7 +13952,7 @@
     },
     {
       "name": "PL080-0121",
-      "text": "Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: &alpha;=&alpha;Cx min. W wyniku niewielkiegozwiększenia kąta natarcia:",
+      "text": "Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną: &alpha;=&alpha;Cx min. W wyniku niewielkiego zwiększenia kąta natarcia:",
       "q1": "procentowe zwiększenie \"Cz\" będzie większe od procentowego zwiększenia \"Cx\"",
       "q2": "procentowe zwiększenie \"Cx\" będzie większe od procentowego zwiększenia \"Cz\"",
       "q3": "procentowe zwiększenie \"Cx\" będzie takie same jak procentowe zwiększenia \"Cz\"",
@@ -14000,7 +14000,7 @@
     },
     {
       "name": "PL080-0127",
-      "text": "Maksymalna prędkość, przyktórej można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia oznaczana jest:",
+      "text": "Maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia oznaczana jest:",
       "q1": "V&lt;sub&gt;A&lt;/sub&gt;",
       "q2": "V&lt;sub &gt; RA&lt;/sub &gt;",
       "q3": "V &lt;sub &gt; NE&lt;/sub &gt;",
@@ -14064,7 +14064,7 @@
     },
     {
       "name": "PL080-0136",
-      "text": "Na jakiej wysokości nad poziomem morza względnagęstość powietrza jest w atmosferze wzorcowej równa &sigma; = 1?",
+      "text": "Na jakiej wysokości nad poziomem morza względna gęstość powietrza jest w atmosferze wzorcowej równa &sigma; = 1?",
       "q1": "0 m.",
       "q2": "100 m",
       "q3": "-10 m",
@@ -14096,7 +14096,7 @@
     },
     {
       "name": "PL080-0141",
-      "text": "Największa odległość między górnym i dolnym obrysem profilu(prostopadła do cięciwy) to:",
+      "text": "Największa odległość między górnym i dolnym obrysem profilu (prostopadła do cięciwy) to:",
       "q1": "grubość profilu",
       "q2": "wysokość profilu",
       "q3": "grubość względna profilu",
@@ -14208,7 +14208,7 @@
     },
     {
       "name": "PL080-0157",
-      "text": "Opór tarci profilu lotniczego na użytkowych kątach natarcia jestnajmniejszy w przypadku opływu:",
+      "text": "Opór tarci profilu lotniczego na użytkowych kątach natarcia jest najmniejszy w przypadku opływu:",
       "q1": "laminarnego",
       "q2": "burzliwego",
       "q3": "turbulentnego",
@@ -14248,11 +14248,11 @@
     },
     {
       "name": "PL080-0162",
-      "text": "Po wychyleniu lotki w górę podczaslotu z dużą prędkością powstaje:",
-      "q1": "moment skręcający skrzydło, który powodujewzrost kąta natarcia skrzydła",
-      "q2": "moment skręcający skrzydło, którypowoduje zmniejszenie kąta natarcia skrzydła",
-      "q3": "dodatkowa siła nośna, którapowoduje tylko ugięcie skrzydła, bez wpływu na skręcenie",
-      "q4": "dodatkowa siła nośna, którapowoduje tylko przechylenie, bez wpływu na skręcenie i ugięcie skrzydła"
+      "text": "Po wychyleniu lotki w górę podczas lotu z dużą prędkością powstaje:",
+      "q1": "moment skręcający skrzydło, który powoduje wzrost kąta natarcia skrzydła",
+      "q2": "moment skręcający skrzydło, który powoduje zmniejszenie kąta natarcia skrzydła",
+      "q3": "dodatkowa siła nośna, która powoduje tylko ugięcie skrzydła, bez wpływu na skręcenie",
+      "q4": "dodatkowa siła nośna, która powoduje tylko przechylenie, bez wpływu na skręcenie i ugięcie skrzydła"
     },
     {
       "name": "PL080-0163",
@@ -14344,7 +14344,7 @@
     },
     {
       "name": "PL080-0178",
-      "text": "Przeciągnięcie dynamiczne różni się od statycznego tym, że podczasprzeciągnięcia dynamicznego:",
+      "text": "Przeciągnięcie dynamiczne różni się od statycznego tym, że podczas przeciągnięcia dynamicznego:",
       "q1": "następuje szybka zmiana kąta natarcia skrzydła",
       "q2": "następuje powolna zmiana kąta natarcia skrzydła",
       "q3": "szybowiec pozostaje stateczny dynamicznie",
@@ -14618,7 +14618,7 @@
       "name": "PL080-0217",
       "text": "Środek aerodynamiczny to punkt:",
       "q1": "względem którego moment aerodynamiczny nie zależy od kąta natarcia (w dużym przedziale zmian kąta natarcia)",
-      "q2": "w którym linia działania wypadkowej siły aerodynamicznejprzecina cięciwę profilu",
+      "q2": "w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu",
       "q3": "równoodległy od noska i ostrza (spływu) profilu",
       "q4": "który w dużym przedziale zmian kąta natarcia pokrywa się z geometrycznym środkiem profilu"
     },
@@ -14672,7 +14672,7 @@
     },
     {
       "name": "PL080-0224",
-      "text": "Usterzenie wysokościzaprojektowane jest w celu obracania płatowca względem:",
+      "text": "Usterzenie wysokości zaprojektowane jest w celu obracania płatowca względem:",
       "q1": "ośi OY›",
       "q2": "ośi OZ›",
       "q3": "ośi OX›",
@@ -14712,7 +14712,7 @@
     },
     {
       "name": "PL080-0229",
-      "text": "W której grupie znajduje się urządzenie, które nie służy do zmniejszania sił, jakie pilot musiwywierać na drążek sterowy?",
+      "text": "W której grupie znajduje się urządzenie, które nie służy do zmniejszania sił, jakie pilot musi wywierać na drążek sterowy?",
       "q1": "- wyważenie masowe; - klapka wyważająca",
       "q2": "- fletner; - trymer",
       "q3": "- wyważenie aerodynamiczne; - wyważenie sprężynowe",
@@ -14792,9 +14792,9 @@
     },
     {
       "name": "PL080-0240",
-      "text": "W ustalonym locie pilot wychyla drążek sterowy w prawo. Zakładając,że lotki wychylą się o ten sam kąt, prawdziwe będzie stwierdzenie:",
+      "text": "W ustalonym locie pilot wychyla drążek sterowy w prawo. Zakładając, że lotki wychylą się o ten sam kąt, prawdziwe będzie stwierdzenie:",
       "q1": "siła oporu na lotce wychylonej w dół będzie większa od siły oporu na drugiej lotce",
-      "q2": "siła oporu na lotce wychylonej w dół będzie mniejsza odsiły oporu na drugiej lotce",
+      "q2": "siła oporu na lotce wychylonej w dół będzie mniejsza od siły oporu na drugiej lotce",
       "q3": "siły oporu na obu lotkach wzrosną o tą samą wartość",
       "q4": "siły oporu na obu lotkach zmaleją o tą samą wartość"
     },
@@ -14832,7 +14832,7 @@
     },
     {
       "name": "PL080-0246",
-      "text": "Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘&alpha; kr’ przyjmujewartość maksymalną.",
+      "text": "Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia ‘&alpha; kr’ przyjmuje wartość maksymalną.",
       "q1": "zawsze fałsz",
       "q2": "zawsze prawda",
       "q3": "prawda tylko dla profili symetrycznych",
@@ -14888,10 +14888,10 @@
     },
     {
       "name": "PL080-0256",
-      "text": "Wykres zależności Cz = f(Cx) dlaprofilu symetrycznego jest:",
+      "text": "Wykres zależności Cz = f(Cx) dla profilu symetrycznego jest:",
       "q1": "symetryczny względem osi \"Cx\"",
       "q2": "symetryczny względem osi \"Cz\"",
-      "q3": "symetryczny względem środkaukładu współrzędnych",
+      "q3": "symetryczny względem środka układu współrzędnych",
       "q4": "nie posiada żadnej symetrii"
     },
     {
@@ -15032,7 +15032,7 @@
     },
     {
       "name": "PL080-0282",
-      "text": "Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkościpowietrza jest stały S*v=const\"",
+      "text": "Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const\"",
       "q1": "zasada ciągłości ruchu",
       "q2": "zasada Bernouli’ego",
       "q3": "prawo Bernouli’ego",
@@ -15056,7 +15056,7 @@
     },
     {
       "name": "PL080-0286",
-      "text": "Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osiwspółrzędnych x-y- z.  Jakie oznaczenie nosi oś podłużna?",
+      "text": "Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y- z.  Jakie oznaczenie nosi oś podłużna?",
       "q1": "x",
       "q2": "y",
       "q3": "z",
@@ -15400,7 +15400,7 @@
     },
     {
       "name": "PL080-0424",
-      "text": "Które rozwiązanie konstrukcyjne nie służy do kompensacji zaśmigłowegomomentu kierunkowego?",
+      "text": "Które rozwiązanie konstrukcyjne nie służy do kompensacji zaśmigłowego momentu kierunkowego?",
       "q1": "kompensacja aerodynamiczna steru kierunku",
       "q2": "stała klapka wyważająca na sterze kierunku",
       "q3": "odchylenie płaszczyzny usterzenia kierunku z płaszczyzny samolotu",
@@ -15472,7 +15472,7 @@
     },
     {
       "name": "PL080-0434",
-      "text": "Moment odchylający samolot wywołany działaniem na usterzeniu siły aerodynamicznej wytworzonej przez niesymetrycznyopływ zaśmigłowy nazywamy:",
+      "text": "Moment odchylający samolot wywołany działaniem na usterzeniu siły aerodynamicznej wytworzonej przez niesymetryczny opływ zaśmigłowy nazywamy:",
       "q1": "kierunkowym momentem zaśmigłowym",
       "q2": "momentem oporowym",
       "q3": "momentem giroskopowym",
@@ -15522,9 +15522,9 @@
       "name": "PL080-0445",
       "text": "Objawem przejścia samolotu do lotu w fazie przeciągnięcia jest zazwyczaj:",
       "q1": "-występowanie drgań samolotu lub sterów; - samoczynne zwiększanie pochylenia",
-      "q2": "-występowanie drgań samolotu lub sterów; -samoczynne zwiększanieprędkości postępowej",
-      "q3": "-zmniejszanie prędkości opadania; - samoczynne zwiększanieprędkości postępowej",
-      "q4": "-samoczynne zwiększanie pochylenia; -zmniejszanie prędkości opadania"
+      "q2": "-występowanie drgań samolotu lub sterów; -samoczynne zwiększanie prędkości postępowej",
+      "q3": "-zmniejszanie prędkości opadania; - samoczynne zwiększanie prędkości postępowej",
+      "q4": "-samoczynne zwiększanie pochylenia; - zmniejszanie prędkości opadania"
     },
     {
       "name": "PL080-0446",
@@ -15568,7 +15568,7 @@
     },
     {
       "name": "PL080-0457",
-      "text": "Podczas podchodzenia do lądowania na samolocie zprzestawianym skokiem śmigła:",
+      "text": "Podczas podchodzenia do lądowania na samolocie z przestawianym skokiem śmigła:",
       "q1": "po zmniejszeniu ciśnienia ładowania należy przestawić śmigło na mały skok",
       "q2": "po zmniejszeniu ciśnienia ładowania należy przestawić śmigło na duży skok",
       "q3": "po przestawieniu śmigła na mały skok należy zmniejszyć ciśnienie ładowania",
@@ -15648,7 +15648,7 @@
     },
     {
       "name": "PL080-0471",
-      "text": "Rozpatrując stateczność samolotu wukładzie współrzędnych OXYZ zakładamy, że wszystkie trzy osie układu przechodzą przez:",
+      "text": "Rozpatrując stateczność samolotu w układzie współrzędnych OXYZ zakładamy, że wszystkie trzy osie układu przechodzą przez:",
       "q1": "środek ciężkości samolotu",
       "q2": "środek aerodynamiczny płata",
       "q3": "środek aerodynamiczny samolotu",
@@ -15690,9 +15690,9 @@
       "name": "PL080-0477",
       "text": "Skok geometryczny śmigła to:",
       "q1": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia &alpha;=0°",
-      "q2": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącienatarcia &alpha;&lt;0°",
-      "q3": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącienatarcia &alpha;&gt;0°",
-      "q4": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia równymkącie nastawienia &alpha;=ß"
+      "q2": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia &alpha;&lt;0°",
+      "q3": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia &alpha;&gt;0°",
+      "q4": "odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia równym kącie nastawienia &alpha;=ß"
     },
     {
       "name": "PL080-0478",
@@ -15728,11 +15728,11 @@
     },
     {
       "name": "PL080-0484",
-      "text": "Stateczność dynamicznapodłużna zależy głównie od:",
-      "q1": "- rozkładu mas na samolocie;- wielkościstatecznika poziomego;- odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu",
-      "q2": "- rozkładu mas na samolocie; -wielkościstatecznika poziomego; - wielkości usterzenia pionowego",
-      "q3": "- wielkości statecznikapoziomego; - wielkości usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu",
-      "q4": "- wielkości usterzenia pionowego; -odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu; - rozkładu mas na samolocie"
+      "text": "Stateczność dynamiczna podłużna zależy głównie od:",
+      "q1": "- rozkładu mas na samolocie;- wielkości statecznika poziomego;- odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu",
+      "q2": "- rozkładu mas na samolocie; -wielkości statecznika poziomego; - wielkości usterzenia pionowego",
+      "q3": "- wielkości statecznika poziomego; - wielkości usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu",
+      "q4": "- wielkości usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu; - rozkładu mas na samolocie"
     },
     {
       "name": "PL080-0485",
@@ -15761,10 +15761,10 @@
     {
       "name": "PL080-0488",
       "text": "Stateczność statyczna poprzeczna zależy głównie od:",
-      "q1": "- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - układugrzbietopłata lub dolnopłata",
-      "q2": "- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; -położenia środka ciężkości samolotu",
-      "q3": "- wielkości usterzenia pionowego; - położenia środka ciężkości samolotu; -układu grzbietopłata lub dolnopłata",
-      "q4": "- położenia środka ciężkości samolotu; - układu grzbietopłatalub dolnopłata; - kąta wzniosu skrzydła"
+      "q1": "- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - układu grzbietopłata lub dolnopłata",
+      "q2": "- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - położenia środka ciężkości samolotu",
+      "q3": "- wielkości usterzenia pionowego; - położenia środka ciężkości samolotu; - układu grzbietopłata lub dolnopłata",
+      "q4": "- położenia środka ciężkości samolotu; - układu grzbietopłata lub dolnopłata; - kąta wzniosu skrzydła"
     },
     {
       "name": "PL080-0489",
@@ -15802,9 +15802,9 @@
       "name": "PL080-0497",
       "text": "Śmigło samolotu, w celu uzyskania jak największej sprawności, powinno:",
       "q1": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów w czasie lotu był podobny",
-      "q2": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów wzrastałw miarę oddalania się od osi obrotu",
-      "q3": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów malał wmiarę oddalania się od osi obrotu",
-      "q4": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów byłzbliżony do krytycznego kata natarcia"
+      "q2": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów wzrastał w miarę oddalania się od osi obrotu",
+      "q3": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów malał w miarę oddalania się od osi obrotu",
+      "q4": "być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów był zbliżony do krytycznego kata natarcia"
     },
     {
       "name": "PL080-0498",
@@ -15880,7 +15880,7 @@
     },
     {
       "name": "PL080-0511",
-      "text": "W spokojnym powietrzu, optymalny kąt toru lotu ślizgowego z wyłączonym silnikiem ‘&upsih;’,podczas wzrostu ciężaru samolotu:",
+      "text": "W spokojnym powietrzu, optymalny kąt toru lotu ślizgowego z wyłączonym silnikiem ‘&upsih;’, podczas wzrostu ciężaru samolotu:",
       "q1": "pozostaje niezmieniony",
       "q2": "wzrasta",
       "q3": "maleje",
@@ -15968,7 +15968,7 @@
     },
     {
       "name": "PL080-0527",
-      "text": "Zaleca się, aby zmiana mocy ze startowej na nominalną (śmigłoo przestawianym skoku) odbywała się w następujący sposób:",
+      "text": "Zaleca się, aby zmiana mocy ze startowej na nominalną (śmigło o przestawianym skoku) odbywała się w następujący sposób:",
       "q1": "zmniejszenie ciśnienia ładowania, a później zwiększenie skoku śmigła",
       "q2": "zwiększenie skoku śmigła, a później zmniejszenie ciśnienia ładowania",
       "q3": "zwiększenie ciśnienia ładowania, a później zmniejszenie skoku śmigła",
@@ -16008,11 +16008,11 @@
     },
     {
       "name": "PL080-0532",
-      "text": "Zwiększenie obciążeniajednostkowego powierzchni powoduje:",
-      "q1": "- wydłużenie długości startu i lądowania- wzrostprędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
-      "q2": "- skrócenie długości startu i lądowania-wzrost prędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
-      "q3": "- wydłużenie długości startu i lądowania-spadek prędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
-      "q4": "- wydłużenie długości startu i lądowania-wzrost prędkości minimalnej- wzrost maksymalnej prędkości wznoszenia"
+      "text": "Zwiększenie obciążenia jednostkowego powierzchni powoduje:",
+      "q1": "- wydłużenie długości startu i lądowania- wzrost prędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
+      "q2": "- skrócenie długości startu i lądowania- wzrost prędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
+      "q3": "- wydłużenie długości startu i lądowania- spadek prędkości minimalnej- spadek maksymalnej prędkości wznoszenia",
+      "q4": "- wydłużenie długości startu i lądowania- wzrost prędkości minimalnej- wzrost maksymalnej prędkości wznoszenia"
     }
   ],
   "communication": [
@@ -16234,7 +16234,7 @@
     },
     {
       "name": "PL090-0052",
-      "text": "Do łączności typu powietrze- powietrzeprzeznaczona jest częstotliwość:",
+      "text": "Do łączności typu powietrze- powietrze przeznaczona jest częstotliwość:",
       "q1": "123,450 MHz",
       "q2": "243,000 MHz",
       "q3": "136,000 MHz",
@@ -16282,7 +16282,7 @@
     },
     {
       "name": "PL090-0058",
-      "text": "Przykładem wiadomości rozsyłanej przezlotniczą służbę rozgłaszania jest nadawanie komunikatu:",
+      "text": "Przykładem wiadomości rozsyłanej przez lotniczą służbę rozgłaszania jest nadawanie komunikatu:",
       "q1": "ATIS",
       "q2": "AIP",
       "q3": "NOTAM",
@@ -16322,7 +16322,7 @@
     },
     {
       "name": "PL090-0064",
-      "text": "Jeśli operator radiostacji popełni błąd podczas nadawania, tobędzie wypowiadać wyrażenie:",
+      "text": "Jeśli operator radiostacji popełni błąd podczas nadawania, to będzie wypowiadać wyrażenie:",
       "q1": "POPRAWIAM",
       "q2": "NIEPRAWIDŁOWO",
       "q3": "POWTARZAM",
