@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { Helmet } from "react-helmet";
-import { memo, useCallback, useState } from "react";
+import { memo, useCallback, useEffect, useState } from "react";
 import { Question } from "types";
 
 import { QuestionsBlock } from "components/questions-block";
@@ -22,6 +22,10 @@ export const QuestionsPage = memo((props: Props) => {
     const storedPage = localStorage.getItem(`${title}_page`);
     return Number(storedPage) || 1;
   });
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [page]);
 
   const handlePageChange = useCallback(
     (page: number) => {
