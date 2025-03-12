@@ -1,0 +1,37 @@
+.page {
+  padding: 20px;
+  width: 100%;
+}
+
+.title {
+  color: var(--color-main-darker);
+  font-weight: 500;
+}
+
+.list {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.listItem {
+  font-size: 1.4em;
+  font-weight: 300;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.listItemLink {
+  display: block;
+  box-shadow: 0 0 5px #ddd;
+  width: 100%;
+  padding: 10px;
+  transition: box-shadow 0.25s, background-color 0.25s;
+
+  &:hover,
+  &:focus {
+    background-color: var(--color-main);
+    box-shadow: 0 0 20px #ddd;
+  }
+}

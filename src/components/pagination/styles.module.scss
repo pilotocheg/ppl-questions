@@ -1,0 +1,52 @@
+.pagination {
+  margin-top: 2rem;
+}
+
+.sliderContainer {
+  display: flex;
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  flex: 1;
+  height: 3em;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+  padding: 0;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 3em;
+    width: 20px;
+    border-radius: 2px;
+    background-color: var(--color-header);
+  }
+}
+
+.arrowBtn {
+  width: 3em;
+  height: 3em;
+  background-color: var(--color-main);
+  color: var(--color-header);
+
+  &:disabled {
+    background-color: #d3d3d3;
+    color: #b3b3b3;
+    pointer-events: none;
+  }
+
+  span {
+    font-size: 1.5em;
+  }
+}

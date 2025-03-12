@@ -1,0 +1,44 @@
+.container {
+  margin-top: 2rem;
+}
+
+.questionName {
+  font-family: Lato Light, sans-serif;
+  font-size: 1.5em;
+  color: var(--color-main);
+}
+
+.questionTitle {
+  font-size: 2rem;
+  line-height: 2rem;
+  margin: 0;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.questionItem {
+  padding: 20px 15px;
+  border: 1px solid var(--color-main);
+  font-size: 1.1em;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+
+  @media (hover: hover) {
+    &:hover {
+      background-color: var(--color-main);
+      color: var(--color-text-hover);
+    }
+  }
+
+  &.incorrect {
+    background-color: var(--color-danger);
+    color: var(--color-background);
+    pointer-events: none;
+  }
+
+  &.correct {
+    background-color: var(--color-success-icon);
+    pointer-events: none;
+  }
+}

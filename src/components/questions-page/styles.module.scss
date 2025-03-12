@@ -1,0 +1,29 @@
+.page {
+  padding: 20px;
+}
+
+.nav {
+  border-bottom: 1px solid #eee;
+  color: var(--color-disabled);
+  letter-spacing: 0.05em;
+}
+
+.link {
+  display: inline-block;
+  padding: 5px;
+
+  color: var(--color-main-darker);
+
+  &:first-child {
+    margin-left: -5px;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.linkDisabled {
+  display: inline-block;
+  padding: 5px;
+}
