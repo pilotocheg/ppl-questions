@@ -6,5 +6,5 @@ import { name } from "./package.json";
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
   plugins: [react(), tsconfigPaths()],
-  base: command === "build" ? `/${name}` : "/",
+  base: command === "build" ? `/${name}/` : "/",
 }));
