@@ -1,5 +1,6 @@
 import { memo } from "react";
 import { Link } from "react-router";
+import { Helmet } from "react-helmet";
 
 import styles from "./styles.module.scss";
 
@@ -12,6 +13,9 @@ export const MainPage = memo((props: Props) => {
 
   return (
     <div className={styles.page}>
+      <Helmet>
+        <title>PPL(A)</title>
+      </Helmet>
       <h1 className={styles.title}>PPL(A) - Rozdzialy:</h1>
       <ul className={styles.list}>
         {pages.map(([path, title]) => (

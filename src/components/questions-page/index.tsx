@@ -1,11 +1,12 @@
-import { QuestionsBlock } from "components/questions-block";
+import { NavLink } from "react-router";
+import { Helmet } from "react-helmet";
 import { memo, useCallback, useState } from "react";
 import { Question } from "types";
 
+import { QuestionsBlock } from "components/questions-block";
 import { Pagination } from "components/pagination";
 
 import styles from "./styles.module.scss";
-import { NavLink } from "react-router";
 
 type Props = {
   title: string;
@@ -35,6 +36,9 @@ export const QuestionsPage = memo((props: Props) => {
 
   return (
     <div className={styles.page}>
+      <Helmet>
+        <title>PPL(A) | {title}</title>
+      </Helmet>
       <nav className={styles.nav}>
         <NavLink className={styles.link} to="/">
           Rozdziały
