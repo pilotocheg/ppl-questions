@@ -24,6 +24,7 @@ export const QuestionsBlock = memo((props: Props) => {
       <ul>
         {questions.map((question) => (
           <li
+            dangerouslySetInnerHTML={{ __html: question }}
             onClick={() => setSelected(question)}
             className={classNames(styles.questionItem, {
               [styles.correct]:
@@ -32,9 +33,7 @@ export const QuestionsBlock = memo((props: Props) => {
                 selected === question && question !== correctQuestion,
             })}
             key={question}
-          >
-            {question}
-          </li>
+          />
         ))}
       </ul>
     </li>
