@@ -42,7 +42,10 @@ export const QuestionsBlock = memo((props: Props) => {
           <img src={isFavorite ? starFilledIcon : starEmptyIcon} alt="star" />
         </button>
       </div>
-      <h2 className={styles.questionTitle}>{text}</h2>
+      <h2
+        className={styles.questionTitle}
+        dangerouslySetInnerHTML={{ __html: text }}
+      />
       <ul>
         {questions.map((question) => (
           <li
