@@ -68,7 +68,7 @@ przyjmowania leku:",Powinien zasięgnąć porady lotniczo-lekarskiej.,Powinien z
 30,PL010-0027,Kto jest członkiem personelu lotniczego?,Posiadacz PPL.,Personel pokładowy.,"Posiadacz świadectwa dopuszczenia do
 pracy.",Posiadacz PPL i personel pokładowy.
 31,PL010-0028,"W przypadku wszystkich lotów w przestrzeni powietrznej klasy
-„C”:","Wszystkie loty statków powietrznych są wykonywane z zapewnieniem służb kontroli ruchu lotniczego, a także wymagana jest wobec nich ciągła łączność
+\"C\":","Wszystkie loty statków powietrznych są wykonywane z zapewnieniem służb kontroli ruchu lotniczego, a także wymagana jest wobec nich ciągła łączność
 foniczna powietrze-ziemia.",Wszystkie loty statków powietrznych są wykonywane z zapewnieniem służb kontroli ruchu lotniczego.,Wymagana jest wobec nich ciągła łączność foniczna powietrze-ziemia.,Dozwolone są wyłącznie loty IFR.
 32,PL010-0029,"Członkowie załogi statku
 powietrznego mogą stosować wyłącznie środki przymusu:","Odpowiadające potrzebom wynikającym z istniejącej
@@ -611,7 +611,7 @@ lotnictwie cywilnym.",Loty szkoleniowe.
 widzialność w locie",8 km.,1500 m.,5 km.,10 km.
 ,,"jest nie mniejsza
 niż:",,,,
-263,PL010-0351,"Meldunek „Na krótkiej prostej” jest podawany, gdy statek pow. znajdujący się w kręgu nadlotniskowym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia
+263,PL010-0351,"Meldunek \"Na krótkiej prostej\" jest podawany, gdy statek pow. znajdujący się w kręgu nadlotniskowym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia
 mniejszej niż:",4 NM.,4 km.,15 km.,8 NM.
 264,PL010-0352,"Nie mając przydzielonego indywidualnego kodu SSR, wlatując w locie IFR w przestrzeń powietrzną, gdzie na potrzeby służby ruchu lotniczego wykorzystywany jest radar wtórny, dowódca statku powietrznego wyposażonego w
 transponder powinien włączyć",2000,7000,7600,Każdy dowolny kod.
@@ -694,8 +694,8 @@ Oznacza to, że:",Należy lądować na tym lotnisku i kołować do płyty postoj
 ,,"łączności. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły
 sygnał czerwony. Oznacza to, że:",powietrznym i kontynuować okrążenie.,,,kołować do płyty postojowej.
 299,PL010-0391,"Dowódca samolotu lecącego z lotniska
-„AAAA” do lotniska
-„BBBB”, lotnisko zapasowe „CCCC”, zgłosił, że ma na pokładzie chorego pasażera wymagającego natychmiastowej pomocy lekarskiej. Otrzymał zezwolenie na zniżanie i lądowanie na lotnisku „DDDD”. W tej sytuacji wykona
+\"AAAA\" do lotniska
+\"BBBB\", lotnisko zapasowe \"CCCC\", zgłosił, że ma na pokładzie chorego pasażera wymagającego natychmiastowej pomocy lekarskiej. Otrzymał zezwolenie na zniżanie i lądowanie na lotnisku \"DDDD\". W tej sytuacji wykona
 lądowanie:",Przymusowe.,Techniczne.,Awaryjne.,Zwykłe.
 300,PL010-0392,Dowódca statku powietrznego ma prawo decydować o:,"Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń oraz w stosunku do osób zagrażających
 bezpieczeństwu lotu lub","Tylko o zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń.","Tylko o zastosowani niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób zagrażających bezpieczeństwu lotu
@@ -979,17 +979,17 @@ wykonywane:","Z dala od chmur i z widocznością terenu lub
 świateł w terenie.",Nie niżej niż 300 m pod pułapem chmur.,Nie niżej niż 200 m pod pułapem chmur.,Nie niżej niż 500 m nad przeszkodami.
 414,PL010-0525,"Loty nocne VFR na samolotach na trasach i w przelotach mogą być wykonywane
 nie  niżej niż:",300 m.,100 m.,200 m.,500 m.
-415,PL010-0526,"Meldunek „Na
-długiej prostej” jest",15 km.,8 km.,15 NM.,4 km.
+415,PL010-0526,"Meldunek \"Na
+długiej prostej\" jest",15 km.,8 km.,15 NM.,4 km.
 ,,"podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu
 przyziemienia:",,,,
-416,PL010-0527,"Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia
+416,PL010-0527,"Meldunek \"Na długiej prostej\" jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia
 większej niż:",7 km.,15 km.,10 km.,4 km.
-417,PL010-0528,"Meldunek „Na prostej” jest podawany, gdy statek powietrzny znajdujący się w
+417,PL010-0528,"Meldunek \"Na prostej\" jest podawany, gdy statek powietrzny znajdujący się w
 kręgu",7 km.,15 km.,10 km.,4 km.
 ,,"nadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od
 punktu przyziemienia:",,,,
-418,PL010-0529,"Meldunek „Na prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu
+418,PL010-0529,"Meldunek \"Na prostej\" jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu
 przyziemienia:",4 NM.,15 km.,10 km.,4 km.
 419,PL010-0530,"Minimalne wysokości w lotach nocnych VFR na trasach i w przelotach określa
 się od:",Przeszkód.,Terenu.,Od najwyższego wzniesienia terenu na trasie.,Elewacji lotniska.
@@ -1186,7 +1186,7 @@ wyznaczane strefy:",Niebezpieczne.,Zakazane.,Ograniczone.,RCA.
 492,PL010-0614,W przypadku akcji przechwytywania dowódca przechwytywanego statku powietrznego,7700,7500,7600,7000
 ,,"powinien włączyć
 kod transpondera:",,,,
-493,PL010-0615,W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie „A” na kod:,7500,7600,7700,7000
+493,PL010-0615,W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie \"A\" na kod:,7500,7600,7700,7000
 494,PL010-0616,"W przypadku negatywnego wyniku sprawdzenia umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień
 lotniczych:",Prezes ULC zawiesza ważność uprawnienia .,EASA zabiera licencję w której jest wpisane uprawnienie.,Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego.,Minister Transportu zawiesza ważność uprawnienia.
 495,PL010-0617,"Kandydat, który nie zaliczy wszystkich sekcji kontroli umiejętności przed datą upływu ważności uprawnienia na
@@ -1194,8 +1194,8 @@ klasę lub typ:",Nie może korzystać z tego uprawnienia do czasu zaliczenia kon
 496,PL010-0624,"W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM
 FAILURE) pilot nastawia",7600,7500,7700,7000
 ,,"transponder w
-modzie „A” na kod:",,,,
-497,PL010-0625,W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie „A” na kod:,7700,7600,7500,7000
+modzie \"A\" na kod:",,,,
+497,PL010-0625,W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie \"A\" na kod:,7700,7600,7500,7000
 498,PL010-0626,"W stosunku do jakich obywateli można stosować polską ustawę karną, w przypadku popełnienia za granicą przestępstwa lub wykroczenia przeciwko przepisom o locie i manewrowaniu statku
 powietrznego?",Do obywateli polskich i cudzoziemców.,Tylko do obywateli polskich.,Tylko do cudzoziemców.,Tylko do obywateli polskich jeżeli wyrażą na to zgodę.
 499,PL010-0627,"W strefie kontrolowanej lotniska objętej klasą C dowódca statku powietrznego wykonującego lot VFR jest odpowiedzialny za
@@ -1372,10 +1372,10 @@ podłużnej samolotu"
 siły nośnej skrzydła",,,
 574,PL020-0019,Radiostacja w czasie nadawania ma możliwość:,Samopodsłuchu.,Zmiany rodzaju modulacji.,Zmiany ilości kanałów.,Wybrania częstotliwości powyżej 137MHz.
 575,PL020-0020,Radiostacje lotnicze pracują:,Systemem simpleks.,Systemem dupleks.,Systemem ogólnym .,Inne.
-576,PL020-0021,"Układ „miękki“ sterowania mechanizmami sterowniczymi
+576,PL020-0021,"Układ \"miękki“ sterowania mechanizmami sterowniczymi
 stanowi:",Linki stalowe i układ rolek,"Popychacze połączone z amortyzatorami gumowymi oraz
 dzwignie",Linki stalowe i popychacze oraz rolki,Popychacze z układem rolek
-577,PL020-0022,Układ „sztywny“ sterowania mechanizmami sterowniczymi stanowi:,Popychacze sztywne z układem dźwigni,Popychacze sztywne i linki z układem rolek,Popychacze sztywne i linki z układem dźwigni,Linki w sztywnych rurkach i układ dźwigni
+577,PL020-0022,Układ \"sztywny“ sterowania mechanizmami sterowniczymi stanowi:,Popychacze sztywne z układem dźwigni,Popychacze sztywne i linki z układem rolek,Popychacze sztywne i linki z układem dźwigni,Linki w sztywnych rurkach i układ dźwigni
 578,PL020-0026,"Co wskazuje amperomierz wychylony w prawo
 od zera:",prawidłową pracę prądnicy lub alternatora,prawidłową pracę prędkościomierza,prawidłową pracę sztucznego horyzontu,prawidłową pracę obrotomierz
 579,PL020-0027,"Agregaty silnikowe
@@ -1616,7 +1616,7 @@ napędzane są",,,,
 do","Wtrysk paliwa do cylindrów lub układu
 dolotowego",Mieszanie paliwa i powietrza,Przygotowanie mieszanki palnej,Podanie paliwa do gaźnika
 697,PL020-0159,"Poziom oleju
-„między kreskami” na miarce bagnetowej oznacza",Prawidłową ilość oleju,Nieprawidłową ilość oleju,Należy dolać do górnej kreski,Należy obniżyć poziom oleju do dolnej kreski
+\"między kreskami\" na miarce bagnetowej oznacza",Prawidłową ilość oleju,Nieprawidłową ilość oleju,Należy dolać do górnej kreski,Należy obniżyć poziom oleju do dolnej kreski
 698,PL020-0160,Pozycja SBYw transponderze służy do:,Przygotowania transpondera do pracy.,Uaktywnienia pracy transpondera.,Podawania wysokości lotu.,Identyfikacji .
 699,PL020-0161,Praca odbiornika GPS oparta jest na:,Doborze odpowiedniej ilości satelitów.,"Wybraniu odpowiednich radiolatarni
 prowadzących.",Wykorzystaniu zjawiska Dopplera.,Wykorzystaniu zjawiska interferencji.
@@ -1851,114 +1851,114 @@ aktualne QNH, a",Zawsze odczytując wysokość wskazywaną przez wysokościomier
 ,,,,"następnie korygujemy ją, ze względu odczytaną temperaturę
 otoczenia.","następnie skorygujemyją ze względu odczytaną temperaturę
 otoczenia.",nastawiony na aktualne QNH.
-799,PL030-0027,„Wpływ ziemi” pozwala na:.,"Oderwanie samolotu przy mniejszej prędkości, ale zjawisko zanika na wysokości równej w przybliżeniu rozpiętości i osiągi spadają.",Osiągnięcie większej mocy silnika blisko ziemi (dotyczy silników bez sprężarkowych).,Lepszą obserwacje otoczenia przez pilota ze względu na szersze pole widzenia blisko ziemi.,"Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu
+799,PL030-0027,\"Wpływ ziemi\" pozwala na:,"Oderwanie samolotu przy mniejszej prędkości, ale zjawisko zanika na wysokości równej w przybliżeniu rozpiętości i osiągi spadają.",Osiągnięcie większej mocy silnika blisko ziemi (dotyczy silników bez sprężarkowych).,Lepszą obserwacje otoczenia przez pilota ze względu na szersze pole widzenia blisko ziemi.,"Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu
 rozpiętości samolotu."
-800,PL030-0028,„Wpływ ziemi” to zjawisko polegające na:.,"Redukcji oporu indukowanego oraz kąta natarcia potrzebnego do lotu poziomego (przy danej prędkości) co jest spowodowanej bliskością
+800,PL030-0028,\"Wpływ ziemi\" to zjawisko polegające na:,"Redukcji oporu indukowanego oraz kąta natarcia potrzebnego do lotu poziomego (przy danej prędkości) co jest spowodowanej bliskością
 ziemii.",Znacznym skróceniu fazy wytrzymania przy lądowaniu.,Osiąganiu większej mocy przez silniki tłokowe blisko ziemi (dotyczy silników bezsprężarkowych).,"Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu
 rozpiętości samolotu."
 801,PL030-0029,"Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko
-„hydroplanning’” (dynamiczne) muszą wystąpić nastepujące
-czynniki:.",Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prękość.,Bieżniki koł samolotu muszą rozgrzać się do wysokiej temperatury podczas intensywnego hamowania na wilgotnym pasie.,Jedna z koł samolotu musi zostać zablokowane (np. awaria anti-skid) na mokrym pasie.,„Hydroplanning’” to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody.
-802,PL030-0034,Co to jest V<sub>X</sub>:.,"To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.","To prędkość, przy której osiąga się najlepszą prędkość
+\"hydroplanning’\" (dynamiczne) muszą wystąpić nastepujące
+czynniki:",Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prękość.,Bieżniki koł samolotu muszą rozgrzać się do wysokiej temperatury podczas intensywnego hamowania na wilgotnym pasie.,Jedna z koł samolotu musi zostać zablokowane (np. awaria anti-skid) na mokrym pasie.,\"Hydroplanning’\" to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody.
+802,PL030-0034,Co to jest V<sub>X</sub>:,"To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.","To prędkość, przy której osiąga się najlepszą prędkość
 wznoszenia Best Rate of Climb.","To prędkość decyzji, przy której są bezpiecznie
 spełnione warunki do przerwania i","To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu."
 ,,,,,"kontynuowania
 startu.",
-803,PL030-0035,Co to jest V<sub>Y</sub>:.,"To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.","To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.","To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.","To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu."
+803,PL030-0035,Co to jest V<sub>Y</sub>:,"To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.","To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.","To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.","To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu."
 804,PL030-0038,"Czy wysoka wilgotność przyczynia się do spadku osiągów
-samolotu:.",Tak.,Fałsz – chłodzi silnik i przez to poprawia osiągi.,Wilgotność powietrza nie ma wpływu na osiągi.,Wszystkie podane odpowiedzi są nieprawdziwe.
+samolotu:",Tak.,Fałsz – chłodzi silnik i przez to poprawia osiągi.,Wilgotność powietrza nie ma wpływu na osiągi.,Wszystkie podane odpowiedzi są nieprawdziwe.
 805,PL030-0041,"Dla każdej kombinacji wysokości lotu i masy samolotu, w zakresie prędkości minimalnej do maksymalnej
-istnieje:.","Taki kąt natarcia, przy którym siła nośna równa się ciężarowi i możliwy jest lot poziomy.","Takie przechylenie, które zapewnia, że siła nośna równa się ciężarowi i możliwy jest lot poziomy","Taki kąt natarcia, przy którym siła oporu równa się ciągowi wytwarzanemu przez jednostki napędowe i możliwy jest lot poziomy.","Taki kąt natarcia, przy którym siła nośna równa się ciężarowi razy cosinus kąta natarcia i możliwy jest lot poziomy."
+istnieje:","Taki kąt natarcia, przy którym siła nośna równa się ciężarowi i możliwy jest lot poziomy.","Takie przechylenie, które zapewnia, że siła nośna równa się ciężarowi i możliwy jest lot poziomy","Taki kąt natarcia, przy którym siła oporu równa się ciągowi wytwarzanemu przez jednostki napędowe i możliwy jest lot poziomy.","Taki kąt natarcia, przy którym siła nośna równa się ciężarowi razy cosinus kąta natarcia i możliwy jest lot poziomy."
 806,PL030-0042,"Duża wysokość gęstościowa oznacza (w stosunku do małej wysokości
-gęstościowej):.",Małą gęstość powietrza i niskie osiągi samolotu.,Dużą gęstość powietrza i niskie osiągi samolotu.,Dużą gęstość powietrza i wysokie osiągi samolotu.,Małą gęstość powietrza i wysokie osiągi samolotu.
+gęstościowej):",Małą gęstość powietrza i niskie osiągi samolotu.,Dużą gęstość powietrza i niskie osiągi samolotu.,Dużą gęstość powietrza i wysokie osiągi samolotu.,Małą gęstość powietrza i wysokie osiągi samolotu.
 807,PL030-0045,"Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku)
 wysoka",Zwiększenie długości rozbiegu.,Zmniejszenie długości rozbiegu.,Temperatura otoczenia nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
 ,,"temperatura otoczenia w porównaniu z przypadkiem, gdy temperatura
-otoczenia jest niska:.",,,,
+otoczenia jest niska:",,,,
 808,PL030-0046,"Jak wpłynie na długość rozbiegu samolotu start z lotniska położonego wysoko w górach, w stosunku do startu w takich samych warunkach temperatury, masy samolotu, wiatru i ustawiania klap z lotniska na 0 m
-npm:.",Start z wysoko położonego lotniska - większenie długości rozbiegu.,Zmniejszenie długości rozbiegu.,Elewacja lotniska nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
+npm:",Start z wysoko położonego lotniska - większenie długości rozbiegu.,Zmniejszenie długości rozbiegu.,Elewacja lotniska nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
 809,PL030-0047,"Jak wpłynie użycie większego wychylenia klap ( niż zwykle) na długość rozbiegu
-samolotu:.",Zmniejszenie długości rozbiegu.,Zwiększenie długości rozbiegu.,Nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
-810,PL030-0048,Jak wpłynie zwiększenie masy samolotu na długość rozbiegu:.,Zwiększenie długości rozbiegu.,Zmniejszenie długości rozbiegu.,Nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
+samolotu:",Zmniejszenie długości rozbiegu.,Zwiększenie długości rozbiegu.,Nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
+810,PL030-0048,Jak wpłynie zwiększenie masy samolotu na długość rozbiegu:,Zwiększenie długości rozbiegu.,Zmniejszenie długości rozbiegu.,Nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
 811,PL030-0049,Jakie będą efekty zmiany,Spadek temperatury otoczenia spowoduje,Wzrost temperatury otoczenia spowoduje,Spadek temperatury otoczenia spowoduje,Wzrost temperatury otoczenia spowoduje
 ,,"temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry
-pozostaną niezmnienione:.",wzrost gradientu wznoszenia.,spadek wymaganego dystansu do startu.,wzrost wymaganego dystansu do startu.,spadek wymaganego dystansu do startu i lądowania.
+pozostaną niezmnienione:",wzrost gradientu wznoszenia.,spadek wymaganego dystansu do startu.,wzrost wymaganego dystansu do startu.,spadek wymaganego dystansu do startu i lądowania.
 812,PL030-0050,"Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną
-niezmnienione:.",Spadek temperatury otoczenia spowoduje zmniejszenie wymaganego dystansu do startu.,Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.,Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.,Zmiany temperatury otoczenia nie spowodują zmiany wymaganego dystansu do startu.
+niezmnienione:",Spadek temperatury otoczenia spowoduje zmniejszenie wymaganego dystansu do startu.,Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.,Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.,Zmiany temperatury otoczenia nie spowodują zmiany wymaganego dystansu do startu.
 813,PL030-0055,Jeśli środek ciężkości znajduje się blisko skrajnego przedniego położenia to:,Nastąpi zmniejszenie prędkości wznoszenia.,"Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza się prędkość
 przeciągniecia.",nastąpi zmniejszenie zużycia paliwa podczas lotu ze względu na mniejszy opór.,nastąpi zmniejszenie oporu indukowanego.
-814,PL030-0057,Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:.,"Ze względu na konieczność większego wychylenia steru wysokości – wzrasta wymagana siła nośna na płacie – zwiększa się opór indukowany, co negatywnie wpływa na osiągi.","Ze względu na konieczność mniejszego wychylenia steru wysokości – zmniejsza się siła nośna na usterzeniu, co wymaga",Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza,Ze względu na konieczność większego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zwiększa
+814,PL030-0057,Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:,"Ze względu na konieczność większego wychylenia steru wysokości – wzrasta wymagana siła nośna na płacie – zwiększa się opór indukowany, co negatywnie wpływa na osiągi.","Ze względu na konieczność mniejszego wychylenia steru wysokości – zmniejsza się siła nośna na usterzeniu, co wymaga",Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza,Ze względu na konieczność większego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zwiększa
 ,,,,"zwiększenia siły nosniej na płacie co zmniejsza opór indukowany i ma negatywny wpływ na
 osiągi.",się prędkość przeciągniecia.,się prędkość przeciągniecia.
 815,PL030-0059,"Kierunek pasa 040°,
-wiatr 270 / 18 kt (ATIS). Jakie są składowe wiatru:.","W ogon: 12 kt, boczna – z lewej 14 kt.","Czołowa: 12 kt, boczna – z prawej 14 kt.","Czołowa: 16 kt, boczna – z prawej 16 kt.","W ogon: 8 kt, boczna – z lewej 21 kt."
+wiatr 270 / 18 kt (ATIS). Jakie są składowe wiatru:","W ogon: 12 kt, boczna – z lewej 14 kt.","Czołowa: 12 kt, boczna – z prawej 14 kt.","Czołowa: 16 kt, boczna – z prawej 16 kt.","W ogon: 8 kt, boczna – z lewej 21 kt."
 816,PL030-0060,"Kierunek pasa 150°,
 wiatr 220 / 22 kt (ATIS). Jakie są
-składowe wiatru:.","Czołowa: 8 kt, boczna – z prawej 21 kt.","Czołowa: 14 kt, boczna – z prawej 17 kt.","Czołowa: 4 kt, boczna – z prawej 22 kt.","W ogon: 8 kt, boczna – z lewej 21 kt."
+składowe wiatru:","Czołowa: 8 kt, boczna – z prawej 21 kt.","Czołowa: 14 kt, boczna – z prawej 17 kt.","Czołowa: 4 kt, boczna – z prawej 22 kt.","W ogon: 8 kt, boczna – z lewej 21 kt."
 817,PL030-0061,"Kierunek pasa 200°,
 wiatr 080 / 13 kt
-(ATIS). Jakie są składowe wiatru:.","W ogon: 7 kt, boczna – z lewej 11 kt.","Czołowa: 7 kt, boczna – z prawej 11 kt.","Czołowa: 4 kt, boczna – z prawej 12 kt.","W ogon: 8 kt, boczna – z lewej 12 kt."
+(ATIS). Jakie są składowe wiatru:","W ogon: 7 kt, boczna – z lewej 11 kt.","Czołowa: 7 kt, boczna – z prawej 11 kt.","Czołowa: 4 kt, boczna – z prawej 12 kt.","W ogon: 8 kt, boczna – z lewej 12 kt."
 818,PL030-0062,"Kierunek pasa 220°,
-wiatr 160 / 26 kt (ATIS). Jakie są składowe wiatru:.","Czołowa: 13 kt, boczna – z lewej 23 kt.","Czołowa: 14 kt, boczna – z prawej 17 kt.","Czołowa: 9 kt, boczna – z prawej 23 kt.","W ogon: 13 kt, boczna – z lewej 22 kt."
+wiatr 160 / 26 kt (ATIS). Jakie są składowe wiatru:","Czołowa: 13 kt, boczna – z lewej 23 kt.","Czołowa: 14 kt, boczna – z prawej 17 kt.","Czołowa: 9 kt, boczna – z prawej 23 kt.","W ogon: 13 kt, boczna – z lewej 22 kt."
 819,PL030-0063,"Kierunek pasa 330°,
-wiatr 250 / 15 kt (ATIS). Jakie są składowe wiatru:.","Czołowa: 3 kt, boczna – z lewej 15 kt.","Czołowa: 8 kt, boczna – z lewej 13 kt.","W ogon: 3 kt, boczna – z lewej 15 kt.","W ogon: 3 kt, boczna – z prawej 15 kt."
+wiatr 250 / 15 kt (ATIS). Jakie są składowe wiatru:","Czołowa: 3 kt, boczna – z lewej 15 kt.","Czołowa: 8 kt, boczna – z lewej 13 kt.","W ogon: 3 kt, boczna – z lewej 15 kt.","W ogon: 3 kt, boczna – z prawej 15 kt."
 820,PL030-0064,"Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas
 startu, przyczynią","duża temperatura, duża wysokość gęstościowa, duża wilgotność.","mała temperatura, duża wysokość gestościowa, mała wilgotność.","duża temperatura, mała wysokość gestościowa, małą wilgotność.","mała temperatura, małą wysokość gestościowa, mała wilgotność."
 ,,"się największego
-spadku osiągów samolotu:.",,,,
+spadku osiągów samolotu:",,,,
 821,PL030-0065,"Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów
-samolotu:.",duża wysokość gęstościowa i duża temperatura otoczenia.,silny wiatr czołowy.,"słaby opad deszczu przy niskiej, ale dodatniej temperaturze otoczenia.",niska temperatura otoczenia.
-822,PL030-0066,Liczba Macha to stosunek:.,Prędkości TAS i lokalnej prędkości dźwięku.,Prędkości IAS i lokalnej prędkości dźwięku.,"Prędkości IAS i prędkości dźwięku na danej wysokości
+samolotu:",duża wysokość gęstościowa i duża temperatura otoczenia.,silny wiatr czołowy.,"słaby opad deszczu przy niskiej, ale dodatniej temperaturze otoczenia.",niska temperatura otoczenia.
+822,PL030-0066,Liczba Macha to stosunek:,Prędkości TAS i lokalnej prędkości dźwięku.,Prędkości IAS i lokalnej prędkości dźwięku.,"Prędkości IAS i prędkości dźwięku na danej wysokości
 odniesionej do ISA.",Prędkości TAS i prędkości dźwięku na poziomie morza.
-823,PL030-0068,Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:.,maksymalna masa do lądowania w normalnych okolicznościach.,"maksymalna masa do lądowania - nieprzekraczalna - nawet w sytuacjach awaryjnych ze względu na pewność zniszczenia
+823,PL030-0068,Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:,maksymalna masa do lądowania w normalnych okolicznościach.,"maksymalna masa do lądowania - nieprzekraczalna - nawet w sytuacjach awaryjnych ze względu na pewność zniszczenia
 konstrukcji.",maksymalna masa do lądowania w sytuacjach awaryjnych (1.3 razy większa od normalnej masy do lądowania).,maksymalna masa do startu i do lądowania w sytuacjach awaryjnych (1.3 razy większa od normalnej masy do lądowania).
-824,PL030-0072,"Mała wysokość gęstościowa oznacza, że:.",Gęstość powietrza jest duża – czyli osiągi samolotu będą lepsze niż w przypadku dużej wysokości gestościowej.,Gęstość powietrza jest duża – czyli osiągi samolotu będą dużo gorsze niż w przypadku dużej wysokości gestościowej.,"Gęstość powietrza jest mała, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości
+824,PL030-0072,"Mała wysokość gęstościowa oznacza, że:",Gęstość powietrza jest duża – czyli osiągi samolotu będą lepsze niż w przypadku dużej wysokości gestościowej.,Gęstość powietrza jest duża – czyli osiągi samolotu będą dużo gorsze niż w przypadku dużej wysokości gestościowej.,"Gęstość powietrza jest mała, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości
 gestościowej.","Gęstość powietrza jest duża, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości
 gestościowej."
 825,PL030-0078,"Najbardziej ekonomiczny z punktu widzenia zużycia paliwa / zasięgu kąt natarcia
-to taki, który wytwarza:.","Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia jest stały dla każdej kombinacji
+to taki, który wytwarza:","Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia jest stały dla każdej kombinacji
 wysokości lotu i masy samolotu.","Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia rośnie wraz z
 masą samolotu oraz wysokością lotu.",Najlepszy stosunek siły oporu do ciągu.,Najlepszy stosunek siły nośnej do ciągu.
 826,PL030-0079,"Odnośnie efektu
-„wpływu ziemi” prawdą jest, że:.","Zjawisko zanika na wysokości równej w przybliżeniu rozpiętości samolotu / szybowca i
+\"wpływu ziemi\" prawdą jest, że:","Zjawisko zanika na wysokości równej w przybliżeniu rozpiętości samolotu / szybowca i
 osiągi spadają.",Zjawisko znaczne skraca fazę wytrzymania przy lądowaniu.,Poprawia się gradient wznoszenia do wysokości 150 m.,Wzrasta istotnie prędkość przeciągnięcia.
-827,PL030-0080,"Odnośnie wpływu oblodzenia na osiągi statków powietrznych prawdą jest, że:.","Nawet drobne zanieczyszczenie typu
-„papier ścierny” powierzchni nośnych może mieć niebezpieczny wpływ na osiągi.","Lód na górnej powierzchni skrzydeł
+827,PL030-0080,"Odnośnie wpływu oblodzenia na osiągi statków powietrznych prawdą jest, że:","Nawet drobne zanieczyszczenie typu
+\"papier ścierny\" powierzchni nośnych może mieć niebezpieczny wpływ na osiągi.","Lód na górnej powierzchni skrzydeł
 /łopat wirników jest mniej niebezpieczny niż na dolnej.",Głównym czynnikiem wpływającym na osiągi statków powietrznych jest masa osadzającego się na nich lodu.,"Aby na statku powietrznym pojawiło się oblodzenie mające wpływ na osiągi musi on poruszać się w
 chmurach."
 828,PL030-0085,"Podczas wykonywania prawidłowego zakrętu z przechyleniem 60
-stopni:.",Prękość przeciągnięcia wzrosnie o około 40%.,Prękość przeciągnięcia spadnie o około 20%.,Prękość przeciągnięcia wzrośnie o około 60%.,Prędkość przeciągnięcia nie zmienia się w zakręcie.
-829,PL030-0086,Podczas zakrętu:.,Pojawia się siła dośrodkowa  i przeciązenie (load factor).,"Siła ciężkości jest dokładnie równoważona przez
+stopni:",Prękość przeciągnięcia wzrosnie o około 40%.,Prękość przeciągnięcia spadnie o około 20%.,Prękość przeciągnięcia wzrośnie o około 60%.,Prędkość przeciągnięcia nie zmienia się w zakręcie.
+829,PL030-0086,Podczas zakrętu:,Pojawia się siła dośrodkowa  i przeciązenie (load factor).,"Siła ciężkości jest dokładnie równoważona przez
 siłę nośną.",Pojawia się przyspieszenie ujemne.,Spada prękość przeciągniecia.
 830,PL030-0087,"Przeciążenie wystepujące w zakręcie (load
-factor) to:.",Całkowita siła nośna dzielona przez ciężar.,Ciężar dzielony przez siłę nośną.,Ciąg dzielony przez ciężar.,Ciężar dzielony przez ciąg.
+factor) to:",Całkowita siła nośna dzielona przez ciężar.,Ciężar dzielony przez siłę nośną.,Ciąg dzielony przez ciężar.,Ciężar dzielony przez ciąg.
 831,PL030-0088,"Przy starcie z pasa nachylonego - pod górę – przyspieszenie podczas rozbiegu samolotu będzie ...
 ,a długość rozbiegu
-... :.","Mniejsze, wzrośnie.","Mniejsze, zmniejszy się.","Nie ma różnicy, nie ma wpływu na długość rozbiegu.","Większe, zmniejszy się."
+... :","Mniejsze, wzrośnie.","Mniejsze, zmniejszy się.","Nie ma różnicy, nie ma wpływu na długość rozbiegu.","Większe, zmniejszy się."
 832,PL030-0089,"Przy starcie z pasa o nachyleniu dodatnim – z góry długość rozbiegu
-samolotu:.",Zmniejszy się.,Zwiększy się.,Nachylenie drogi startowej nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
-833,PL030-0090,"Pułap praktyczny to wysokość ciśnieniowa, na której:.","prędkość wznoszenia statku powietrznego osiąga pewną, określoną przepisami, wartość.",prędkość wznoszenia statku powietrznego osiąga zero.,"prędkość przeciągniecia i krytyczna prędkość Macha statku powietrznego są
+samolotu:",Zmniejszy się.,Zwiększy się.,Nachylenie drogi startowej nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
+833,PL030-0090,"Pułap praktyczny to wysokość ciśnieniowa, na której:","prędkość wznoszenia statku powietrznego osiąga pewną, określoną przepisami, wartość.",prędkość wznoszenia statku powietrznego osiąga zero.,"prędkość przeciągniecia i krytyczna prędkość Macha statku powietrznego są
 równe.",prędkość statku powietrznego nie pozwala na żadne poziome manewry.
 834,PL030-0091,"Rozbieg z pasa o jakiej nawierzchni
-będzie najdłuższy:.",Wysoka trawa.,Niska trawa.,Beton.,Asfalt.
+będzie najdłuższy:",Wysoka trawa.,Niska trawa.,Beton.,Asfalt.
 835,PL030-0094,"Samolot musi być wyważony ze względu na zachowanie
-stateczności:.",podłużnej.,poprzecznej.,stayczynej poprzecznej.,dynamicznej poprzecznej i podłużnej.
+stateczności:",podłużnej.,poprzecznej.,stayczynej poprzecznej.,dynamicznej poprzecznej i podłużnej.
 836,PL030-0095,Samolot musi być wyważony ze względu na:,Zachowanie stateczności podłużnej.,Zachowanie stateczności poprzecznej.,Konieczność zachowania równomiernego obciążenia goleni podwozia.,"Zabezpieczenia przed przekroczeniem krytycznego kąta natarcia we wszystkich stanach
 lotu."
-837,PL030-0096,Skutki przeciążenia to między innymi:.,"Podwyższenie prędkości startu i prędkości bezpiecznych, wydłużenie dystansu do startu i lądowania, zmniejszenie prędkości wznoszenia, możliwość uszkodzeń
+837,PL030-0096,Skutki przeciążenia to między innymi:,"Podwyższenie prędkości startu i prędkości bezpiecznych, wydłużenie dystansu do startu i lądowania, zmniejszenie prędkości wznoszenia, możliwość uszkodzeń
 konstrukcji samolotu.","Obniżenie prędkości startu i prędkości bezpiecznych, nie ma zmian w osiągach silników.",Obniżenie prędkości startu i prędkości bezpiecznych oraz możliwość uszkodzeń konstrukcji samolotu.,Podwyższenie prędkości startu oraz zwiększenie zasięgu i długotrwałości lotu.
-838,PL030-0104,Użycie (wysunięcie) klap zmniejsza:.,Współczynnik sił nośnej do oporu.,Opór indukowany.,"Pole widzenia pilota ze względu na zwiększony kąt
+838,PL030-0104,Użycie (wysunięcie) klap zmniejsza:,Współczynnik sił nośnej do oporu.,Opór indukowany.,"Pole widzenia pilota ze względu na zwiększony kąt
 natarcia.",Ciąg potrzebny do lotu poziomego.
 839,PL030-0107,"W danym samolocie mamy dwa położenia klap: 0 i 10 stopni. Aby uzyskać krótszą długość rozbiegu
-użyjemy klap:.",10,0,Położenie klap nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
+użyjemy klap:",10,0,Położenie klap nie ma wpływu na długość rozbiegu.,wszystkie podane odpowiedzi są nieprawdziwe.
 840,PL030-0110,"W standardowym układzie (klasycznym) środek ciężkości samolotu jest
-(licząc od przodu):.",Przed środkiem aerodynamicznym.,Dokładnie w środku aerodynamicznym.,Zawsze dokładnie pod środkiem aerodynamicznym.,Za środkiem aerodynamicznym.
+(licząc od przodu):",Przed środkiem aerodynamicznym.,Dokładnie w środku aerodynamicznym.,Zawsze dokładnie pod środkiem aerodynamicznym.,Za środkiem aerodynamicznym.
 841,PL030-0111,"Ważenie samolotu: przednie kółko 1000kg, lewe i prawe koła główne po 5000kg.
 Odległość między kółkiem przednim i
 głównymi wynosi",0.91 m,0.75 m,9.1 m,0.81 m
 ,,"10 m. Ile przed kołami głównego podwozia znajduje
 się środek masy:",,,,
-842,PL030-0120,Zjawisko polegajce na oblodzeniu statecznika poziomego:.,Może doprowadzić do przeciągniecia statecznika poziomego i wejście samolotu w niekontrolowane nurkowanie.,"Gdy zaistnieje, wymaga takiego samego działania ze strony pilota – oddania steru od siebie, dodania mocy.",Występuje tylko na dużych samolotach pasażerskich.,"Jest najbardziej niebezpieczne przy dużych prędkościach lotu, kiedy skuteczność sterowania pochyleniem jest największa."
+842,PL030-0120,Zjawisko polegajce na oblodzeniu statecznika poziomego:,Może doprowadzić do przeciągniecia statecznika poziomego i wejście samolotu w niekontrolowane nurkowanie.,"Gdy zaistnieje, wymaga takiego samego działania ze strony pilota – oddania steru od siebie, dodania mocy.",Występuje tylko na dużych samolotach pasażerskich.,"Jest najbardziej niebezpieczne przy dużych prędkościach lotu, kiedy skuteczność sterowania pochyleniem jest największa."
 843,PL040-0002,Działanie kanałów półkolistych wynika z :,odchylania rzęsek komórek sensorycznych przez bezwładnościowy ruch endolimfy,"oddziaływania przyspieszeń liniowych na komórki nerwu
 przedsionkowego","odchylania rzęsek komórek sensorycznych przez kryształy węglanu
 wapnia /otoconia/","odbiorze wibracji przez wyspecjalizowane zakończenia
@@ -2038,7 +2038,7 @@ powietrza"
 wysokości jest:",,,,
 873,PL040-0041,Co określa uwarunkowania odporności psychicznej człowieka ?,"typ temperamentu, typ strategii zachowania i reakcji emocjonalnej w sytuacjach  trudnych, dojrzałość osobowości",dobre funkcjonowanie przy wzroście poziomu aktywacji,głównie cechy związane z doświadczeniem życiowym nabyte i wyuczone społecznie przez jednostkę,cechy w większości uwarunkowane dziedzicznie
 874,PL040-0042,"Co oznacza pojęcie
-„stres lotu”?","ważny aspekt początkowego szkolenia lotniczego: ogół sytuacji występującychw warunkach rzeczywistego lotu związanych z napięciem emocjonalnym pilota oraz czynnikami działającymi ze strony środowiska: przyspieszenie, hałas, wibracje, różnice
+\"stres lotu\"?","ważny aspekt początkowego szkolenia lotniczego: ogół sytuacji występującychw warunkach rzeczywistego lotu związanych z napięciem emocjonalnym pilota oraz czynnikami działającymi ze strony środowiska: przyspieszenie, hałas, wibracje, różnice
 temperatury i ciśnienia","określenie stanu niepewności, niepokoju i lęku u początkującego pilota",określa stan obniżonego nastroju u pilota w sytuacji przemęczenia pracą,określa niechęć do podejmowania obowiązków pilotowania statku powietrznego ściśle związaną z zespołem wypalenia zawodowego
 875,PL040-0043,"Częste zaburzenia zdrowia psychicznego związane z pracą
 pilotów  to:",zaburzenia z kręgu zaburzeń nerwicowych,zaburzenia o charakterze depresyjnym,zaburzenia o charakterze psychotycznym,zaburzenia związane z procesami adaptacji społecznej
@@ -2109,7 +2109,7 @@ lotu",zmiany obserwowanego obrazu związane z niemożnością odpowiedniej akomo
 najczęstsza","niedrożność dróg
 oddechowych",tamponada osierdzia,wstrząs krwotoczny,uraz kręgosłupa
 ,,"przyczyna pourazowej śmierci
-„do uniknięcia” u dorosłego pacjenta po doznanym urazie?",,,,
+\"do uniknięcia\" u dorosłego pacjenta po doznanym urazie?",,,,
 906,PL040-0076,Jaka tkanka nerwowa jest najbardziej wrażliwa na niedotlenienie wysokościowe:,istota szara mózgu,istota biała mózgu,synapsy i neurony,rdzeń kręgowy
 907,PL040-0077,"Jaki jest wpływ silnego stresu sytuacyjnego na elastyczność
 ludzkich zachowań?",pogarsza elastyczność z tendencją do zawężenia repertuaru zachowań,nie ma wpływu,kreatywnie bardzo poszerza możliwości działania,całkowicie dezintegruje działanie
@@ -2123,7 +2123,7 @@ atmosferycznego"
 911,PL040-0084,Komunikacja niewerbalna czyli,"podlegająca kontroli komunikacja bezsłowna
 oparta na przekazie","wygląd zewnętrzny człowieka i jego
 komunikatywność","siła, barwa i tembr głosu oraz intonacja","głęboko ukryte, niewypowiedziane"
-,,tzw. „mowa ciała” to:,"informacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach
+,,tzw. \"mowa ciała\" to:,"informacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach
 zachowań ludzkich",,w przekazie werbalnym,myśli  i pragnienia człowieka
 912,PL040-0085,Komunikacja werbalna to:,proces mówienia – słuchania – zadawania pytań – rozumienia wypowiedzi,umiejętność rozumienia mowy i wielowymiarowego znaczenia słów,"sposób komunikowania się zorganizowanych społeczeństw istot
 żywych","sygnały związane z mową ciała w połączeniu z wypowiedzianym
@@ -2169,7 +2169,7 @@ maszynami  (np.",są zawsze zakazane w lotnictwie,"nie są przeciwwskazane w lot
 sportowym",nie są przeciwwskazane u pilotów liniowych,są zakazane jedynie u pilotów liniowych
 ,,"prowadzeniu
 samochodu) :",,,,
-931,PL040-0104,Łączenie spożycia alkoholu etylowego oraz jego oddziaływania z wykonywaniem lotów stanowi bardzo ryzykowną figurę zwana „ śmiertelna pętlą” ponieważ:,"wywołuje niekorzystne skutki przede wszystkimw ośrodkowym układzie nerwowym, narządzie wzroku, narządzie równowagi /błędnik/",zwiększa tolerancję przyspieszeń Gz +,zwiększa  sprawność psychomotoryczną pilota,skraca czas reakcji wzrokowo - ruchowej
+931,PL040-0104,Łączenie spożycia alkoholu etylowego oraz jego oddziaływania z wykonywaniem lotów stanowi bardzo ryzykowną figurę zwana \"śmiertelna pętlą\" ponieważ:,"wywołuje niekorzystne skutki przede wszystkimw ośrodkowym układzie nerwowym, narządzie wzroku, narządzie równowagi /błędnik/",zwiększa tolerancję przyspieszeń Gz +,zwiększa  sprawność psychomotoryczną pilota,skraca czas reakcji wzrokowo - ruchowej
 932,PL040-0105,Metabolizm alkoholu odbywa się:,w wątrobie i jest w przybliżeniu stały w czasie,"w wątrobie i jest coraz szybszy ze wzrostem ilości
 wypitego alkoholu",w nerkach i jest stały w czasie,w mózgu i jest stały w czasie
 933,PL040-0106,Meteoryzm wysokościowy jest to:,ból brzucha spowodowany rozprężaniem się gazów w jelitach w związku ze zmianą wysokości,bóle zatok spowodowane rozprężaniem się gazów w zatokach w związku ze zmianą wysokości,ból w uszach spowodowany rozprężaniem się gazów w uchu środkowym w związku ze zmianą wysokości,ból zęba spowodowany rozprężaniem się gazóww kanale zębowym w związku ze zmianą wysokości
@@ -2226,7 +2226,7 @@ powodować",zawroty głowy,ból zęba,ból oka,ból brzucha
 955,PL040-0132,"Niektóre leki sprzedawane bez recepty mogą być przeciwwskazane podczas wykonywania
 czynności  pilota :",prawda,fałsz,prawda jedynie w przypadku pilotów liniowych,prawda jedynie w przypadku pilotów akrobacyjnych
 956,PL040-0133,"Nieżyt górnych dróg oddechowych
-/potocznie „katar”/ utrudnia:",wyrównywanie ciśnienia w uchu środkowym,dobre widzenie,rozróżnianie barw,prawidłową koordynację ruchów
+/potocznie \"katar\"/ utrudnia:",wyrównywanie ciśnienia w uchu środkowym,dobre widzenie,rozróżnianie barw,prawidłową koordynację ruchów
 957,PL040-0134,"O uszkodzeniu rdzenia kręgowego najprawdopodobni
 ej świadczą:","brak czucia w kończynach, niemożność poruszenia nimi, mimowolne oddanie
 moczu i stolca","nienaturalne położenie kończyny, pieczenie w okolicy
@@ -2296,7 +2296,7 @@ miejscu wypadku?",unieruchomić w szynie w pozycji maksymalnego komfortu,umieśc
 982,PL040-0161,"Po ilu minutach od zatrzymania krążenia dochodzi do obumierania
 mózgu?",od 3 do 5,od 10 do 12,od 0 do 22,od 1 do 2
 983,PL040-0162,"Po kilkunastu sekundach obserwacji stacjonarnego światła na ciemnym tle powierzchni ziemi, pilot odnosi wrażenie jego
-poruszania.",autokinezą,psychokinezą,oczopląsem,„kurzą ślepotą”
+poruszania.",autokinezą,psychokinezą,oczopląsem,\"kurzą ślepotą\"
 ,,"Złudzenie takie
 nazywamy:",,,,
 984,PL040-0163,Pod wpływem niedotlenienia wysokościowego następuje adaptacja do zmiany czynników środowiska :,tak,nie,zależy od indywidualnych możliwości organizmu,zależy od pojemności wyrzutowej serca
@@ -2314,7 +2314,7 @@ obniżenie siły mięśniowej",,,
 brzusznej)"
 990,PL040-0169,"Podczas wdechu i wydechu ciśnienie powietrza pęcherzykowatego jest sumą ciśnień parcjalnych wielu gazów takich jak : tlen, dwutlenek węgla i azot. Które z praw gazowych w sposób najlepszy opisuje to zjawisko
 :",prawo Daltona,"prawo Henrye""go",prawo Boyle`a,żadne z nich
-991,PL040-0171,"Podczas wykonywania „ pętli„ działa na pilota przyspieszenie o
+991,PL040-0171,"Podczas wykonywania \"pętli\"działa na pilota przyspieszenie o
 kierunku :",+Gz,-Gz,+Gx,- Gx
 992,PL040-0172,"Podczas wymiany gazowej w pęcherzyku
 płucnym :","tlen przechodzi do krwi, a dwutlenek węgla do pęcherzyka","tlen przechodzi do pęcherzyka, a dwutlenek węgla do
@@ -2327,7 +2327,7 @@ węgla przechodzą do tkanek"
 994,PL040-0174,"Podczas wznoszenia się na dużą wysokość częstość skurczów
 serca:",rośnie,maleje,utrzymuje się na stałym poziomie,na przemian rośnie i maleje
 995,PL040-0175,Podejmowanie decyzji przez człowieka jest :,"subiektywne i podatne na błędy, związane ze sposobem formułowania problemu i jego interpretacją oraz rodzajem postaw wobec
-ryzyka",zawsze związane z koniecznością przezwyciężenia zjawiska „bloku umysłowego”,redukcja rozwiązania złożonych problemów do prostszych cząstkowych operacji,głównie oparte na bieżącej analizie informacji zdrowotnych związanych z daną podjętą reakcją
+ryzyka",zawsze związane z koniecznością przezwyciężenia zjawiska \"bloku umysłowego\",redukcja rozwiązania złożonych problemów do prostszych cząstkowych operacji,głównie oparte na bieżącej analizie informacji zdrowotnych związanych z daną podjętą reakcją
 996,PL040-0176,"Podstawową
 funkcją narządów otolitowych jest :",pomiar przyspieszeń liniowych,pomiar prędkości liniowych,pomiar przyspieszeń kątowych,pomiar prędkości kątowych
 997,PL040-0177,Podstawową funkcją ozonu w atmosferze jest:,filtrowanie szkodliwego promieniowania UV,"filtrowanie szkodliwego promieniowania
@@ -2389,7 +2389,7 @@ MOŻE być objawem zażycia:","kannabinoli (marihuana, haszysz)",amfetaminy,koka
 percepcyjne"
 "101
 4",PL040-0197,"Przez pojęcie
-„czynnika ludzkiego"" w wypadkach lotniczych należy rozumieć (w znaczeniu szerokim):",nieadekwatne działanie pilota i osób odpowiedzialnychza organizacjei zabezpieczenia wykonywania lotów,awarię przyrządów pokładowych,zdarzenie losowe w powietrzu,utratę orientacji przestrzennej w chmurach
+\"czynnika ludzkiego"" w wypadkach lotniczych należy rozumieć (w znaczeniu szerokim):",nieadekwatne działanie pilota i osób odpowiedzialnychza organizacjei zabezpieczenia wykonywania lotów,awarię przyrządów pokładowych,zdarzenie losowe w powietrzu,utratę orientacji przestrzennej w chmurach
 "101
 5",PL040-0198,Przy krwawieniu z żyły :,krew zazwyczaj wypływa leniwym strumieniem i ma ciemnoczerwone zabarwienie,krew zazwyczaj wypływa leniwym strumieniem i ma jasnoczerwone zabarwienie,"krew zazwyczaj wypływa intensywnym tętniącym strumieniem i ma ciemnoczerwone
 zabarwienie",krew wypływa intensywnym strumieniem niezależnie od jej zabarwienia
@@ -2402,7 +2402,7 @@ rozróżniania i rozpoznawania",człowieka bez zakłóceń,,myślowych u człowi
 "101
 7",PL040-0200,"Przy szybkim spadku prędkości samolotu w locie poziomym i prostoliniowym pilot ulega
 złudzeniu :","opadania samolotu
-„nosem” w dół",podnoszenia „nosa” samolotu w górę,rotacji bocznej,autorotacji
+\"nosem\" w dół",podnoszenia \"nosa\" samolotu w górę,rotacji bocznej,autorotacji
 "101
 8",PL040-0201,Przy wystąpieniu bólu ucha przy zmniejszaniu wysokości należy:,"wyrównać poziom lotu i spróbować manewrów udrażniających przewód słuchowy (ziewanie,
 przełykanie śliny, itp.)",szybko zmniejszając wysokość przełykać ślinę,szybko zmniejszać wysokość z zatrzymanym oddechem,"niezależnie od wysokości nie robić nic czekając na ustąpienie
@@ -2411,8 +2411,8 @@ dolegliwości"
 9",PL040-0202,"Przy złamaniu kręgosłupa u poszkodowanego zawsze dochodzi do uszkodzenia rdzenia kręgowego stąd po urazie nie ma znaczenia w jakiej pozycji będzie on transportowany
 :","zdanie jest fałszywe i dlatego należy obchodzić się z takimi poszkodowanymi bardzo ostrożnie, ograniczyć ich poruszanie się i przenosić ich jedynie w pozycji poziomej",zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone w pozycji pionowej,zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone jedynie w pozycji poziomej,"zdanie jest fałszywe, a uszkodzenie rdzenia kręgowego nie ma żadnego związku z uszkodzeniem kręgosłupa"
 "102
-0",PL040-0203,Przy znacznym przyspieszaniu podczas startu samolotu pilot ulega złudzeniu :,podnoszenia „nosa” samolotu w górę,"opadania samolotu
-„nosem” w dół",rotacji bocznej,autorotacji
+0",PL040-0203,Przy znacznym przyspieszaniu podczas startu samolotu pilot ulega złudzeniu :,podnoszenia \"nosa\" samolotu w górę,"opadania samolotu
+\"nosem\" w dół",rotacji bocznej,autorotacji
 "102
 1",PL040-0204,"Przyczyną
 dolegliwości w",azotu,tlenu,dwutlenku węgla,pary wodnej
@@ -2499,8 +2499,8 @@ kompensacji tlenowej wynosi:",2.000-3.500 m,3.500-4.000 m,4.000-5.000 m,5.000-6.
 "104
 6",PL040-0229,Stresem psychologicznym nazywamy:,stan zmobilizowanego psychofizjologicznie organizmu wobec istniejącego lub antycypowanego zagrożenia,stan silnego podniesienia aktywności emocjonalnej,stan dużego napięcia wewnętrznego związanego z jakimś problemem,stan rozchwiania emocjonalnego związanego z jakimś problemem
 "104
-7",PL040-0230,Stresorami psychologicznymi nazywamy:,"czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do „ataku lub
-ucieczki”",wszelkie zakłócenia fizjologicznego funkcjonowania człowieka,czynniki powodujące bezsenność,problemy i kłopoty życia codziennego
+7",PL040-0230,Stresorami psychologicznymi nazywamy:,"czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do \"ataku lub
+ucieczki\"",wszelkie zakłócenia fizjologicznego funkcjonowania człowieka,czynniki powodujące bezsenność,problemy i kłopoty życia codziennego
 "104
 8",PL040-0231,"Stwierdzenie, że wymiana gazowa w pęcherzykach płucnych jest możliwa dopóki ciśnienie parcjalne tlenu (pO2) w powietrzu pęcherzykowym
 jest wyższe niż",prawdziwe i ma znaczenie dla pilotów,prawdziwe ale nie ma znaczenia dla pilotów,fałszywe,nieistotne dla pilota
@@ -2537,7 +2537,7 @@ odpowiednich wizualizacji",umiejętność szybkiego rozluźnienia się w czasie 
 może być :",wrodzona,po usunięciu soczewki,po przeszczepieniu rogówki,po zapaleniu tęczówki
 "105
 8",PL040-0245,"U człowieka najsilniejszym
-„dawcą czasu”
+\"dawcą czasu\"
 /synchronizatorem rytmów okołodobowych/ jest :",naprzemienność nocy i dnia,intensywność iluminacji,czynnik socjalny,dobowe wahania temperatury zewnętrznej otoczenia
 "105
 9",PL040-0246,"U podstaw selekcji psychologicznej leży założenie, że:","wszyscy ludzie mogąw sobie wykształcić te same umiejętności , ale w różnym  czasie",ludzie nie mają jednakowej motywacji do pracy,"ludzie są zróżnicowani pod względem zdolności ogólnych i
@@ -2700,7 +2700,7 @@ jako:",desynchronizacja snu i czuwania,zaburzenia temperatury ciała,napadowe za
 8",PL040-0302,Wrażliwość reakcji człowieka na bodźce jest:,"uwarunkowana indywidualnymi wrodzonymi progami
 percepcyjnymi",zmienna i nieograniczona,sztywno określona przez siłę bodźca,silnie uwarunkowana sytuacyjnie
 "110
-9",PL040-0303,Wskaż prawdziwe twierdzenie dotyczące bezpieczeństwa lotów :,po umiarkowanym spożyciu alkoholu obowiązuje zasada 24 godzinnej przerwypo ostatnim drinku zanim rozpocznie się lot,"w przypadku utrzymywania się objawów „kaca"" wolno zasiadać za sterami, nawet gdy stężenie alkoholu we krwi jest poniżej progu trzeźwości","alkohol zwiększa zdolność mózgu do zużycia tlenu, szczególnie w czasie pobytu na znacznych wysokościach","po małym drinku
+9",PL040-0303,Wskaż prawdziwe twierdzenie dotyczące bezpieczeństwa lotów :,po umiarkowanym spożyciu alkoholu obowiązuje zasada 24 godzinnej przerwypo ostatnim drinku zanim rozpocznie się lot,"w przypadku utrzymywania się objawów \"kaca"" wolno zasiadać za sterami, nawet gdy stężenie alkoholu we krwi jest poniżej progu trzeźwości","alkohol zwiększa zdolność mózgu do zużycia tlenu, szczególnie w czasie pobytu na znacznych wysokościach","po małym drinku
 /piwo, kieliszek wódki/ nie ma przeciwwskazań do wykonywania lotów"
 "111
 0",PL040-0304,"Wskutek działania przyspieszeń kątowych na narząd  wzroku,
@@ -2844,7 +2844,7 @@ przez:",,,,
 "114
 6",PL040-0341,Znacznie rozszerzone źrenice oraz pobudzenie psychoruchowe MOGĄ być objawem zażycia:,amfetaminy,"kannabinoli (marihuana, haszysz)",morfiny,heroiny
 "114
-7",PL050-0001,"‘Deszcz przechłodzony” występuje, gdy:",Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego,Temperatura cząsteczek wody jest wyższa od 0°C,"Temperatura cząsteczek wody jest wyższa od temperatury powietrza
+7",PL050-0001,"‘Deszcz przechłodzony\" występuje, gdy:",Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego,Temperatura cząsteczek wody jest wyższa od 0°C,"Temperatura cząsteczek wody jest wyższa od temperatury powietrza
 otaczającego","Temperatura cząsteczek jest taka sama jak temperatura powietrza
 otaczającego"
 "114
@@ -3136,7 +3136,7 @@ napływają masy:",,,,
 "124
 3",PL050-0126,Zbliżanie frontu ciepłego zapowiadają chmury wysokie o wyglądzie:,Haczykowatym,Poplątanych włókien,Skłębionych włókien,Nieokreślonym
 "124
-4",PL050-0127,Zjawisko „Bryza” powstaje:,W rejonie brzegu morskiego,Na obszarach górzystych i pagórkowatych,W rejonie Górnego Śląska,W rejonie Jury Częstochowskiej
+4",PL050-0127,Zjawisko \"Bryza\" powstaje:,W rejonie brzegu morskiego,Na obszarach górzystych i pagórkowatych,W rejonie Górnego Śląska,W rejonie Jury Częstochowskiej
 "124
 5",PL050-0128,"Zjawisko halo występujące na chmurach warstwowych zapowiada
 zbliżanie:",Frontu ciepłego,Frontu chłodnego II rodzaju,Frontu chłodnego I rodzaju,Słonecznej pogody
@@ -3350,8 +3350,8 @@ magnetycznego to:",deklinacja,inklinacja,kurs geograficzny,kurs magnetyczny
 kierunku to:",dewiacja,deklinacja,kurs magnetyczny,kurs busoli
 "131
 6",PL060-0035,Kąt znoszenia to:,Kąt zawarty pomiędzy nakazaną linią drogi a kursem statku powietrznego.,Kąt zawarty między północnym kierunkiem południka a linią drogi.,"Kąt zawarty między kierunkiem """"dokąd wieje wiatr"""" a północą
-magnetyczną.","Kąt zawarty między podłużną osią statku powietrznego a kierunkiem „skąd
-wieje wiatr”"
+magnetyczną.","Kąt zawarty między podłużną osią statku powietrznego a kierunkiem \"skąd
+wieje wiatr\""
 "131
 7",PL060-0036,"Kierunek 045 stopni
 określamy jako",NE,SE,SW,NW
@@ -3430,7 +3430,7 @@ równiku wynosi:",111 km,60 km,60 mil lądowych,111 mil morskich
 9",PL060-0068,"Odległość pomiędzy 45o a 46° szerokości geograficznej
 północnej wynosi:",111 km,60 km,60 mil lądowych,111 mil morskich
 "134
-0",PL060-0069,Pod określeniem “węzeł” [w] rozumiemy:,NM/h,Milę lądową/h,km/h,m/h
+0",PL060-0069,Pod określeniem “węzeł\" [w] rozumiemy:,NM/h,Milę lądową/h,km/h,m/h
 "134
 1",PL060-0070,"Podaj przybliżoną
 długość równika Ziemi:",21 600 Mm,21 600 km,12 714 Mm,6 865 Mm
@@ -3732,11 +3732,11 @@ następnych 40 NM?",,,,
 0",PL060-0216,"Samolot wykonuje lot w kierunku radiolatarni metodą bierną (utrzymując KKR = 0). Jeśli kurs magnetyczny samolotu maleje, to znaczy, że
 samolot:",jest znoszony w prawo,jest znoszony w lewo,wieje zachodni wiatr,kąt znoszenia jest zerowy
 "143
-1",PL060-0221,Skrót “RVR” oznacza:,widzialność na drodze startowej,"prosimy o wektorowanie
+1",PL060-0221,Skrót “RVR\" oznacza:,widzialność na drodze startowej,"prosimy o wektorowanie
 radarowe","meldunek o widzialności drogi
 startowej",nowe zezwolenie na przelot inną trasą
 "143
-2",PL060-0222,Skrót “SSR” oznacza:,wtórny radar dozorowania,radar poszukiwawczy i dozorujący,"wytrzymałość nawierzchni drogi
+2",PL060-0222,Skrót “SSR\" oznacza:,wtórny radar dozorowania,radar poszukiwawczy i dozorujący,"wytrzymałość nawierzchni drogi
 startowej","standardowy meldunek o opadach
 i zaleganiu śniegu"
 "143
@@ -3803,7 +3803,7 @@ geograficznego samolotu",względem południka busoli
 "145
 0",PL060-0251,W jakim celu stosuje się mod IDENT?,jako mod służący do identyfikacji statku powietrznego,jako impuls kodu alarmowego,jako impuls służący do tłumienia zakłóceń,żadna z odpowiedzi nie jest prawdziwa
 "145
-1",PL060-0252,W jakim modzie wysyłane jest zapytanie o wysokość?,"w modzie """"C""""","w modzie """"3/A""""","w modzie """"D""""",w modzie ”B”
+1",PL060-0252,W jakim modzie wysyłane jest zapytanie o wysokość?,"w modzie """"C""""","w modzie """"3/A""""","w modzie """"D""""",w modzie \"B\"
 "145
 2",PL060-0254,W sytuacji utraty łaczności pilot,7600,7000,7500,7700
 ,,"włącza transponder
@@ -4004,10 +4004,10 @@ odpowiada:",dowódca statku powietrznego,przewoźnik lub dysponent statku powiet
 pasażerów",w kabinie załogi,w części kadłuba najmniej narażonej na uszkodzenie,"w zamkniętej kasetce w dyspozycji dowódcy statku
 powietrznego"
 "151
-4",PL070-0053,Do zestawu pierwszej pomocy powinien być dołączony:,podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”),jedynie podręcznik pierwszej pomocy,podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO,Aneks 12 ICAO
+4",PL070-0053,Do zestawu pierwszej pomocy powinien być dołączony:,podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO (\"ground-air visual signal code for use by survivors\"),jedynie podręcznik pierwszej pomocy,podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO,Aneks 12 ICAO
 "151
 5",PL070-0054,"Przepisy dotyczące sygnałów, stosowanych w akcjach poszukiwawczo - ratowniczych
-znajdują się w:",Aneksie 12 ICAO,Aneksie 6 ICAO,Aneksie 2 ICAO,"AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”"
+znajdują się w:",Aneksie 12 ICAO,Aneksie 6 ICAO,Aneksie 2 ICAO,"AIP Polska, rozdz. ENR1 \"Przepisy i Procedury Ogólne\""
 "151
 6",PL070-0055,Komunikat MAYDAY nadaje się w przypadku:,bezpośredniego zagrożenia życia załogi i pasażerów,konieczności zapewnienia pomocy medycznej,"ogólnego niebezpieczeństwa dla ruchu lotniczego,",utraty łączności
 ,,,,,"zaobserwowania
@@ -4064,7 +4064,7 @@ VHF:",nie informuje o podejrzeniu za pośrednictwem łączności radiowej,"powia
 "153
 3",PL070-0073,"Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub
 poddające",Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego,Dzienniku Ustaw,"miesięczniku
-„Przegląd Lotniczy”",na stronach internetowych organizacji lotniczych
+\"Przegląd Lotniczy\"",na stronach internetowych organizacji lotniczych
 ,,"działalność lotniczą określonym warunkom w interesie bezpieczeństwa
 lotów, są publikowane w:",,,,
 "153
@@ -4082,7 +4082,7 @@ oraz zdarzeniach","właściwą stację naziemną tak szybko, jak jest to praktyc
 ,,"takich, jak nieprawidłowa praca urządzeń naziemnych lub nawigacyjnych, niezwykłe zjawiska pogody, dowódca statku powietrznego powinien
 powiadomić:",,,,
 "153
-8",PL080-0001,"Czy profile klasyczne są dużo bardziej „wrażliwe” na zabrudzenia od
+8",PL080-0001,"Czy profile klasyczne są dużo bardziej \"wrażliwe\" na zabrudzenia od
 profili laminarnych?",nie,tak,"nie, ale tylko na małych kątach natarcia","tak, ale tylko na dużych kątach natarcia"
 "153
 9",PL080-0003,Aby zapobiec zjawisku flatteru giętno-lotkowemu należy:,- zwiększyć sztywność giętną skrzydła; - zastosować wyważenia masowe lotek,"- zastosować kompensację aerodynamiczną; - przesunąć środek
@@ -4124,35 +4124,35 @@ zmieni się"
 9",PL080-0014,"Ciśnienie statyczne w punkcie przejścia z opływu laminarnego w
 turbulentny jest:",minimalne na górnej powierzchni i maksymalne na dolnej powierzchni,maksymalne na górnej powierzchni i minimalne na dolnej powierzchni,minimalne na górnej powierzchni i minimalne na dolnej powierzchni,maksymalne na górnej powierzchni i maksymalne  na dolnej powierzchni
 "155
-0",PL080-0015,Co jest „równanie stanu powietrza” ?,"Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p =
+0",PL080-0015,Co jest \"równanie stanu powietrza\" ?,"Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p =
 &rho;.g.R.T  [Pa]",Związek istniejący pomiędzy ciśnieniem powietrza i jego temperaturą.,Równanie określające równowagę między ciśnieniem powietrza i jego wilgotnością.,"Równanie określające równowagę między ciśnieniem powietrza i przyspieszeniem
 ziemskim."
 "155
 1",PL080-0016,"Co się rozumie pod pojęciem
-„sterowności” obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc)
+\"sterowności\" obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc)
 ?","Zdolność do
-„odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące.",Zapewnianie możliwości wykonywania manewrów akrobatycznych.,Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu.,"Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie."
+\"odpowiadania\" przez obiekt na zadawane przez pilota impulsy sterujące.",Zapewnianie możliwości wykonywania manewrów akrobatycznych.,Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu.,"Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie."
 "155
-2",PL080-0017,Co to jest „ciśnienie spiętrzeniowe”?,różnica ciśnienia dynamicznego i ciśnienia statycznego,najwyższe zmierzone ciśnienie,najniższe zmierzone ciśnienie,suma ciśnienia dynamicznego i statycznego
+2",PL080-0017,Co to jest \"ciśnienie spiętrzeniowe\"?,różnica ciśnienia dynamicznego i ciśnienia statycznego,najwyższe zmierzone ciśnienie,najniższe zmierzone ciśnienie,suma ciśnienia dynamicznego i statycznego
 "155
-3",PL080-0018,Co to jest „opływ laminarny”?,niezaburzony opływ od krawędzi natarcia do punktu przejściowego,"opływ niezaburzony wzdłuż całej cięciwy, ze strugami powietrza przylegającymi do
+3",PL080-0018,Co to jest \"opływ laminarny\"?,niezaburzony opływ od krawędzi natarcia do punktu przejściowego,"opływ niezaburzony wzdłuż całej cięciwy, ze strugami powietrza przylegającymi do
 profilu",opływ zaburzony (turbulentny) wzdłuż całej cięciwy profilu,"opływ zaburzony (turbulentny) wzdłuż całej cięciwy profilu, ale z zachowaniem przylegania strug do
 profilu"
 "155
-4",PL080-0019,"Co to jest „pułap teoretyczny” statku powietrznego (śmigłowca, samolotu, szybowca etc)?",Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.,Pułap obliczony w projekcie konstrukcyjnym statku powietrznego.,"Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s.",Wysokość granicy atmosfery otaczającej Ziemię.
+4",PL080-0019,"Co to jest \"pułap teoretyczny\" statku powietrznego (śmigłowca, samolotu, szybowca etc)?",Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.,Pułap obliczony w projekcie konstrukcyjnym statku powietrznego.,"Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s.",Wysokość granicy atmosfery otaczającej Ziemię.
 "155
 5",PL080-0020,"Co to jest
-„stateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni
+\"stateczność statyczna\" obiektu (samolotu, śmigłowca, szybowca, lotni
 etc)?",Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.,Stan równowagi spoczynkowej.,Brak reakcji na zakłócenia równowagi.,Wykonywanie przez obiekt statecznych wahań wokół osi poprzecznej.
 "155
-6",PL080-0021,Co to jest „środek parcia profilu” ?,"Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych
+6",PL080-0021,Co to jest \"środek parcia profilu\" ?,"Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych
 występujących na profilu",Punkt przyłożenia oporu.,"Punkt, w którym wielkość ciśnienia jest średnia.",Środek długości cięciwy profilu.
 "155
-7",PL080-0022,Co to jest „warstwa przyścienna”?,"Warstwa powietrza opływającego dowolny element statku powietrznego, w której prędkość zmienia się od zera do prędkości opływu",Obszar zawirowań powstających w okolicy mocowania elementów struktury statku powietrznego do ściany kadłuba,"Część strumienia powietrza opływającego tę część statku powietrznego, na której występuje
+7",PL080-0022,Co to jest \"warstwa przyścienna\"?,"Warstwa powietrza opływającego dowolny element statku powietrznego, w której prędkość zmienia się od zera do prędkości opływu",Obszar zawirowań powstających w okolicy mocowania elementów struktury statku powietrznego do ściany kadłuba,"Część strumienia powietrza opływającego tę część statku powietrznego, na której występuje
 cyrkulacja","Część strumienia powietrza, która zmienia charakter z laminarnego na turbulentny"
 "155
 8",PL080-0023,"Co to jest
-„wydłużenie” skrzydła samolotu lub szybowca albo łopaty nośnej?",Stosunek rozpiętości do średniej cięciwy geometrycznej.,Stosunek długości skrzydła lub łopaty do cięciwy u nasady.,"Stosunek rozpiętości skrzydeł (średnicy wirnika) do długości samolotu
+\"wydłużenie\" skrzydła samolotu lub szybowca albo łopaty nośnej?",Stosunek rozpiętości do średniej cięciwy geometrycznej.,Stosunek długości skrzydła lub łopaty do cięciwy u nasady.,"Stosunek rozpiętości skrzydeł (średnicy wirnika) do długości samolotu
 (śmigłowca)","Stosunek średniej cięciwy aerodynamicznej do długości skrzydła lub
 łopaty."
 "155
@@ -4195,10 +4195,10 @@ maleje"
 etc)?","Stateczność statyczna uwzględnia tylko tendencję do powrotu do równowagi, stateczność dynamiczna uwzględnia charakter ruchu obiektu.","Nie ma żadnej różnicy, zjawisko jest to samo, tylko inne nazwy.","Wymienione stateczności różnią się ważnością, ważniejsza jest stateczność dynamiczna..","Stateczność statyczna dotyczy równowagi na ziemi, stateczność dynamiczna – równowagi w locie."
 "157
 0",PL080-0036,"Czym się wyraża
-„niestateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.,Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.,Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.,Stanem równowagi spoczynkowej.
+\"niestateczność statyczna\" obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.,Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.,Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.,Stanem równowagi spoczynkowej.
 "157
 1",PL080-0037,"Czym się wyraża
-„stateczność statyczna obojętna” obiektu (samolotu, śmigłowca, szybowca, lotni
+\"stateczność statyczna obojętna\" obiektu (samolotu, śmigłowca, szybowca, lotni
 etc)?",Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.,Istnieniem tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.,Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.,Stanem równowagi spoczynkowej.
 "157
 2",PL080-0038,"Dla płata o jakim profilu nie powstaje opór indukowany
@@ -4220,8 +4220,8 @@ wydłużenie jest:",takie same dla wszystkich skrzydeł,"największe dla obrysu 
 "157
 7",PL080-0043,Dla ustalonego lotu nurkowego prawdziwe jest równanie:,Px=Q,Pz=Q,Q=Q,Pz=Px
 "157
-8",PL080-0044,"Do jakiego wykresu odnosi się potoczna nazwa „Krzywa
-Lilienthala”?",Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..,Do biegunowej autorotacji.,Do wykresu mocy potrzebnej.,Do wykresu zwanego w Polsce „krzywą Tytusa Hubera”
+8",PL080-0044,"Do jakiego wykresu odnosi się potoczna nazwa \"Krzywa
+Lilienthala\"?",Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..,Do biegunowej autorotacji.,Do wykresu mocy potrzebnej.,Do wykresu zwanego w Polsce \"krzywą Tytusa Hubera\"
 "157
 9",PL080-0046,Do urządzeń powiększających powierzchnię skrzydła możemy zaliczyć:,poszerzasz i klapę przednią,winglet i klapę wysklepiającą,sloty (skrzela) i klapę krokodylową,klapę wysklepiającą i klapę krokodylową
 "158
@@ -4296,7 +4296,7 @@ wartości ISA?",Wzrasta.,Nieznacznie maleje,Nie zmienia się.,Maleje w proporcji
 płaskim i stromym?",większa kątowa zmiana kierunku w korkociągu płaskim,większa kątowa zmiana kierunku w korkociągu stromym,większa prędkość opadania w korkociągu płaskim,w czasie lotu pilot nie widzi żadnej różnicy
 "160
 2",PL080-0072,"Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach
-„milimetrów słupa rtęci” odpowiada po = 1013,25 hPa?.",760 mm Hg.,800 mm Hg,750 mm Hg,860 mm Hg
+\"milimetrów słupa rtęci\" odpowiada po = 1013,25 hPa?.",760 mm Hg.,800 mm Hg,750 mm Hg,860 mm Hg
 "160
 3",PL080-0073,"Jaką nazwę nosi stosunek ciśnienia statycznego na dowolnej wysokości do wzorcowego ciśnienia na poziomie morza
 &delta; =  p/ po ?",ciśnienie względne.,ciśnienie standardowe,ciśnienie modułowe,liczba Hipokryta
@@ -4339,7 +4339,7 @@ prędkości opływu?",,,,
 zakręcie?",wystarczy znać przechylenie,musimy znać prędkość i przechylenie,musimy znać promień zakrętu i przechylenie,"musimy znać prędkość, promień zakrętu i przechylenie"
 "161
 5",PL080-0086,"Jakiemu celowi służy tzw.
-„mechanizacja skrzydła” (klapy, sloty, interceptory etc)?","Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na osiągi (np. prędkość
+\"mechanizacja skrzydła\" (klapy, sloty, interceptory etc)?","Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na osiągi (np. prędkość
 podejścia do lądowania)",Celem jest zwiększanie udźwigu statku powietrznego.,Celem jest zwiększanie prędkości statku powietrznego.,"Celem jest zwiększanie osiągów przelotowych i przez to ekonomii użytkowania statku
 powietrznego."
 "161
@@ -4347,8 +4347,8 @@ powietrznego."
 powierzchni ziemi?",Wysokościomierzem radiowym (radarowym).,Wysokościomierzem ciśnieniowym.,Dalmierzem optycznym.,Przyrządem DME.
 "161
 7",PL080-0088,Jedną z miar stateczności,Czas jaki upływa od odchylenia od równowagi,Czas połowy okresu wahań fugoidalnych,Czas połowy okresu drgań flatterowych,Czas połowy okresu własnych drgań
-,,"dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest „czas
-połówkowy”. Co to jest za wielkość?",o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).,wywołanych odchyleniem.,wywołanych wytrąceniem z równowagi.,konstrukcji (struktury) obiektu.
+,,"dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest \"czas
+połówkowy\". Co to jest za wielkość?",o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).,wywołanych odchyleniem.,wywołanych wytrąceniem z równowagi.,konstrukcji (struktury) obiektu.
 "161
 8",PL080-0089,"Jeżeli ciało wytrącone ze stanu równowagi krótkotrwałym impulsem zewnętrznym porusza się ruchem jednostajnym, to mamy do czynienia
 z:",równowagą obojętną,równowagą dynamiczną,równowagą stałą,równowagą chwiejną
@@ -4444,7 +4444,7 @@ niewielkiego","procentowe zwiększenie ""Cz"" będzie większe od procentowego z
 ,,"zwiększenia kąta
 natarcia:",,,,
 "164
-5",PL080-0122,Lotki typu „Fryze” stosuje się w celu:,zniwelowania momentu oporowego lotek,zwiększenia momentu przechylającego,zmniejszenia oporu szczelinowego,zmniejszenia oporu kształtu podczas wychylania lotek
+5",PL080-0122,Lotki typu \"Fryze\" stosuje się w celu:,zniwelowania momentu oporowego lotek,zwiększenia momentu przechylającego,zmniejszenia oporu szczelinowego,zmniejszenia oporu kształtu podczas wychylania lotek
 "164
 6",PL080-0123,Lotki zaprojektowane są w celu obracania płatowca względem:,ośi OX›,ośi OY›,ośi OZ›,ośi OZ› i ośi OY›
 "164
@@ -4630,7 +4630,7 @@ prawidłowym przeciążenie:",wzrasta,maleje,nie zmienia się,"przeciążenie ni
 powierzchni sterowych",drgań giętno- skrętnych usterzenia,flatteru usterzenia,zjawiska zwanego dywergencją skrętną usterzenia
 "170
 1",PL080-0187,"Przyrost siły nośnej na usterzeniu wysokości ‘&Delta;PZH’ wywołany
-wychyleniem drążka ma wartość:",dodatnią gdy oddamy drążek „od siebie”,ujemną gdy oddamy drążek „od siebie”,zawsze dodatnią,zawsze ujemną
+wychyleniem drążka ma wartość:",dodatnią gdy oddamy drążek \"od siebie\",ujemną gdy oddamy drążek \"od siebie\",zawsze dodatnią,zawsze ujemną
 "170
 2",PL080-0188,"Punkt na obrysie profilu, który jest położony najdalej w kierunku przeciwnym do
 kierunku lotu to:",ostrze (spływ) profilu,nosek profilu,tył profilu,czoło profilu
@@ -4846,9 +4846,9 @@ szybowca",zmniejszenia oporu indukowanego szybowca
 powoduje:",zmniejszenie gęstości powietrza,wzrost gęstości powietrza,nie powoduje zmian gęstości i wilgotności względnej powietrza,wzrost wilgotności względnej powietrza
 "176
 8",PL080-0263,"Z jakich głównych elementów powstaje opór statku powietrznego zwany
-„szkodliwym”?","Z „oporu kształtu” bryły statku powietrznego i z
-„oporu tarcia” powietrza o powierzchnię tej bryły.",Z lepkości powietrza i z oporów wirów powstających na bryle statku.,"Z „oporu kształtu” bryły statku powietrznego i z
-„oporu indukowanego” powstającego na powierzchni bryły statku.",Z „oporu tarcia” powietrza o powierzchnię bryły statku powietrznego i z „oporu interferencyjnego”..
+\"szkodliwym\"?","Z \"oporu kształtu\" bryły statku powietrznego i z
+\"oporu tarcia\" powietrza o powierzchnię tej bryły.",Z lepkości powietrza i z oporów wirów powstających na bryle statku.,"Z \"oporu kształtu\" bryły statku powietrznego i z
+\"oporu indukowanego\" powstającego na powierzchni bryły statku.",Z \"oporu tarcia\" powietrza o powierzchnię bryły statku powietrznego i z \"oporu interferencyjnego\"..
 "176
 9",PL080-0265,"Zasada ciągłości ruchu powietrza przepływającego przez tunel o zmiennym
 przekroju mówi, że:","jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza zmaleje dwukrotnie","jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza wzrośnie
@@ -4881,13 +4881,13 @@ indukowanego na:",większy,mniejszy,nie ma wpływu na opór indukowany,mniejszy 
 8",PL080-0276,Zwiększanie kąta natarcia &alpha; &gt; &alpha; kr powoduje:,"zwiększanie ""Cx"" oraz zmniejszanie ""Cz""","zwiększanie ""Cz"" oraz zmniejszanie ""Cx""","zwiększanie ""Cx"" oraz ""Cz""","zmniejszanie ""Cx"" oraz ""Cz"""
 "177
 9",PL080-0282,"Co to za zasada?:
-„W tunelu przez który przepływa powietrze iloczyn pola przekroju i
+\"W tunelu przez który przepływa powietrze iloczyn pola przekroju i
 prędkości",zasada ciągłości ruchu,zasada Bernouli’ego,prawo Bernouli’ego,zasada zachowania pędu
 ,,"powietrza jest stały
 S*v=const""",,,,
 "178
 0",PL080-0283,"Co to za zasada?:
-„W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu”",prawo Bernouli’ego,zasada ciągłości ruchu,zasada zachowania energii przepływu,zasada zachowania ciśnienia przepływu zamkniętego
+\"W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu\"",prawo Bernouli’ego,zasada ciągłości ruchu,zasada zachowania energii przepływu,zasada zachowania ciśnienia przepływu zamkniętego
 "178
 1",PL080-0285,"Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-
 z.  Jakie oznaczenie
@@ -4943,11 +4943,11 @@ prawidłowy należy:",zwiększyć przechylenie lub zmniejszyć prędkość kąto
 6",PL080-0374,"Aby wyprowadzić samolot z ześlizgu w zakręcie i wykonać zakręt
 prawidłowy należy:",zmniejszyć przechylenie lub zwiększyć prędkość kątową zakrętu,zwiększyć przechylenie lub zwiększyć prędkość kątową zakrętu,zmniejszyć przechylenie lub zmniejszyć prędkość kątową zakrętu,zwiększyć przechylenie lub zmniejszyć prędkość kątową zakrętu
 "179
-7",PL080-0377,"Co to za zasada?:„W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały
+7",PL080-0377,"Co to za zasada?:\"W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały
 S*v=const",zasada ciągłości ruchu,zasada Bernouli’ego,prawo Bernouli’ego,zasada zachowania pędu
 "179
-8",PL080-0378,"Co to za zasada?:„W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego
-przepływu”",prawo Bernouli’ego,zasada ciągłości ruchu,zasada zachowania energii przepływu,zasada zachowania ciśnienia przepływu zamkniętego
+8",PL080-0378,"Co to za zasada?:\"W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego
+przepływu\"",prawo Bernouli’ego,zasada ciągłości ruchu,zasada zachowania energii przepływu,zasada zachowania ciśnienia przepływu zamkniętego
 "179
 9",PL080-0380,"Czy między sterownością i statecznością obiektu latającego (samolotu, śmigłowca, lotni etc) istnieją jakieś wzajemne relacje ?",Działają przeciw sobie,Współdziałają,Nie ma między nimi żadnych relacji.,Stateczność wspomaga sterowność podłużną.
 "180
@@ -5044,7 +5044,7 @@ natarcia:",stosunek Cz/Cx wzrośnie,stosunek Cz/Cx zmaleje,stosunek Cz/Cx nie zm
 natarcia:",doskonałość płatowca wzrośnie,doskonałość płatowca zmaleje,doskonałość płatowca nie zmieni się,stosunek Cz/Cx zmaleje
 "183
 0",PL080-0429,"Miarą stateczności statycznej jest pochodna Mx = dM/dx, zwana
-„pochodną momentu M względem zmiennej x”. Jaki znak pochodnej określa niestateczność?",Dodatni (+),Ujemny (-),Znak nie ma znaczenia.,Zależy od zmiennej x.
+\"pochodną momentu M względem zmiennej x\". Jaki znak pochodnej określa niestateczność?",Dodatni (+),Ujemny (-),Znak nie ma znaczenia.,Zależy od zmiennej x.
 "183
 1",PL080-0430,"Mimośrodowość (decentracja) ciągu śmigła polega na tym, że:",oś wektora ciągu śmigła nie przechodzi przez środek ciężkości samolotu,oś wektora ciągu śmigła nie przechodzi przez środek wału napędowego silnika,"oś wektora ciągu śmigła nie przechodzi przez środek aerodynamiczny
 samolotu","oś wektora ciągu śmigła nie przechodzi przez środek geometryczny
@@ -5064,7 +5064,7 @@ nazywamy:",,,,
 6",PL080-0436,Na rodzaj korkociągu główny wpływ mają następujące czynniki:,-położenie środka ciężkości samolotu; - rozłożenie mas na samolocie; -usytuowanie i wielkość usterzeń,-położenie środka ciężkości samolotu; - rozłożenie mas na samolocie; - ustawienie klapki wyważającej,-rozłożenie mas na samolocie; - ustawienie klapki wyważającej ; - usytuowanie i wielkość usterzeń,-ustawienie klapki wyważającej ; - położenie środka ciężkości samolotu; - usytuowanie i wielkość usterzeń
 "183
 7",PL080-0438,"Najmniejsze opadanie w locie ślizgowym ma samolot lecący z
-prędkością:",ekonomiczną,optymalną,minimalną,"różna, zależną od tego, czy leci „z wiatrem” czy „pod wiatr"""
+prędkością:",ekonomiczną,optymalną,minimalną,"różna, zależną od tego, czy leci \"z wiatrem\" czy \"pod wiatr"""
 "183
 8",PL080-0439,"Największą doskonałość podczas lotu ślizgowego w powietrzu spokojnym ma samolot lecący z
 prędkością:",optymalną,minimalną,Mc Credy’ego,ekonomiczną
@@ -5230,17 +5230,17 @@ nurkowego",-wychylić lotki w stronę przeciwną do kierunku przechylania; - poc
 "187
 9",PL080-0504,"W celu zmniejszenia
 pochylenia samolotu:","wektor przyrostu siły nośnej na usterzeniu
-poziomym musi mieć zwrot „w dół”",należy wychylić ster wysokości w dół,"przyrost momentu pochylającego
+poziomym musi mieć zwrot \"w dół\"",należy wychylić ster wysokości w dół,"przyrost momentu pochylającego
 samolot musi mieć wartość dodatnią",należy wychylić drążek sterowy od siebie
 "188
 0",PL080-0505,W celu zwiększenia pochylenia samolotu:,należy wychylić drążek sterowy od siebie,"przyrost momentu pochylającego samolot musi mieć
 wartość do ujemną",należy wychylić ster wysokości do góry,"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć
-zwrot „w dół”"
+zwrot \"w dół\""
 "188
-1",PL080-0506,W celu zwiększenia pochylenia samolotu:,należy wychylić ster wysokości w dół,należy wychylić drążek sterowy na siebie,przyrost momentu pochylającego samolot musi mieć wartość do ujemną,wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”
+1",PL080-0506,W celu zwiększenia pochylenia samolotu:,należy wychylić ster wysokości w dół,należy wychylić drążek sterowy na siebie,przyrost momentu pochylającego samolot musi mieć wartość do ujemną,wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot \"w dół\"
 "188
 2",PL080-0507,W celu zwiększenia pochylenia samolotu:,"wektor przyrostu siły nośnej na usterzeniu
-poziomym musi mieć zwrot „w górę”",należy wychylić drążek sterowy na siebie,należy wychylić ster wysokości do góry,"przyrost momentu pochylającego
+poziomym musi mieć zwrot \"w górę\"",należy wychylić drążek sterowy na siebie,należy wychylić ster wysokości do góry,"przyrost momentu pochylającego
 samolot musi mieć wartość do ujemną"
 "188
 3",PL080-0509,"W jakim dokumencie zawarte są informacje o osiągach statku powietrznego (śmigłowca,
@@ -5319,12 +5319,12 @@ na łączności.","Uzna, że powinien zmienić częstotliwość odpowiednią do 
 "190
 4",PL090-0003,Gdy na pierwsze wywołanie stacji naziemnej przez pilota nie ma odpowiedzi od tej stacji to należy:,Ponowić wywołanie nie wcześniej niż po 10 sekundach i jeśli wtedy brak odpowiedzi upewnić się czy wybrano właściwą częstotliwość.,Poczekać na wywołanie przez stację naziemną,Zmienić częstotliwość,Wywołać inny statek powietrzny na tej samej częstotliwości
 "190
-5",PL090-0004,Literę “O” wymawia się jako:,Oscar,Ontario,Oklahoma,Ohio
+5",PL090-0004,Literę “O\" wymawia się jako:,Oscar,Ontario,Oklahoma,Ohio
 "190
-6",PL090-0005,"Literę „F” wymawia
+6",PL090-0005,"Literę \"F\" wymawia
 się jako:",Foxtrot,Fox,Frank,Florida
 "190
-7",PL090-0006,Literę „R” wymawia się jako:,Romeo,Radio,Roger,Rover
+7",PL090-0006,Literę \"R\" wymawia się jako:,Romeo,Radio,Roger,Rover
 "190
 8",PL090-0007,"Literowanie stosujemy m.in.
 podczas przekazywania:","Znaku wywoławczego innego niż oznacznik linii
@@ -5356,25 +5356,25 @@ zadaniem lotniczym","Transmisje nadawane zbyt szybko, bez użycia standardowej f
 "191
 6",PL090-0015,"Treść korespondencji od stacji naziemnej zawierająca zezwolenia, instrukcje, parametry lotu i inne ważne informacje winna
 być:",Potwierdzona przez pilota poprzez powtórzenie całości korespondencji i podanie swojego znaku wywoławczego,"Powinna być potwierdzona sformułowaniem
-„Roger” lub
-„Zrozumiałem”",Nie wymaga potwierdzenia,Pilot decyduje o sposobie potwierdzenia odebrania korespondencji
+\"Roger\" lub
+\"Zrozumiałem\"",Nie wymaga potwierdzenia,Pilot decyduje o sposobie potwierdzenia odebrania korespondencji
 "191
 7",PL090-0016,Wywołanie w niebezpieczeństwie powinno zawierać co najmniej:,"Trzykrotne wywołanie MAYDAY, podanie swojego znaku wywoławczego,rodzaj niebezpieczeństwa, pozycję i parametry lotu, zamiary dowódcy statku powietrznego, rodzaj oczekiwanej pomocy na częstotliwości, na której prowadzono korespondencję lub jeśli niemożliwe, na 121,500
 MHz","Słowo MAYDAY, swój znak wywoławczy i rodzaj zagrożenia nadane na częstotliwości radiowej przydzielonej dla danej trasy","Słowo MADAY nadane trzykrotnie na częstotliwości 121,500 MHz","Znak wywoławczy, określenie zagrożenia, pozycję samolotu, zamiary dowódcy na dostępnej częstotliwości radiowej"
 "191
 8",PL090-0017,Znak wywoławczy SP-AHN można skrócić do:,SHN,HN,AHN,SN
 "191
-9",PL090-0018,Nadawanie „ na ślepo” to:,"Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów „Nadaję na
-ślepo”",Nadawanie komunikatów nie wymagających potwierdzenia odbioru,Nadawanie komunikatów do wszystkich zainteresowanych ( rozgłaszanie),Procedura wykonania lotu w warunkach IMC wraz z utratą łączności
+9",PL090-0018,Nadawanie \"na ślepo\" to:,"Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów \"Nadaję na
+ślepo\"",Nadawanie komunikatów nie wymagających potwierdzenia odbioru,Nadawanie komunikatów do wszystkich zainteresowanych ( rozgłaszanie),Procedura wykonania lotu w warunkach IMC wraz z utratą łączności
 "192
 0",PL090-0022,"Znak wywoławczy
-„Gdańsk Zbliżanie” oznacza:",Organ kontroli zbliżania Gdańsk,Kontrolę podejścia w Gdańsku,"Służbę zbliżania statków powietrznych w
+\"Gdańsk Zbliżanie\" oznacza:",Organ kontroli zbliżania Gdańsk,Kontrolę podejścia w Gdańsku,"Służbę zbliżania statków powietrznych w
 Gdańsku",System podejścia do lądowania w Gdańsku
 "192
 1",PL090-0044,"Rodzaj emisji stosowany w lotniczej łączności
 VHF to:",A3E,J3F,A2A,A1N
 "192
-2",PL090-0045,"Jeśli stacja pokładowa utraciła łączność ze stacją naziemną właściwą dla obszaru, w którym się znajduje to:",Powinna nadawać „na ślepo” na częstotliwości pracy stacji naziemnej,Włączyć odbiornik,powinna przerwać nadawanie ze względu na możliwość zakłócania innych stacji,Powinna nadawać na innej dowolnej częstotliwości
+2",PL090-0045,"Jeśli stacja pokładowa utraciła łączność ze stacją naziemną właściwą dla obszaru, w którym się znajduje to:",Powinna nadawać \"na ślepo\" na częstotliwości pracy stacji naziemnej,Włączyć odbiornik,powinna przerwać nadawanie ze względu na możliwość zakłócania innych stacji,Powinna nadawać na innej dowolnej częstotliwości
 "192
 3",PL090-0046,"Międzynarodową lotniczą częstotliwością w niebezpieczeństwie dla radiotelefonii
 jest:","121,500 MHz","120,100 MHz","124,500 MHz","123,450 MHz"
@@ -5399,7 +5399,7 @@ powietrze","123,450 MHz","243,000 MHz","136,000 MHz","118,000 MHz"
 częstotliwość:",,,,
 "193
 0",PL090-0053,"Przyrostek znaku wywoławczego
-„KONTROLA”
+\"KONTROLA\"
 oznacza:",Kontrolę obszaru,Kontrolę zbliżania,Kontrolę lotniska,Kontrolę ruchu naziemnego
 "193
 1",PL090-0054,"W polskiej przestrzeni powietrznej dopuszczalna separacja miedzy kanałami radiowymi w łączności radiotelefonicznej
@@ -5435,7 +5435,7 @@ nadawania, to",POPRAWIAM,NIEPRAWIDŁOWO,POWTARZAM,POMIŃ
 wyrażenie:",,,,
 "194
 1",PL090-0065,"We frazeologii lotniczej wyrażenie
-„TAK BĘDZIE”
+\"TAK BĘDZIE\"
 oznacza:",Zrozumiałem twoją depeszę i będę stosować się do niej,Tak,Skończyłem nadawanie i oczekuję odpowiedzi,Zezwala się na kontynuowanie lotu w określonych warunkach
 "194
 2",PL090-0066,"Jeśli wykorzystywane są częstotliwości VHF z separacją 8,33 kHz to do identyfikacji kanału
@@ -5464,7 +5464,7 @@ się jako:",BRAVO,BETA,BARBARA,BROWN
 0",PL090-0074,Wymianę korespondencji radiotelefonicznej stacja odbiorcza zakańcza przez:,Nadanie swojego sygnału wywoławczego,nadanie sygnału wywoławczego stacji nadawczej,potwierdzenie odbioru transmisji,Nadanie sygnału ODBIÓR
 "195
 1",PL090-0075,"Nadawanie wiadomości dotyczących żeglugi powietrznej, które nie są adresowane do określonej stacji
-to:",Rozgłaszanie,Łączność powietrze- powietrze,Łączność w kierunku powietrza,Łączność powietrze – ziemia
+to:",Rozgłaszanie,Łączność powietrze-powietrze,Łączność w kierunku powietrza,Łączność powietrze – ziemia
 "195
 2",PL090-0076,"Do identyfikacji stacji lotniczej w ruchomej służbie lotniczej są
 używane:",Nazwa lokalizacji i nazwa właściwego organu lub służby,Wskaźnik lokalizacji,Oznacznik telefoniczny,Adres AFTN
@@ -5517,14 +5517,14 @@ jest posiadanie:",świadectwa radiooperatora w służbie lotniczej,licencji czł
 "196
 8",PL099-0014,Do zestawu pierwszej pomocy,podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO,jedynie podręcznik pierwszej pomocy,podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO,Aneks 12 ICAO
 ,,"powinien być
-dołączony:","(„ground-air visual signal
-code for use by survivors”)",,,
+dołączony:","(\"ground-air visual signal
+code for use by survivors\")",,,
 "196
 9",PL099-0015,Dowódca statku powietrznego powiadamia o nieprawidłowości pracy urządzeń naziemnych i nawigacyjnych:,"Właściwą stację naziemną, tak szybko jak to jest możliwe.","Właściwą stację naziemną, telefonicznie po lądowaniu.","Właściwą stację naziemną, pisemnie po lądowaniu",Przełożonego lub najbliższy organ ruchu lotniczego
 "197
 0",PL099-0016,"Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddające działalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są
 publikowane w:",Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego,Dzienniku Ustaw,"miesięczniku
-„Przegląd Lotniczy”",na stronach internetowych organizacji lotniczych
+\"Przegląd Lotniczy\"",na stronach internetowych organizacji lotniczych
 "197
 1",PL099-0017,"Gdy w czasie lotu rzeczywista ilość paliwa użytecznego w zbiornikach samolotu jest mniejsza od ostatecznej rezerwy paliwa,
 dowódca statku",zgłosić sytuację awaryjną,zamówić paliwo na lotnisku lądowania,natychmiast lądować w terenie przygodnym,porozumieć się z przewoźnikiem lub dysponentem statku powietrznego
@@ -5676,7 +5676,7 @@ startu drogi startowej:",nie wpłyną ujemnie na bezpieczeństwo startu i odlotu
 zwrotem:",MAYDAY RELAY,SOS,PAN RELAY,SECURITE
 "201
 7",PL099-0064,"Przepisy dotyczące sygnałów, stosowanych w akcjach
-poszukiwawczo -",Aneksie 12 ICAO,Aneksie 6 ICAO,Aneksie 2 ICAO,"AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”"
+poszukiwawczo -",Aneksie 12 ICAO,Aneksie 6 ICAO,Aneksie 2 ICAO,"AIP Polska, rozdz. ENR1 \"Przepisy i Procedury Ogólne\""
 ,,"ratowniczych
 znajdują się w:",,,,
 "201
@@ -5704,7 +5704,7 @@ oznacza:",żądanie pomocy medycznej,żądanie udzielenia informacji o własnej 
 warunkiem:",nie są dozwolone,że dowódca statku powietrznego dopilnuje bezpieczeństwa wykonywania lotu,że opracowano odpowiednie procedury postępowania i są one przestrzegane,że przeprowadzane symulacje nie naruszają Instrukcji Użytkowania statku powietrznego
 "202
 5",PL099-0073,"Szczegółowe czynności dyspozytora lotniczego w przypadku zagrożenia bezpieczeństwa nadzorowanej
-przez dyspozytora",Instrukcji Operacyjnej,AIP,ustawie „Prawo Lotnicze,"rozporządzeniu Ministra Infrastruktury z dnia 3 września 2003,
+przez dyspozytora",Instrukcji Operacyjnej,AIP,ustawie \"Prawo Lotnicze,"rozporządzeniu Ministra Infrastruktury z dnia 3 września 2003,
 Dz.U. 165 poz. 1602"
 ,,"operacji lotniczej,
 są opisane w:",,,,

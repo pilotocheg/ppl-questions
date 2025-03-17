@@ -38,7 +38,9 @@
   margin: 0;
   margin-bottom: 1rem;
   font-weight: 400;
-  word-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+  hyphenate-limit-chars: 6 4;
 }
 
 .questionItem {

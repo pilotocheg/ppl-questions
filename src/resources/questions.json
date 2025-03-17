@@ -98,7 +98,7 @@
     },
     {
       "name": "PL010-0006",
-      "text": "Kiedy ustaje obowiązek pomocy, spoczywający na dowódcy statku powietrznego który zauważył katastrofę lub klęskę żywiołową? ",
+      "text": "Kiedy ustaje obowiązek pomocy, spoczywający na dowódcy statku powietrznego który zauważył katastrofę lub klęskę żywiołową?",
       "q1": "Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić.",
       "q2": "Tego rodzaju obowiązek nigdy nie ustaje.",
       "q3": "Gdy zgodę wyrazi Prezes ULC.",
@@ -242,7 +242,7 @@
     },
     {
       "name": "PL010-0028",
-      "text": "W przypadku wszystkich lotów w przestrzeni powietrznej klasy „C”:",
+      "text": "W przypadku wszystkich lotów w przestrzeni powietrznej klasy \"C\":",
       "q1": "Wszystkie loty statków powietrznych są wykonywane z zapewnieniem służb kontroli ruchu lotniczego, a także wymagana jest wobec nich ciągła łączność foniczna powietrze-ziemia.",
       "q2": "Wszystkie loty statków powietrznych są wykonywane z zapewnieniem służb kontroli ruchu lotniczego.",
       "q3": "Wymagana jest wobec nich ciągła łączność foniczna powietrze-ziemia.",
@@ -2098,7 +2098,7 @@
     },
     {
       "name": "PL010-0351",
-      "text": "Meldunek „Na krótkiej prostej” jest podawany, gdy statek pow. znajdujący się w kręgu nadlotniskowym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia mniejszej niż:",
+      "text": "Meldunek \"Na krótkiej prostej\" jest podawany, gdy statek pow. znajdujący się w kręgu nadlotniskowym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia mniejszej niż:",
       "q1": "4 NM.",
       "q2": "4 km.",
       "q3": "15 km.",
@@ -2386,7 +2386,7 @@
     },
     {
       "name": "PL010-0391",
-      "text": "Dowódca samolotu lecącego z lotniska „AAAA” do lotniska „BBBB”, lotnisko zapasowe „CCCC”, zgłosił, że ma na pokładzie chorego pasażera wymagającego natychmiastowej pomocy lekarskiej. Otrzymał zezwolenie na zniżanie i lądowanie na lotnisku „DDDD”. W tej sytuacji wykona lądowanie:",
+      "text": "Dowódca samolotu lecącego z lotniska \"AAAA\" do lotniska \"BBBB\", lotnisko zapasowe \"CCCC\", zgłosił, że ma na pokładzie chorego pasażera wymagającego natychmiastowej pomocy lekarskiej. Otrzymał zezwolenie na zniżanie i lądowanie na lotnisku \"DDDD\". W tej sytuacji wykona lądowanie:",
       "q1": "Przymusowe.",
       "q2": "Techniczne.",
       "q3": "Awaryjne.",
@@ -2562,7 +2562,7 @@
     },
     {
       "name": "PL010-0414",
-      "text": "Jakie jednostki prędkości oznaczane są w planie lotu literą \"\"N\"\"?",
+      "text": "Jakie jednostki prędkości oznaczane są w planie lotu literą \"N\"?",
       "q1": "Węzły.",
       "q2": "Kilometry na godzinę.",
       "q3": "Liczba Macha.",
@@ -2938,7 +2938,7 @@
     },
     {
       "name": "PL010-0466",
-      "text": "Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:",
+      "text": "Kandydat do uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:",
       "q1": "Wykonał co najmniej 25 godzin lotu szkoleniowego z instruktorem.",
       "q2": "Wykonał co najmniej 20 godzin lotu szkoleniowego  z instruktorem.",
       "q3": "Wykonał co najmniej 15 godzin lotu szkoleniowego  z instruktorem.",
@@ -2954,7 +2954,7 @@
     },
     {
       "name": "PL010-0468",
-      "text": "Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:",
+      "text": "Kandydat do uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:",
       "q1": "Wykonał co najmniej 10 godzin lotu samodzielnego pod nadzorem.",
       "q2": "Wykonał co najmniej 7 godzin lotu samodzielnego pod nadzorem.",
       "q3": "Wykonał co najmniej 12 godzin lotu samodzielnego pod nadzorem.",
@@ -3314,7 +3314,7 @@
     },
     {
       "name": "PL010-0526",
-      "text": "Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
+      "text": "Meldunek \"Na długiej prostej\" jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
       "q1": "15 km.",
       "q2": "8 km.",
       "q3": "15 NM.",
@@ -3322,7 +3322,7 @@
     },
     {
       "name": "PL010-0527",
-      "text": "Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia większej niż:",
+      "text": "Meldunek \"Na długiej prostej\" jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia większej niż:",
       "q1": "7 km.",
       "q2": "15 km.",
       "q3": "10 km.",
@@ -3330,7 +3330,7 @@
     },
     {
       "name": "PL010-0528",
-      "text": "Meldunek „Na prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od punktu przyziemienia:",
+      "text": "Meldunek \"Na prostej\" jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od punktu przyziemienia:",
       "q1": "7 km.",
       "q2": "15 km.",
       "q3": "10 km.",
@@ -3338,7 +3338,7 @@
     },
     {
       "name": "PL010-0529",
-      "text": "Meldunek „Na prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
+      "text": "Meldunek \"Na prostej\" jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:",
       "q1": "4 NM.",
       "q2": "15 km.",
       "q3": "10 km.",
@@ -3938,7 +3938,7 @@
     },
     {
       "name": "PL010-0615",
-      "text": "W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie „A” na kod:",
+      "text": "W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie \"A\" na kod:",
       "q1": "7500",
       "q2": "7600",
       "q3": "7700",
@@ -3962,7 +3962,7 @@
     },
     {
       "name": "PL010-0624",
-      "text": "W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM FAILURE) pilot nastawia transponder w modzie „A” na kod:",
+      "text": "W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM FAILURE) pilot nastawia transponder w modzie \"A\" na kod:",
       "q1": "7600",
       "q2": "7500",
       "q3": "7700",
@@ -3970,7 +3970,7 @@
     },
     {
       "name": "PL010-0625",
-      "text": "W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie „A” na kod:",
+      "text": "W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie \"A\" na kod:",
       "q1": "7700",
       "q2": "7600",
       "q3": "7500",
@@ -4571,7 +4571,7 @@
     {
       "name": "PL099-0014",
       "text": "Do zestawu pierwszej pomocy powinien być dołączony:",
-      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)",
+      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO (\"ground-air visual signal code for use by survivors\")",
       "q2": "jedynie podręcznik pierwszej pomocy",
       "q3": "podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO",
       "q4": "Aneks 12 ICAO"
@@ -4589,7 +4589,7 @@
       "text": "Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddające działalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są publikowane w:",
       "q1": "Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego",
       "q2": "Dzienniku Ustaw",
-      "q3": "miesięczniku „Przegląd Lotniczy”",
+      "q3": "miesięczniku \"Przegląd Lotniczy\"",
       "q4": "na stronach internetowych organizacji lotniczych"
     },
     {
@@ -4966,7 +4966,7 @@
       "q1": "Aneksie 12 ICAO",
       "q2": "Aneksie 6 ICAO",
       "q3": "Aneksie 2 ICAO",
-      "q4": "AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”"
+      "q4": "AIP Polska, rozdz. ENR1 \"Przepisy i Procedury Ogólne\""
     },
     {
       "name": "PL099-0065",
@@ -5029,7 +5029,7 @@
       "text": "Szczegółowe czynności dyspozytora lotniczego w przypadku zagrożenia bezpieczeństwa nadzorowanej przez dyspozytora operacji lotniczej, są opisane w:",
       "q1": "Instrukcji Operacyjnej",
       "q2": "AIP",
-      "q3": "ustawie „Prawo Lotnicze",
+      "q3": "ustawie \"Prawo Lotnicze",
       "q4": "rozporządzeniu Ministra Infrastruktury z dnia 3 września 2003, Dz.U. 165 poz. 1602"
     },
     {
@@ -5396,7 +5396,7 @@
     },
     {
       "name": "PL020-0021",
-      "text": "Układ „miękki“ sterowania mechanizmami sterowniczymi stanowi:",
+      "text": "Układ \"miękki“ sterowania mechanizmami sterowniczymi stanowi:",
       "q1": "Linki stalowe i układ rolek",
       "q2": "Popychacze połączone z amortyzatorami gumowymi oraz dzwignie",
       "q3": "Linki stalowe i popychacze oraz rolki",
@@ -5404,7 +5404,7 @@
     },
     {
       "name": "PL020-0022",
-      "text": "Układ „sztywny“ sterowania mechanizmami sterowniczymi stanowi:",
+      "text": "Układ \"sztywny“ sterowania mechanizmami sterowniczymi stanowi:",
       "q1": "Popychacze sztywne z układem dźwigni",
       "q2": "Popychacze sztywne i linki z układem rolek",
       "q3": "Popychacze sztywne i linki z układem dźwigni",
@@ -6364,7 +6364,7 @@
     },
     {
       "name": "PL020-0159",
-      "text": "Poziom oleju „między kreskami” na miarce bagnetowej oznacza",
+      "text": "Poziom oleju \"między kreskami\" na miarce bagnetowej oznacza",
       "q1": "Prawidłową ilość oleju",
       "q2": "Nieprawidłową ilość oleju",
       "q3": "Należy dolać do górnej kreski",
@@ -7177,12 +7177,12 @@
       "text": "Wysokość ciśnieniową lotniska danego dnia możemy ustalić:",
       "q1": "Odczytując wysokość wskazywaną przez wysokościomierz nastawiony na 1013.2 hPa.",
       "q2": "Odczytujemy wysokość z wysokościomierza nastawionego na 1013.2hPa, a następnie korygujemy ją, ze względu odczytaną temperaturę otoczenia.",
-      "q3": "Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, a następnie skorygujemyją ze względu odczytaną temperaturę otoczenia.",
+      "q3": "Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, a następnie skorygujemy ją ze względu odczytaną temperaturę otoczenia.",
       "q4": "Zawsze odczytując wysokość wskazywaną przez wysokościomierz nastawiony na aktualne QNH."
     },
     {
       "name": "PL030-0027",
-      "text": "„Wpływ ziemi” pozwala na:.",
+      "text": "\"Wpływ ziemi\" pozwala na:",
       "q1": "Oderwanie samolotu przy mniejszej prędkości, ale zjawisko zanika na wysokości równej w przybliżeniu rozpiętości i osiągi spadają.",
       "q2": "Osiągnięcie większej mocy silnika blisko ziemi (dotyczy silników bez sprężarkowych).",
       "q3": "Lepszą obserwacje otoczenia przez pilota ze względu na szersze pole widzenia blisko ziemi.",
@@ -7190,7 +7190,7 @@
     },
     {
       "name": "PL030-0028",
-      "text": "„Wpływ ziemi” to zjawisko polegające na:.",
+      "text": "\"Wpływ ziemi\" to zjawisko polegające na:",
       "q1": "Redukcji oporu indukowanego oraz kąta natarcia potrzebnego do lotu poziomego (przy danej prędkości) co jest spowodowanej bliskością ziemi.",
       "q2": "Znacznym skróceniu fazy wytrzymania przy lądowaniu.",
       "q3": "Osiąganiu większej mocy przez silniki tłokowe blisko ziemi (dotyczy silników bezsprężarkowych).",
@@ -7198,15 +7198,15 @@
     },
     {
       "name": "PL030-0029",
-      "text": "Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko „hydroplanning” (dynamiczne) muszą wystąpić następujące czynniki:.",
+      "text": "Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko \"hydroplanning\" (dynamiczne) muszą wystąpić następujące czynniki:",
       "q1": "Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prędkość.",
       "q2": "Bieżniki koł samolotu muszą rozgrzać się do wysokiej temperatury podczas intensywnego hamowania na wilgotnym pasie.",
       "q3": "Jedna z koł samolotu musi zostać zablokowane (np. awaria anti-skid) na mokrym pasie.",
-      "q4": "„Hydroplanning’” to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody."
+      "q4": "\"Hydroplanning’\" to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody."
     },
     {
       "name": "PL030-0034",
-      "text": "Co to jest V<sub>X</sub>:.",
+      "text": "Co to jest V<sub>X</sub>:",
       "q1": "To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.",
       "q2": "To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.",
       "q3": "To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.",
@@ -7214,7 +7214,7 @@
     },
     {
       "name": "PL030-0035",
-      "text": "Co to jest V<sub>Y</sub>:.",
+      "text": "Co to jest V<sub>Y</sub>:",
       "q1": "To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.",
       "q2": "To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.",
       "q3": "To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.",
@@ -7222,7 +7222,7 @@
     },
     {
       "name": "PL030-0038",
-      "text": "Czy wysoka wilgotność przyczynia się do spadku osiągów samolotu:.",
+      "text": "Czy wysoka wilgotność przyczynia się do spadku osiągów samolotu:",
       "q1": "Tak.",
       "q2": "Fałsz - chłodzi silnik i przez to poprawia osiągi.",
       "q3": "Wilgotność powietrza nie ma wpływu na osiągi.",
@@ -7230,7 +7230,7 @@
     },
     {
       "name": "PL030-0041",
-      "text": "Dla każdej kombinacji wysokości lotu i masy samolotu, w zakresie prędkości minimalnej do maksymalnej istnieje:.",
+      "text": "Dla każdej kombinacji wysokości lotu i masy samolotu, w zakresie prędkości minimalnej do maksymalnej istnieje:",
       "q1": "Taki kąt natarcia, przy którym siła nośna równa się ciężarowi i możliwy jest lot poziomy.",
       "q2": "Takie przechylenie, które zapewnia, że siła nośna równa się ciężarowi i możliwy jest lot poziomy",
       "q3": "Taki kąt natarcia, przy którym siła oporu równa się ciągowi wytwarzanemu przez jednostki napędowe i możliwy jest lot poziomy.",
@@ -7238,7 +7238,7 @@
     },
     {
       "name": "PL030-0042",
-      "text": "Duża wysokość gęstościowa oznacza (w stosunku do małej wysokości gęstościowej):.",
+      "text": "Duża wysokość gęstościowa oznacza (w stosunku do małej wysokości gęstościowej):",
       "q1": "Małą gęstość powietrza i niskie osiągi samolotu.",
       "q2": "Dużą gęstość powietrza i niskie osiągi samolotu.",
       "q3": "Dużą gęstość powietrza i wysokie osiągi samolotu.",
@@ -7246,7 +7246,7 @@
     },
     {
       "name": "PL030-0045",
-      "text": "Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku) wysoka temperatura otoczenia w porównaniu z przypadkiem, gdy temperatura otoczenia jest niska:.",
+      "text": "Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku) wysoka temperatura otoczenia w porównaniu z przypadkiem, gdy temperatura otoczenia jest niska:",
       "q1": "Zwiększenie długości rozbiegu.",
       "q2": "Zmniejszenie długości rozbiegu.",
       "q3": "Temperatura otoczenia nie ma wpływu na długość rozbiegu.",
@@ -7254,7 +7254,7 @@
     },
     {
       "name": "PL030-0046",
-      "text": "Jak wpłynie na długość rozbiegu samolotu start z lotniska położonego wysoko w górach, w stosunku do startu w takich samych warunkach temperatury, masy samolotu, wiatru i ustawiania klap z lotniska na 0 m npm:.",
+      "text": "Jak wpłynie na długość rozbiegu samolotu start z lotniska położonego wysoko w górach, w stosunku do startu w takich samych warunkach temperatury, masy samolotu, wiatru i ustawiania klap z lotniska na 0 m npm:",
       "q1": "Start z wysoko położonego lotniska - zwiększenie długości rozbiegu.",
       "q2": "Zmniejszenie długości rozbiegu.",
       "q3": "Elewacja lotniska nie ma wpływu na długość rozbiegu.",
@@ -7262,7 +7262,7 @@
     },
     {
       "name": "PL030-0047",
-      "text": "Jak wpłynie użycie większego wychylenia klap (niż zwykle) na długość rozbiegu samolotu:.",
+      "text": "Jak wpłynie użycie większego wychylenia klap (niż zwykle) na długość rozbiegu samolotu:",
       "q1": "Zmniejszenie długości rozbiegu.",
       "q2": "Zwiększenie długości rozbiegu.",
       "q3": "Nie ma wpływu na długość rozbiegu.",
@@ -7270,7 +7270,7 @@
     },
     {
       "name": "PL030-0048",
-      "text": "Jak wpłynie zwiększenie masy samolotu na długość rozbiegu:.",
+      "text": "Jak wpłynie zwiększenie masy samolotu na długość rozbiegu:",
       "q1": "Zwiększenie długości rozbiegu.",
       "q2": "Zmniejszenie długości rozbiegu.",
       "q3": "Nie ma wpływu na długość rozbiegu.",
@@ -7278,7 +7278,7 @@
     },
     {
       "name": "PL030-0049",
-      "text": "Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmienione:.",
+      "text": "Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmienione:",
       "q1": "Spadek temperatury otoczenia spowoduje wzrost gradientu wznoszenia.",
       "q2": "Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.",
       "q3": "Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.",
@@ -7286,7 +7286,7 @@
     },
     {
       "name": "PL030-0050",
-      "text": "Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmienione:.",
+      "text": "Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmienione:",
       "q1": "Spadek temperatury otoczenia spowoduje zmniejszenie wymaganego dystansu do startu.",
       "q2": "Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.",
       "q3": "Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.",
@@ -7302,7 +7302,7 @@
     },
     {
       "name": "PL030-0057",
-      "text": "Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:.",
+      "text": "Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:",
       "q1": "Ze względu na konieczność większego wychylenia steru wysokości - wzrasta wymagana siła nośna na płacie - zwiększa się opór indukowany, co negatywnie wpływa na osiągi.",
       "q2": "Ze względu na konieczność mniejszego wychylenia steru wysokości - zmniejsza się siła nośna na usterzeniu, co wymaga zwiększenia siły nośnej na płacie co zmniejsza opór indukowany i ma negatywny wpływ na osiągi.",
       "q3": "Ze względu na konieczność mniejszego wychylenia steru wysokości - spada wymagana siła nośna na płacie - zmniejsza się prędkość przeciągnięcia.",
@@ -7310,7 +7310,7 @@
     },
     {
       "name": "PL030-0059",
-      "text": "Kierunek pasa 040°, wiatr 270 / 18 kt (ATIS). Jakie są składowe wiatru:.",
+      "text": "Kierunek pasa 040°, wiatr 270 / 18 kt (ATIS). Jakie są składowe wiatru:",
       "q1": "W ogon: 12 kt, boczna - z lewej 14 kt.",
       "q2": "Czołowa: 12 kt, boczna - z prawej 14 kt.",
       "q3": "Czołowa: 16 kt, boczna - z prawej 16 kt.",
@@ -7318,7 +7318,7 @@
     },
     {
       "name": "PL030-0060",
-      "text": "Kierunek pasa 150°, wiatr 220 / 22 kt (ATIS). Jakie są składowe wiatru:.",
+      "text": "Kierunek pasa 150°, wiatr 220 / 22 kt (ATIS). Jakie są składowe wiatru:",
       "q1": "Czołowa: 8 kt, boczna - z prawej 21 kt.",
       "q2": "Czołowa: 14 kt, boczna - z prawej 17 kt.",
       "q3": "Czołowa: 4 kt, boczna - z prawej 22 kt.",
@@ -7326,7 +7326,7 @@
     },
     {
       "name": "PL030-0061",
-      "text": "Kierunek pasa 200°, wiatr 080 / 13 kt (ATIS). Jakie są składowe wiatru:.",
+      "text": "Kierunek pasa 200°, wiatr 080 / 13 kt (ATIS). Jakie są składowe wiatru:",
       "q1": "W ogon: 7 kt, boczna - z lewej 11 kt.",
       "q2": "Czołowa: 7 kt, boczna - z prawej 11 kt.",
       "q3": "Czołowa: 4 kt, boczna - z prawej 12 kt.",
@@ -7334,7 +7334,7 @@
     },
     {
       "name": "PL030-0062",
-      "text": "Kierunek pasa 220°, wiatr 160 / 26 kt (ATIS). Jakie są składowe wiatru:.",
+      "text": "Kierunek pasa 220°, wiatr 160 / 26 kt (ATIS). Jakie są składowe wiatru:",
       "q1": "Czołowa: 13 kt, boczna - z lewej 23 kt.",
       "q2": "Czołowa: 14 kt, boczna - z prawej 17 kt.",
       "q3": "Czołowa: 9 kt, boczna - z prawej 23 kt.",
@@ -7342,7 +7342,7 @@
     },
     {
       "name": "PL030-0063",
-      "text": "Kierunek pasa 330°, wiatr 250 / 15 kt (ATIS). Jakie są składowe wiatru:.",
+      "text": "Kierunek pasa 330°, wiatr 250 / 15 kt (ATIS). Jakie są składowe wiatru:",
       "q1": "Czołowa: 3 kt, boczna - z lewej 15 kt.",
       "q2": "Czołowa: 8 kt, boczna - z lewej 13 kt.",
       "q3": "W ogon: 3 kt, boczna - z lewej 15 kt.",
@@ -7350,7 +7350,7 @@
     },
     {
       "name": "PL030-0064",
-      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:.",
+      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:",
       "q1": "duża temperatura, duża wysokość gęstościowa, duża wilgotność.",
       "q2": "mała temperatura, duża wysokość gęstościowa, mała wilgotność.",
       "q3": "duża temperatura, mała wysokość gęstościowa, małą wilgotność.",
@@ -7358,7 +7358,7 @@
     },
     {
       "name": "PL030-0065",
-      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:.",
+      "text": "Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:",
       "q1": "duża wysokość gęstościowa i duża temperatura otoczenia.",
       "q2": "silny wiatr czołowy.",
       "q3": "słaby opad deszczu przy niskiej, ale dodatniej temperaturze otoczenia.",
@@ -7366,7 +7366,7 @@
     },
     {
       "name": "PL030-0066",
-      "text": "Liczba Macha to stosunek:.",
+      "text": "Liczba Macha to stosunek:",
       "q1": "Prędkości TAS i lokalnej prędkości dźwięku.",
       "q2": "Prędkości IAS i lokalnej prędkości dźwięku.",
       "q3": "Prędkości IAS i prędkości dźwięku na danej wysokości odniesionej do ISA.",
@@ -7374,7 +7374,7 @@
     },
     {
       "name": "PL030-0068",
-      "text": "Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:.",
+      "text": "Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:",
       "q1": "maksymalna masa do lądowania w normalnych okolicznościach.",
       "q2": "maksymalna masa do lądowania - nieprzekraczalna - nawet w sytuacjach awaryjnych ze względu na pewność zniszczenia konstrukcji.",
       "q3": "maksymalna masa do lądowania w sytuacjach awaryjnych (1.3 razy większa od normalnej masy do lądowania).",
@@ -7382,7 +7382,7 @@
     },
     {
       "name": "PL030-0072",
-      "text": "Mała wysokość gęstościowa oznacza, że:.",
+      "text": "Mała wysokość gęstościowa oznacza, że:",
       "q1": "Gęstość powietrza jest duża - czyli osiągi samolotu będą lepsze niż w przypadku dużej wysokości gęstościowej.",
       "q2": "Gęstość powietrza jest duża - czyli osiągi samolotu będą dużo gorsze niż w przypadku dużej wysokości gęstościowej.",
       "q3": "Gęstość powietrza jest mała, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości gęstościowej.",
@@ -7390,7 +7390,7 @@
     },
     {
       "name": "PL030-0078",
-      "text": "Najbardziej ekonomiczny z punktu widzenia zużycia paliwa / zasięgu kąt natarcia to taki, który wytwarza:.",
+      "text": "Najbardziej ekonomiczny z punktu widzenia zużycia paliwa / zasięgu kąt natarcia to taki, który wytwarza:",
       "q1": "Najlepszy stosunek sił nośnej do oporu - taki najbardziej ekonomiczny kąt natarcia jest stały dla każdej kombinacji wysokości lotu i masy samolotu.",
       "q2": "Najlepszy stosunek sił nośnej do oporu - taki najbardziej ekonomiczny kąt natarcia rośnie wraz z masą samolotu oraz wysokością lotu.",
       "q3": "Najlepszy stosunek siły oporu do ciągu.",
@@ -7398,7 +7398,7 @@
     },
     {
       "name": "PL030-0079",
-      "text": "Odnośnie efektu „wpływu ziemi” prawdą jest, że:.",
+      "text": "Odnośnie efektu \"wpływu ziemi\" prawdą jest, że:",
       "q1": "Zjawisko zanika na wysokości równej w przybliżeniu rozpiętości samolotu / szybowca i osiągi spadają.",
       "q2": "Zjawisko znaczne skraca fazę wytrzymania przy lądowaniu.",
       "q3": "Poprawia się gradient wznoszenia do wysokości 150 m.",
@@ -7406,15 +7406,15 @@
     },
     {
       "name": "PL030-0080",
-      "text": "Odnośnie wpływu oblodzenia na osiągi statków powietrznych prawdą jest, że:.",
-      "q1": "Nawet drobne zanieczyszczenie typu „papier ścierny” powierzchni nośnych może mieć niebezpieczny wpływ na osiągi.",
+      "text": "Odnośnie wpływu oblodzenia na osiągi statków powietrznych prawdą jest, że:",
+      "q1": "Nawet drobne zanieczyszczenie typu \"papier ścierny\" powierzchni nośnych może mieć niebezpieczny wpływ na osiągi.",
       "q2": "Lód na górnej powierzchni skrzydeł /łopat wirników jest mniej niebezpieczny niż na dolnej.",
       "q3": "Głównym czynnikiem wpływającym na osiągi statków powietrznych jest masa osadzającego się na nich lodu.",
       "q4": "Aby na statku powietrznym pojawiło się oblodzenie mające wpływ na osiągi musi on poruszać się w chmurach."
     },
     {
       "name": "PL030-0085",
-      "text": "Podczas wykonywania prawidłowego zakrętu z przechyleniem 60 stopni:.",
+      "text": "Podczas wykonywania prawidłowego zakrętu z przechyleniem 60 stopni:",
       "q1": "Prędkość przeciągnięcia wzrosnie o około 40%.",
       "q2": "Prędkość przeciągnięcia spadnie o około 20%.",
       "q3": "Prędkość przeciągnięcia wzrośnie o około 60%.",
@@ -7422,7 +7422,7 @@
     },
     {
       "name": "PL030-0086",
-      "text": "Podczas zakrętu:.",
+      "text": "Podczas zakrętu:",
       "q1": "Pojawia się siła dośrodkowa i przeciążenie (load factor).",
       "q2": "Siła ciężkości jest dokładnie równoważona przez siłę nośną.",
       "q3": "Pojawia się przyspieszenie ujemne.",
@@ -7430,7 +7430,7 @@
     },
     {
       "name": "PL030-0087",
-      "text": "Przeciążenie występujące w zakręcie (load factor) to:.",
+      "text": "Przeciążenie występujące w zakręcie (load factor) to:",
       "q1": "Całkowita siła nośna dzielona przez ciężar.",
       "q2": "Ciężar dzielony przez siłę nośną.",
       "q3": "Ciąg dzielony przez ciężar.",
@@ -7438,7 +7438,7 @@
     },
     {
       "name": "PL030-0088",
-      "text": "Przy starcie z pasa nachylonego - pod górę - przyspieszenie podczas rozbiegu samolotu będzie ... ,a długość rozbiegu ... :.",
+      "text": "Przy starcie z pasa nachylonego - pod górę - przyspieszenie podczas rozbiegu samolotu będzie ... ,a długość rozbiegu ... :",
       "q1": "Mniejsze, wzrośnie.",
       "q2": "Mniejsze, zmniejszy się.",
       "q3": "Nie ma różnicy, nie ma wpływu na długość rozbiegu.",
@@ -7446,7 +7446,7 @@
     },
     {
       "name": "PL030-0089",
-      "text": "Przy starcie z pasa o nachyleniu dodatnim - z góry długość rozbiegu samolotu:.",
+      "text": "Przy starcie z pasa o nachyleniu dodatnim - z góry długość rozbiegu samolotu:",
       "q1": "Zmniejszy się.",
       "q2": "Zwiększy się.",
       "q3": "Nachylenie drogi startowej nie ma wpływu na długość rozbiegu.",
@@ -7454,7 +7454,7 @@
     },
     {
       "name": "PL030-0090",
-      "text": "Pułap praktyczny to wysokość ciśnieniowa, na której:.",
+      "text": "Pułap praktyczny to wysokość ciśnieniowa, na której:",
       "q1": "prędkość wznoszenia statku powietrznego osiąga pewną, określoną przepisami, wartość.",
       "q2": "prędkość wznoszenia statku powietrznego osiąga zero.",
       "q3": "prędkość przeciągnięcia i krytyczna prędkość Macha statku powietrznego są równe.",
@@ -7462,7 +7462,7 @@
     },
     {
       "name": "PL030-0091",
-      "text": "Rozbieg z pasa o jakiej nawierzchni będzie najdłuższy:.",
+      "text": "Rozbieg z pasa o jakiej nawierzchni będzie najdłuższy:",
       "q1": "Wysoka trawa.",
       "q2": "Niska trawa.",
       "q3": "Beton.",
@@ -7470,7 +7470,7 @@
     },
     {
       "name": "PL030-0094",
-      "text": "Samolot musi być wyważony ze względu na zachowanie stateczności:.",
+      "text": "Samolot musi być wyważony ze względu na zachowanie stateczności:",
       "q1": "podłużnej.",
       "q2": "poprzecznej.",
       "q3": "statycznej poprzecznej.",
@@ -7486,7 +7486,7 @@
     },
     {
       "name": "PL030-0096",
-      "text": "Skutki przeciążenia to między innymi:.",
+      "text": "Skutki przeciążenia to między innymi:",
       "q1": "Podwyższenie prędkości startu i prędkości bezpiecznych, wydłużenie dystansu do startu i lądowania, zmniejszenie prędkości wznoszenia, możliwość uszkodzeń konstrukcji samolotu.",
       "q2": "Obniżenie prędkości startu i prędkości bezpiecznych, nie ma zmian w osiągach silników.",
       "q3": "Obniżenie prędkości startu i prędkości bezpiecznych oraz możliwość uszkodzeń konstrukcji samolotu.",
@@ -7494,7 +7494,7 @@
     },
     {
       "name": "PL030-0104",
-      "text": "Użycie (wysunięcie) klap zmniejsza:.",
+      "text": "Użycie (wysunięcie) klap zmniejsza:",
       "q1": "Współczynnik sił nośnej do oporu.",
       "q2": "Opór indukowany.",
       "q3": "Pole widzenia pilota ze względu na zwiększony kąt natarcia.",
@@ -7502,7 +7502,7 @@
     },
     {
       "name": "PL030-0107",
-      "text": "W danym samolocie mamy dwa położenia klap: 0 i 10 stopni. Aby uzyskać krótszą długość rozbiegu użyjemy klap:.",
+      "text": "W danym samolocie mamy dwa położenia klap: 0 i 10 stopni. Aby uzyskać krótszą długość rozbiegu użyjemy klap:",
       "q1": "10",
       "q2": "0",
       "q3": "Położenie klap nie ma wpływu na długość rozbiegu.",
@@ -7510,7 +7510,7 @@
     },
     {
       "name": "PL030-0110",
-      "text": "W standardowym układzie (klasycznym) środek ciężkości samolotu jest (licząc od przodu):.",
+      "text": "W standardowym układzie (klasycznym) środek ciężkości samolotu jest (licząc od przodu):",
       "q1": "Przed środkiem aerodynamicznym.",
       "q2": "Dokładnie w środku aerodynamicznym.",
       "q3": "Zawsze dokładnie pod środkiem aerodynamicznym.",
@@ -7526,7 +7526,7 @@
     },
     {
       "name": "PL030-0120",
-      "text": "Zjawisko polegające na oblodzeniu statecznika poziomego:.",
+      "text": "Zjawisko polegające na oblodzeniu statecznika poziomego:",
       "q1": "Może doprowadzić do przeciągnięcia statecznika poziomego i wejście samolotu w niekontrolowane nurkowanie.",
       "q2": "Gdy zaistnieje, wymaga takiego samego działania ze strony pilota - oddania steru od siebie, dodania mocy.",
       "q3": "Występuje tylko na dużych samolotach pasażerskich.",
@@ -7784,7 +7784,7 @@
     },
     {
       "name": "PL040-0042",
-      "text": "Co oznacza pojęcie „stres lotu”?",
+      "text": "Co oznacza pojęcie \"stres lotu\"?",
       "q1": "ważny aspekt początkowego szkolenia lotniczego: ogół sytuacji występujących w warunkach rzeczywistego lotu związanych z napięciem emocjonalnym pilota oraz czynnikami działającymi ze strony środowiska: przyspieszenie, hałas, wibracje, różnice temperatury i ciśnienia",
       "q2": "określenie stanu niepewności, niepokoju i lęku u początkującego pilota",
       "q3": "określa stan obniżonego nastroju u pilota w sytuacji przemęczenia pracą",
@@ -8032,7 +8032,7 @@
     },
     {
       "name": "PL040-0075",
-      "text": "Jaka jest najczęstsza przyczyna pourazowej śmierci „do uniknięcia” u dorosłego pacjenta po doznanym urazie?",
+      "text": "Jaka jest najczęstsza przyczyna pourazowej śmierci \"do uniknięcia\" u dorosłego pacjenta po doznanym urazie?",
       "q1": "niedrożność dróg oddechowych",
       "q2": "tamponada osierdzia",
       "q3": "wstrząs krwotoczny",
@@ -8080,7 +8080,7 @@
     },
     {
       "name": "PL040-0084",
-      "text": "Komunikacja niewerbalna czyli tzw. „mowa ciała” to:",
+      "text": "Komunikacja niewerbalna czyli tzw. \"mowa ciała\" to:",
       "q1": "podlegająca kontroli komunikacja bezsłowna oparta na przekazie informacji zawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach zachowań ludzkich",
       "q2": "wygląd zewnętrzny człowieka i jego komunikatywność",
       "q3": "siła, barwa i tembr głosu oraz intonacja w przekazie werbalnym",
@@ -8240,7 +8240,7 @@
     },
     {
       "name": "PL040-0104",
-      "text": "Łączenie spożycia alkoholu etylowego oraz jego oddziaływania z wykonywaniem lotów stanowi bardzo ryzykowną figurę zwana „ śmiertelna pętlą” ponieważ:",
+      "text": "Łączenie spożycia alkoholu etylowego oraz jego oddziaływania z wykonywaniem lotów stanowi bardzo ryzykowną figurę zwana \"śmiertelna pętlą\" ponieważ:",
       "q1": "wywołuje niekorzystne skutki przede wszystkim w ośrodkowym układzie nerwowym, narządzie wzroku, narządzie równowagi /błędnik/",
       "q2": "zwiększa tolerancję przyspieszeń Gz +",
       "q3": "zwiększa  sprawność psychomotoryczną pilota",
@@ -8440,7 +8440,7 @@
     },
     {
       "name": "PL040-0133",
-      "text": "Nieżyt górnych dróg oddechowych /potocznie „katar”/ utrudnia:",
+      "text": "Nieżyt górnych dróg oddechowych /potocznie \"katar\"/ utrudnia:",
       "q1": "wyrównywanie ciśnienia w uchu środkowym",
       "q2": "dobre widzenie",
       "q3": "rozróżnianie barw",
@@ -8660,7 +8660,7 @@
       "q1": "autokinezą",
       "q2": "psychokinezą",
       "q3": "oczopląsem",
-      "q4": "„kurzą ślepotą”"
+      "q4": "\"kurzą ślepotą\""
     },
     {
       "name": "PL040-0163",
@@ -8714,13 +8714,13 @@
       "name": "PL040-0169",
       "text": "Podczas wdechu i wydechu ciśnienie powietrza pęcherzykowatego jest sumą ciśnień parcjalnych wielu gazów takich jak : tlen, dwutlenek węgla i azot. Które z praw gazowych w sposób najlepszy opisuje to zjawisko:",
       "q1": "prawo Daltona",
-      "q2": "prawo Henrye`go",
-      "q3": "prawo Boyle`a",
+      "q2": "prawo Henrye'go",
+      "q3": "prawo Boyle'a",
       "q4": "żadne z nich"
     },
     {
       "name": "PL040-0171",
-      "text": "Podczas wykonywania „ pętli„ działa na pilota przyspieszenie o kierunku:",
+      "text": "Podczas wykonywania \"pętli\" działa na pilota przyspieszenie o kierunku:",
       "q1": "+Gz",
       "q2": "-Gz",
       "q3": "+Gx",
@@ -8754,7 +8754,7 @@
       "name": "PL040-0175",
       "text": "Podejmowanie decyzji przez człowieka jest:",
       "q1": "subiektywne i podatne na błędy, związane ze sposobem formułowania problemu i jego interpretacją oraz rodzajem postaw wobec ryzyka",
-      "q2": "zawsze związane z koniecznością przezwyciężenia zjawiska „bloku umysłowego”",
+      "q2": "zawsze związane z koniecznością przezwyciężenia zjawiska \"bloku umysłowego\"",
       "q3": "redukcja rozwiązania złożonych problemów do prostszych cząstkowych operacji",
       "q4": "głównie oparte na bieżącej analizie informacji zdrowotnych związanych z daną podjętą reakcją"
     },
@@ -8929,8 +8929,8 @@
     {
       "name": "PL040-0200",
       "text": "Przy szybkim spadku prędkości samolotu w locie poziomym i prostoliniowym pilot ulega złudzeniu:",
-      "q1": "opadania samolotu „nosem” w dół",
-      "q2": "podnoszenia „nosa” samolotu w górę",
+      "q1": "opadania samolotu \"nosem\" w dół",
+      "q2": "podnoszenia \"nosa\" samolotu w górę",
       "q3": "rotacji bocznej",
       "q4": "autorotacji"
     },
@@ -8953,8 +8953,8 @@
     {
       "name": "PL040-0203",
       "text": "Przy znacznym przyspieszaniu podczas startu samolotu pilot ulega złudzeniu:",
-      "q1": "podnoszenia „nosa” samolotu w górę",
-      "q2": "opadania samolotu „nosem” w dół",
+      "q1": "podnoszenia \"nosa\" samolotu w górę",
+      "q2": "opadania samolotu \"nosem\" w dół",
       "q3": "rotacji bocznej",
       "q4": "autorotacji"
     },
@@ -9169,7 +9169,7 @@
     {
       "name": "PL040-0230",
       "text": "Stresorami psychologicznymi nazywamy:",
-      "q1": "czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do „ataku lub ucieczki”",
+      "q1": "czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do \"ataku lub ucieczki\"",
       "q2": "wszelkie zakłócenia fizjologicznego funkcjonowania człowieka",
       "q3": "czynniki powodujące bezsenność",
       "q4": "problemy i kłopoty życia codziennego"
@@ -9256,7 +9256,7 @@
     },
     {
       "name": "PL040-0245",
-      "text": "U człowieka najsilniejszym „dawcą czasu” /synchronizatorem rytmów okołodobowych/ jest:",
+      "text": "U człowieka najsilniejszym \"dawcą czasu\" /synchronizatorem rytmów okołodobowych/ jest:",
       "q1": "naprzemienność nocy i dnia",
       "q2": "intensywność iluminacji",
       "q3": "czynnik socjalny",
@@ -9970,7 +9970,7 @@
   "meteorology": [
     {
       "name": "PL050-0001",
-      "text": "‘Deszcz przechłodzony” występuje, gdy:",
+      "text": "‘Deszcz przechłodzony\" występuje, gdy:",
       "q1": "Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego",
       "q2": "Temperatura cząsteczek wody jest wyższa od 0°C",
       "q3": "Temperatura cząsteczek wody jest wyższa od temperatury powietrza otaczającego",
@@ -10442,7 +10442,7 @@
     },
     {
       "name": "PL050-0084",
-      "text": "Prędkość wiatru, w dolnej atmoferze, wraz z wysokością najczęściej:",
+      "text": "Prędkość wiatru, w dolnej atmosferze, wraz z wysokością najczęściej:",
       "q1": "Wzrasta",
       "q2": "Maleje",
       "q3": "Nie zmienia się",
@@ -10746,7 +10746,7 @@
     },
     {
       "name": "PL050-0127",
-      "text": "Zjawisko „Bryza” powstaje:",
+      "text": "Zjawisko \"Bryza\" powstaje:",
       "q1": "W rejonie brzegu morskiego",
       "q2": "Na obszarach górzystych i pagórkowatych",
       "q3": "W rejonie Górnego Śląska",
@@ -11327,8 +11327,8 @@
       "text": "Kąt znoszenia to:",
       "q1": "Kąt zawarty pomiędzy nakazaną linią drogi a kursem statku powietrznego.",
       "q2": "Kąt zawarty między północnym kierunkiem południka a linią drogi.",
-      "q3": "Kąt zawarty między kierunkiem \"\"dokąd wieje wiatr\"\" a północą magnetyczną.",
-      "q4": "Kąt zawarty między podłużną osią statku powietrznego a kierunkiem „skąd wieje wiatr”"
+      "q3": "Kąt zawarty między kierunkiem \"dokąd wieje wiatr\" a północą magnetyczną.",
+      "q4": "Kąt zawarty między podłużną osią statku powietrznego a kierunkiem \"skąd wieje wiatr\""
     },
     {
       "name": "PL060-0036",
@@ -11516,7 +11516,7 @@
     },
     {
       "name": "PL060-0069",
-      "text": "Pod określeniem “węzeł” [w] rozumiemy:",
+      "text": "Pod określeniem “węzeł\" [w] rozumiemy:",
       "q1": "NM/h",
       "q2": "Milę lądową/h",
       "q3": "km/h",
@@ -12060,7 +12060,7 @@
     },
     {
       "name": "PL060-0174",
-      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53\"\"57,8\"\" E015°47\"\" 7,8\"\") na lotnisko w Zamościu (N50°42\"\"6,5\"\" E023°12\"\"15,3\"\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
+      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53\"57,8\" E015°47\" 7,8\") na lotnisko w Zamościu (N50°42\"6,5\" E023°12\"15,3\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
       "q1": "zachód słońca w Zamościu następuje około 30 minut wcześniej",
       "q2": "zachód słońca w Zamościu następuje około 1 godzinę wcześniej",
       "q3": "zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie",
@@ -12068,7 +12068,7 @@
     },
     {
       "name": "PL060-0175",
-      "text": "Pilot planuje przelot z lotniska w Zamościu (N50°42\"\"6,5\"\" E023°12\"\"15,3\"\") na lotnisko w Jeleniej Górze (N50°53\"\"57,8\"\" E015°47\"\"7,8\"\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
+      "text": "Pilot planuje przelot z lotniska w Zamościu (N50°42\"6,5\" E023°12\"15,3\") na lotnisko w Jeleniej Górze (N50°53\"57,8\" E015°47\"7,8\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
       "q1": "zachód słońca w Jeleniej Górze następuje około 30 minut później",
       "q2": "zachód słońca w Jeleniej Górze następuje około 1 godzinę wcześniej",
       "q3": "zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie",
@@ -12244,7 +12244,7 @@
     },
     {
       "name": "PL060-0221",
-      "text": "Skrót “RVR” oznacza:",
+      "text": "Skrót “RVR\" oznacza:",
       "q1": "widzialność na drodze startowej",
       "q2": "prosimy o wektorowanie radarowe",
       "q3": "meldunek o widzialności drogi startowej",
@@ -12252,7 +12252,7 @@
     },
     {
       "name": "PL060-0222",
-      "text": "Skrót “SSR” oznacza:",
+      "text": "Skrót “SSR\" oznacza:",
       "q1": "wtórny radar dozorowania",
       "q2": "radar poszukiwawczy i dozorujący",
       "q3": "wytrzymałość nawierzchni drogi startowej",
@@ -12405,10 +12405,10 @@
     {
       "name": "PL060-0252",
       "text": "W jakim modzie wysyłane jest zapytanie o wysokość?",
-      "q1": "w modzie \"\"C\"\"",
-      "q2": "w modzie \"\"3/A\"\"",
-      "q3": "w modzie \"\"D\"\"",
-      "q4": "w modzie ”B”"
+      "q1": "w modzie \"C\"",
+      "q2": "w modzie \"3/A\"",
+      "q3": "w modzie \"D\"",
+      "q4": "w modzie \"B\""
     },
     {
       "name": "PL060-0254",
@@ -12911,7 +12911,7 @@
     {
       "name": "PL070-0053",
       "text": "Do zestawu pierwszej pomocy powinien być dołączony:",
-      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)",
+      "q1": "podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO (\"ground-air visual signal code for use by survivors\")",
       "q2": "jedynie podręcznik pierwszej pomocy",
       "q3": "podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO",
       "q4": "Aneks 12 ICAO"
@@ -12922,7 +12922,7 @@
       "q1": "Aneksie 12 ICAO",
       "q2": "Aneksie 6 ICAO",
       "q3": "Aneksie 2 ICAO",
-      "q4": "AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”"
+      "q4": "AIP Polska, rozdz. ENR1 \"Przepisy i Procedury Ogólne\""
     },
     {
       "name": "PL070-0055",
@@ -13065,7 +13065,7 @@
       "text": "Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddające działalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są publikowane w:",
       "q1": "Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego",
       "q2": "Dzienniku Ustaw",
-      "q3": "miesięczniku „Przegląd Lotniczy”",
+      "q3": "miesięczniku \"Przegląd Lotniczy\"",
       "q4": "na stronach internetowych organizacji lotniczych"
     },
     {
@@ -13104,7 +13104,7 @@
   "flight": [
     {
       "name": "PL080-0001",
-      "text": "Czy profile klasyczne są dużo bardziej „wrażliwe” na zabrudzenia od profili laminarnych?",
+      "text": "Czy profile klasyczne są dużo bardziej \"wrażliwe\" na zabrudzenia od profili laminarnych?",
       "q1": "nie",
       "q2": "tak",
       "q3": "nie, ale tylko na małych kątach natarcia",
@@ -13200,7 +13200,7 @@
     },
     {
       "name": "PL080-0015",
-      "text": "Co jest „równanie stanu powietrza” ?",
+      "text": "Co jest \"równanie stanu powietrza\" ?",
       "q1": "Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p = &rho;.g.R.T  [Pa]",
       "q2": "Związek istniejący pomiędzy ciśnieniem powietrza i jego temperaturą.",
       "q3": "Równanie określające równowagę między ciśnieniem powietrza i jego wilgotnością.",
@@ -13208,15 +13208,15 @@
     },
     {
       "name": "PL080-0016",
-      "text": "Co się rozumie pod pojęciem „sterowności” obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc) ?",
-      "q1": "Zdolność do „odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące.",
+      "text": "Co się rozumie pod pojęciem \"sterowności\" obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc) ?",
+      "q1": "Zdolność do \"odpowiadania\" przez obiekt na zadawane przez pilota impulsy sterujące.",
       "q2": "Zapewnianie możliwości wykonywania manewrów akrobatycznych.",
       "q3": "Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu.",
       "q4": "Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie."
     },
     {
       "name": "PL080-0017",
-      "text": "Co to jest „ciśnienie spiętrzeniowe”?",
+      "text": "Co to jest \"ciśnienie spiętrzeniowe\"?",
       "q1": "różnica ciśnienia dynamicznego i ciśnienia statycznego",
       "q2": "najwyższe zmierzone ciśnienie",
       "q3": "najniższe zmierzone ciśnienie",
@@ -13224,7 +13224,7 @@
     },
     {
       "name": "PL080-0018",
-      "text": "Co to jest „opływ laminarny”?",
+      "text": "Co to jest \"opływ laminarny\"?",
       "q1": "niezaburzony opływ od krawędzi natarcia do punktu przejściowego",
       "q2": "opływ niezaburzony wzdłuż całej cięciwy, ze strugami powietrza przylegającymi do profilu",
       "q3": "opływ zaburzony (turbulentny) wzdłuż całej cięciwy profilu",
@@ -13232,7 +13232,7 @@
     },
     {
       "name": "PL080-0019",
-      "text": "Co to jest „pułap teoretyczny” statku powietrznego (śmigłowca, samolotu, szybowca etc)?",
+      "text": "Co to jest \"pułap teoretyczny\" statku powietrznego (śmigłowca, samolotu, szybowca etc)?",
       "q1": "Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.",
       "q2": "Pułap obliczony w projekcie konstrukcyjnym statku powietrznego.",
       "q3": "Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s.",
@@ -13240,7 +13240,7 @@
     },
     {
       "name": "PL080-0020",
-      "text": "Co to jest „stateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
+      "text": "Co to jest \"stateczność statyczna\" obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
       "q1": "Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.",
       "q2": "Stan równowagi spoczynkowej.",
       "q3": "Brak reakcji na zakłócenia równowagi.",
@@ -13248,7 +13248,7 @@
     },
     {
       "name": "PL080-0021",
-      "text": "Co to jest „środek parcia profilu” ?",
+      "text": "Co to jest \"środek parcia profilu\" ?",
       "q1": "Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych występujących na profilu",
       "q2": "Punkt przyłożenia oporu.",
       "q3": "Punkt, w którym wielkość ciśnienia jest średnia.",
@@ -13256,7 +13256,7 @@
     },
     {
       "name": "PL080-0022",
-      "text": "Co to jest „warstwa przyścienna”?",
+      "text": "Co to jest \"warstwa przyścienna\"?",
       "q1": "Warstwa powietrza opływającego dowolny element statku powietrznego, w której prędkość zmienia się od zera do prędkości opływu",
       "q2": "Obszar zawirowań powstających w okolicy mocowania elementów struktury statku powietrznego do ściany kadłuba",
       "q3": "Część strumienia powietrza opływającego tę część statku powietrznego, na której występuje cyrkulacja",
@@ -13264,7 +13264,7 @@
     },
     {
       "name": "PL080-0023",
-      "text": "Co to jest „wydłużenie” skrzydła samolotu lub szybowca albo łopaty nośnej?",
+      "text": "Co to jest \"wydłużenie\" skrzydła samolotu lub szybowca albo łopaty nośnej?",
       "q1": "Stosunek rozpiętości do średniej cięciwy geometrycznej.",
       "q2": "Stosunek długości skrzydła lub łopaty do cięciwy u nasady.",
       "q3": "Stosunek rozpiętości skrzydeł (średnicy wirnika) do długości samolotu (śmigłowca)",
@@ -13360,7 +13360,7 @@
     },
     {
       "name": "PL080-0036",
-      "text": "Czym się wyraża „niestateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
+      "text": "Czym się wyraża \"niestateczność statyczna\" obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
       "q1": "Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.",
       "q2": "Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.",
       "q3": "Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.",
@@ -13368,7 +13368,7 @@
     },
     {
       "name": "PL080-0037",
-      "text": "Czym się wyraża „stateczność statyczna obojętna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
+      "text": "Czym się wyraża \"stateczność statyczna obojętna\" obiektu (samolotu, śmigłowca, szybowca, lotni etc)?",
       "q1": "Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.",
       "q2": "Istnieniem tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.",
       "q3": "Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.",
@@ -13424,11 +13424,11 @@
     },
     {
       "name": "PL080-0044",
-      "text": "Do jakiego wykresu odnosi się potoczna nazwa „Krzywa Lilienthala”?",
+      "text": "Do jakiego wykresu odnosi się potoczna nazwa \"Krzywa Lilienthala\"?",
       "q1": "Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..",
       "q2": "Do biegunowej autorotacji.",
       "q3": "Do wykresu mocy potrzebnej.",
-      "q4": "Do wykresu zwanego w Polsce „krzywą Tytusa Hubera”"
+      "q4": "Do wykresu zwanego w Polsce \"krzywą Tytusa Hubera\""
     },
     {
       "name": "PL080-0046",
@@ -13616,7 +13616,7 @@
     },
     {
       "name": "PL080-0072",
-      "text": "Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach „milimetrów słupa rtęci” odpowiada po = 1013,25 hPa?.",
+      "text": "Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach \"milimetrów słupa rtęci\" odpowiada po = 1013,25 hPa?.",
       "q1": "760 mm Hg.",
       "q2": "800 mm Hg",
       "q3": "750 mm Hg",
@@ -13720,7 +13720,7 @@
     },
     {
       "name": "PL080-0086",
-      "text": "Jakiemu celowi służy tzw. „mechanizacja skrzydła” (klapy, sloty, interceptory etc)?",
+      "text": "Jakiemu celowi służy tzw. \"mechanizacja skrzydła\" (klapy, sloty, interceptory etc)?",
       "q1": "Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na osiągi (np. prędkość podejścia do lądowania)",
       "q2": "Celem jest zwiększanie udźwigu statku powietrznego.",
       "q3": "Celem jest zwiększanie prędkości statku powietrznego.",
@@ -13736,7 +13736,7 @@
     },
     {
       "name": "PL080-0088",
-      "text": "Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest „czas połówkowy”. Co to jest za wielkość?",
+      "text": "Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc) jest \"czas połówkowy\". Co to jest za wielkość?",
       "q1": "Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).",
       "q2": "Czas połowy okresu wahań fugoidalnych wywołanych odchyleniem.",
       "q3": "Czas połowy okresu drgań flatterowych wywołanych wytrąceniem z równowagi.",
@@ -13960,7 +13960,7 @@
     },
     {
       "name": "PL080-0122",
-      "text": "Lotki typu „Fryze” stosuje się w celu:",
+      "text": "Lotki typu \"Fryze\" stosuje się w celu:",
       "q1": "zniwelowania momentu oporowego lotek",
       "q2": "zwiększenia momentu przechylającego",
       "q3": "zmniejszenia oporu szczelinowego",
@@ -14409,8 +14409,8 @@
     {
       "name": "PL080-0187",
       "text": "Przyrost siły nośnej na usterzeniu wysokości ‘&Delta;PZH’ wywołany wychyleniem drążka ma wartość:",
-      "q1": "dodatnią gdy oddamy drążek „od siebie”",
-      "q2": "ujemną gdy oddamy drążek „od siebie”",
+      "q1": "dodatnią gdy oddamy drążek \"od siebie\"",
+      "q2": "ujemną gdy oddamy drążek \"od siebie\"",
       "q3": "zawsze dodatnią",
       "q4": "zawsze ujemną"
     },
@@ -14944,11 +14944,11 @@
     },
     {
       "name": "PL080-0263",
-      "text": "Z jakich głównych elementów powstaje opór statku powietrznego zwany „szkodliwym”?",
-      "q1": "Z „oporu kształtu” bryły statku powietrznego i z „oporu tarcia” powietrza o powierzchnię tej bryły.",
+      "text": "Z jakich głównych elementów powstaje opór statku powietrznego zwany \"szkodliwym\"?",
+      "q1": "Z \"oporu kształtu\" bryły statku powietrznego i z \"oporu tarcia\" powietrza o powierzchnię tej bryły.",
       "q2": "Z lepkości powietrza i z oporów wirów powstających na bryle statku.",
-      "q3": "Z „oporu kształtu” bryły statku powietrznego i z „oporu indukowanego” powstającego na powierzchni bryły statku.",
-      "q4": "Z „oporu tarcia” powietrza o powierzchnię bryły statku powietrznego i z „oporu interferencyjnego”.."
+      "q3": "Z \"oporu kształtu\" bryły statku powietrznego i z \"oporu indukowanego\" powstającego na powierzchni bryły statku.",
+      "q4": "Z \"oporu tarcia\" powietrza o powierzchnię bryły statku powietrznego i z \"oporu interferencyjnego\".."
     },
     {
       "name": "PL080-0265",
@@ -15032,7 +15032,7 @@
     },
     {
       "name": "PL080-0282",
-      "text": "Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const\"",
+      "text": "Co to za zasada?: \"W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const\"",
       "q1": "zasada ciągłości ruchu",
       "q2": "zasada Bernouli’ego",
       "q3": "prawo Bernouli’ego",
@@ -15040,7 +15040,7 @@
     },
     {
       "name": "PL080-0283",
-      "text": "Co to za zasada?: „W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu”",
+      "text": "Co to za zasada?: \"W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu\"",
       "q1": "prawo Bernouli’ego",
       "q2": "zasada ciągłości ruchu",
       "q3": "zasada zachowania energii przepływu",
@@ -15176,7 +15176,7 @@
     },
     {
       "name": "PL080-0377",
-      "text": "Co to za zasada?:„W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const",
+      "text": "Co to za zasada?:\"W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const",
       "q1": "zasada ciągłości ruchu",
       "q2": "zasada Bernouli’ego",
       "q3": "prawo Bernouli’ego",
@@ -15184,7 +15184,7 @@
     },
     {
       "name": "PL080-0378",
-      "text": "Co to za zasada?:„W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu”",
+      "text": "Co to za zasada?:\"W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu\"",
       "q1": "prawo Bernouli’ego",
       "q2": "zasada ciągłości ruchu",
       "q3": "zasada zachowania energii przepływu",
@@ -15440,7 +15440,7 @@
     },
     {
       "name": "PL080-0429",
-      "text": "Miarą stateczności statycznej jest pochodna Mx = dM/dx, zwana „pochodną momentu M względem zmiennej x”. Jaki znak pochodnej określa niestateczność?",
+      "text": "Miarą stateczności statycznej jest pochodna Mx = dM/dx, zwana \"pochodną momentu M względem zmiennej x\". Jaki znak pochodnej określa niestateczność?",
       "q1": "Dodatni (+)",
       "q2": "Ujemny (-)",
       "q3": "Znak nie ma znaczenia.",
@@ -15500,7 +15500,7 @@
       "q1": "ekonomiczną",
       "q2": "optymalną",
       "q3": "minimalną",
-      "q4": "różna, zależną od tego, czy leci „z wiatrem” czy „pod wiatr\""
+      "q4": "różna, zależną od tego, czy leci \"z wiatrem\" czy \"pod wiatr\""
     },
     {
       "name": "PL080-0439",
@@ -15833,7 +15833,7 @@
     {
       "name": "PL080-0504",
       "text": "W celu zmniejszenia pochylenia samolotu:",
-      "q1": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”",
+      "q1": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot \"w dół\"",
       "q2": "należy wychylić ster wysokości w dół",
       "q3": "przyrost momentu pochylającego samolot musi mieć wartość dodatnią",
       "q4": "należy wychylić drążek sterowy od siebie"
@@ -15844,7 +15844,7 @@
       "q1": "należy wychylić drążek sterowy od siebie",
       "q2": "przyrost momentu pochylającego samolot musi mieć wartość do ujemną",
       "q3": "należy wychylić ster wysokości do góry",
-      "q4": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”"
+      "q4": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot \"w dół\""
     },
     {
       "name": "PL080-0506",
@@ -15852,12 +15852,12 @@
       "q1": "należy wychylić ster wysokości w dół",
       "q2": "należy wychylić drążek sterowy na siebie",
       "q3": "przyrost momentu pochylającego samolot musi mieć wartość do ujemną",
-      "q4": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”"
+      "q4": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot \"w dół\""
     },
     {
       "name": "PL080-0507",
       "text": "W celu zwiększenia pochylenia samolotu:",
-      "q1": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”",
+      "q1": "wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot \"w górę\"",
       "q2": "należy wychylić drążek sterowy na siebie",
       "q3": "należy wychylić ster wysokości do góry",
       "q4": "przyrost momentu pochylającego samolot musi mieć wartość do ujemną"
@@ -16042,7 +16042,7 @@
     },
     {
       "name": "PL090-0004",
-      "text": "Literę “O” wymawia się jako:",
+      "text": "Literę “O\" wymawia się jako:",
       "q1": "Oscar",
       "q2": "Ontario",
       "q3": "Oklahoma",
@@ -16050,7 +16050,7 @@
     },
     {
       "name": "PL090-0005",
-      "text": "Literę „F” wymawia się jako:",
+      "text": "Literę \"F\" wymawia się jako:",
       "q1": "Foxtrot",
       "q2": "Fox",
       "q3": "Frank",
@@ -16058,7 +16058,7 @@
     },
     {
       "name": "PL090-0006",
-      "text": "Literę „R” wymawia się jako:",
+      "text": "Literę \"R\" wymawia się jako:",
       "q1": "Romeo",
       "q2": "Radio",
       "q3": "Roger",
@@ -16132,7 +16132,7 @@
       "name": "PL090-0015",
       "text": "Treść korespondencji od stacji naziemnej zawierająca zezwolenia, instrukcje, parametry lotu i inne ważne informacje winna być:",
       "q1": "Potwierdzona przez pilota poprzez powtórzenie całości korespondencji i podanie swojego znaku wywoławczego",
-      "q2": "Powinna być potwierdzona sformułowaniem „Roger” lub „Zrozumiałem”",
+      "q2": "Powinna być potwierdzona sformułowaniem \"Roger\" lub \"Zrozumiałem\"",
       "q3": "Nie wymaga potwierdzenia",
       "q4": "Pilot decyduje o sposobie potwierdzenia odebrania korespondencji"
     },
@@ -16154,15 +16154,15 @@
     },
     {
       "name": "PL090-0018",
-      "text": "Nadawanie „ na ślepo” to:",
-      "q1": "Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów „Nadaję na ślepo”",
+      "text": "Nadawanie \"na ślepo\" to:",
+      "q1": "Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów \"Nadaję na ślepo\"",
       "q2": "Nadawanie komunikatów nie wymagających potwierdzenia odbioru",
       "q3": "Nadawanie komunikatów do wszystkich zainteresowanych ( rozgłaszanie)",
       "q4": "Procedura wykonania lotu w warunkach IMC wraz z utratą łączności"
     },
     {
       "name": "PL090-0022",
-      "text": "Znak wywoławczy „Gdańsk Zbliżanie” oznacza:",
+      "text": "Znak wywoławczy \"Gdańsk Zbliżanie\" oznacza:",
       "q1": "Organ kontroli zbliżania Gdańsk",
       "q2": "Kontrolę podejścia w Gdańsku",
       "q3": "Służbę zbliżania statków powietrznych w Gdańsku",
@@ -16179,7 +16179,7 @@
     {
       "name": "PL090-0045",
       "text": "Jeśli stacja pokładowa utraciła łączność ze stacją naziemną właściwą dla obszaru, w którym się znajduje to:",
-      "q1": "Powinna nadawać „na ślepo” na częstotliwości pracy stacji naziemnej",
+      "q1": "Powinna nadawać \"na ślepo\" na częstotliwości pracy stacji naziemnej",
       "q2": "Włączyć odbiornik",
       "q3": "powinna przerwać nadawanie ze względu na możliwość zakłócania innych stacji",
       "q4": "Powinna nadawać na innej dowolnej częstotliwości"
@@ -16234,7 +16234,7 @@
     },
     {
       "name": "PL090-0052",
-      "text": "Do łączności typu powietrze- powietrze przeznaczona jest częstotliwość:",
+      "text": "Do łączności typu powietrze-powietrze przeznaczona jest częstotliwość:",
       "q1": "123,450 MHz",
       "q2": "243,000 MHz",
       "q3": "136,000 MHz",
@@ -16242,7 +16242,7 @@
     },
     {
       "name": "PL090-0053",
-      "text": "Przyrostek znaku wywoławczego „KONTROLA” oznacza:",
+      "text": "Przyrostek znaku wywoławczego \"KONTROLA\" oznacza:",
       "q1": "Kontrolę obszaru",
       "q2": "Kontrolę zbliżania",
       "q3": "Kontrolę lotniska",
@@ -16330,7 +16330,7 @@
     },
     {
       "name": "PL090-0065",
-      "text": "We frazeologii lotniczej wyrażenie „TAK BĘDZIE” oznacza:",
+      "text": "We frazeologii lotniczej wyrażenie \"TAK BĘDZIE\" oznacza:",
       "q1": "Zrozumiałem twoją depeszę i będę stosować się do niej",
       "q2": "Tak",
       "q3": "Skończyłem nadawanie i oczekuję odpowiedzi",
@@ -16412,7 +16412,7 @@
       "name": "PL090-0075",
       "text": "Nadawanie wiadomości dotyczących żeglugi powietrznej, które nie są adresowane do określonej stacji to:",
       "q1": "Rozgłaszanie",
-      "q2": "Łączność powietrze- powietrze",
+      "q2": "Łączność powietrze-powietrze",
       "q3": "Łączność w kierunku powietrza",
       "q4": "Łączność powietrze - ziemia"
     },
