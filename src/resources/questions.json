@@ -5396,7 +5396,7 @@
     },
     {
       "name": "PL020-0021",
-      "text": "Układ \"miękki“ sterowania mechanizmami sterowniczymi stanowi:",
+      "text": "Układ \"miękki\" sterowania mechanizmami sterowniczymi stanowi:",
       "q1": "Linki stalowe i układ rolek",
       "q2": "Popychacze połączone z amortyzatorami gumowymi oraz dzwignie",
       "q3": "Linki stalowe i popychacze oraz rolki",
@@ -5404,7 +5404,7 @@
     },
     {
       "name": "PL020-0022",
-      "text": "Układ \"sztywny“ sterowania mechanizmami sterowniczymi stanowi:",
+      "text": "Układ \"sztywny\" sterowania mechanizmami sterowniczymi stanowi:",
       "q1": "Popychacze sztywne z układem dźwigni",
       "q2": "Popychacze sztywne i linki z układem rolek",
       "q3": "Popychacze sztywne i linki z układem dźwigni",
@@ -6244,7 +6244,7 @@
     },
     {
       "name": "PL020-0143",
-      "text": "Optymalna temperatura oleju w silniku to (<sup>°</sup>C)",
+      "text": "Optymalna temperatura oleju w silniku to (°C)",
       "q1": "90-100",
       "q2": "30-40",
       "q3": "50-70",
@@ -10427,8 +10427,8 @@
     {
       "name": "PL050-0081",
       "text": "Powietrze nagrzane wznosząc się do góry od powierzchni ziemi (suchoadiabatyczny gradient temp.):",
-      "q1": "Ochładza się o 1&lt;sup&gt;°&lt;/sup&gt; C/100 m",
-      "q2": "Ochładza się o 0,5°C/ 100 m",
+      "q1": "Ochładza się o 1°C/100 m",
+      "q2": "Ochładza się o 0,5°C/100 m",
       "q3": "Ogrzewa się o 1°C/100 m",
       "q4": "Ogrzewa się o 0,5°C/100 m"
     },
@@ -10573,7 +10573,7 @@
       "text": "Temperatura, przy której skrapla się para wodna to:",
       "q1": "Temperatura punktu rosy",
       "q2": "Temperatura parowania",
-      "q3": "0<sup>°</sup>C",
+      "q3": "0°C",
       "q4": "Temperatura powietrza suchego"
     },
     {
@@ -10821,8 +10821,8 @@
       "text": "Temperatura na wysokości 500 m może być wyższa od przyziemnej, gdy występuje:",
       "q1": "Inwersja",
       "q2": "Izoterma",
-      "q3": "Spadek temperatury mniejszy od 0,2<sup>°</sup>C/10 0m",
-      "q4": "Spadek temperatury 0,65<sup>°</sup>/10 0m"
+      "q3": "Spadek temperatury mniejszy od 0,2°C/10 0m",
+      "q4": "Spadek temperatury 0,65°/10 0m"
     },
     {
       "name": "PL050-0153",
@@ -11014,7 +11014,7 @@
       "q1": "Inwersja",
       "q2": "Izoterma",
       "q3": "Spadek temperatury mniejszy od 0,2°C/100m",
-      "q4": "Spadek temperatury 0,65°/100m"
+      "q4": "Spadek temperatury 0,65°C/100m"
     },
     {
       "name": "PL050-0185",
@@ -11221,14 +11221,14 @@
     {
       "name": "PL060-0022",
       "text": "Jeden stopień łuku koła wielkiego Ziemi odpowiada odległości:",
-      "q1": "60 Mm",
-      "q2": "1 Mm",
+      "q1": "60 NM",
+      "q2": "1 NM",
       "q3": "60 km",
       "q4": "100 km"
     },
     {
       "name": "PL060-0023",
-      "text": "Jedna mila morska [1 Mm] to:",
+      "text": "Jedna mila morska [1 NM] to:",
       "q1": "1852m",
       "q2": "1620m",
       "q3": "1820m",
@@ -11461,10 +11461,10 @@
     {
       "name": "PL060-0061",
       "text": "Na mapie lotniczej w skali 1:500 000 odległość między dwoma punktami wynosi 27 cm. Jaki jest faktyczny dystans pomiędzy nimi?",
-      "q1": "73 Mm",
-      "q2": "54 Mm",
-      "q3": "108 Mm",
-      "q4": "135 Mm"
+      "q1": "73 NM",
+      "q2": "54 NM",
+      "q3": "108 NM",
+      "q4": "135 NM"
     },
     {
       "name": "PL060-0062",
@@ -11508,7 +11508,7 @@
     },
     {
       "name": "PL060-0068",
-      "text": "Odległość pomiędzy 45o a 46° szerokości geograficznej północnej wynosi:",
+      "text": "Odległość pomiędzy 45° a 46° szerokości geograficznej północnej wynosi:",
       "q1": "111 km",
       "q2": "60 km",
       "q3": "60 mil lądowych",
@@ -11516,7 +11516,7 @@
     },
     {
       "name": "PL060-0069",
-      "text": "Pod określeniem “węzeł\" [w] rozumiemy:",
+      "text": "Pod określeniem \"węzeł\" [w] rozumiemy:",
       "q1": "NM/h",
       "q2": "Milę lądową/h",
       "q3": "km/h",
@@ -11525,10 +11525,10 @@
     {
       "name": "PL060-0070",
       "text": "Podaj przybliżoną długość równika Ziemi:",
-      "q1": "21 600 Mm",
+      "q1": "21 600 NM",
       "q2": "21 600 km",
-      "q3": "12 714 Mm",
-      "q4": "6 865 Mm"
+      "q3": "12 714 NM",
+      "q4": "6 865 NM"
     },
     {
       "name": "PL060-0071",
@@ -11989,10 +11989,10 @@
     {
       "name": "PL060-0162",
       "text": "O godzinie 0830 pilot odczytał KKR=315° z radiolatarni NDB. Lecąc dalej tym samym kursem południowym o 0840 był, na KKR=270°. Zakładając, że nie ma znoszenia przez wiatr oraz że jego prędkość podróżna wynosi 240 w określ odległość od NDB o godzinie 0840.",
-      "q1": "40 Mm",
-      "q2": "32 Mm",
-      "q3": "48 Mm",
-      "q4": "38 Mm"
+      "q1": "40 NM",
+      "q2": "32 NM",
+      "q3": "48 NM",
+      "q4": "38 NM"
     },
     {
       "name": "PL060-0163",
@@ -12029,7 +12029,7 @@
     {
       "name": "PL060-0167",
       "text": "Odbiornik DME podaje dane w jednostkach:",
-      "q1": "Mm, w, min",
+      "q1": "NM, w, min",
       "q2": "km, km/h, min",
       "q3": "w zależności od nastawy",
       "q4": "żadna z odpowiedzi nie jest prawdziwa"
@@ -12060,7 +12060,7 @@
     },
     {
       "name": "PL060-0174",
-      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53\"57,8\" E015°47\" 7,8\") na lotnisko w Zamościu (N50°42\"6,5\" E023°12\"15,3\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
+      "text": "Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53'57,8\" E015°47'7,8\") na lotnisko w Zamościu (N50°42\"6,5\" E023°12\"15,3\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
       "q1": "zachód słońca w Zamościu następuje około 30 minut wcześniej",
       "q2": "zachód słońca w Zamościu następuje około 1 godzinę wcześniej",
       "q3": "zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie",
@@ -12068,7 +12068,7 @@
     },
     {
       "name": "PL060-0175",
-      "text": "Pilot planuje przelot z lotniska w Zamościu (N50°42\"6,5\" E023°12\"15,3\") na lotnisko w Jeleniej Górze (N50°53\"57,8\" E015°47\"7,8\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
+      "text": "Pilot planuje przelot z lotniska w Zamościu (N50°42'6,5\" E023°12'15,3\") na lotnisko w Jeleniej Górze (N50°53\"57,8\" E015°47\"7,8\") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:",
       "q1": "zachód słońca w Jeleniej Górze następuje około 30 minut później",
       "q2": "zachód słońca w Jeleniej Górze następuje około 1 godzinę wcześniej",
       "q3": "zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie",
@@ -12085,10 +12085,10 @@
     {
       "name": "PL060-0185",
       "text": "Prędkość podróżna statku powietrznego wynosi 90 węzłów. W czasie 18 minut zostanie przebyta odległość",
-      "q1": "27 Mm",
-      "q2": "18 Mm",
-      "q3": "33 Mm",
-      "q4": "45 Mm"
+      "q1": "27 NM",
+      "q2": "18 NM",
+      "q3": "33 NM",
+      "q4": "45 NM"
     },
     {
       "name": "PL060-0186",
@@ -12244,7 +12244,7 @@
     },
     {
       "name": "PL060-0221",
-      "text": "Skrót “RVR\" oznacza:",
+      "text": "Skrót \"RVR\" oznacza:",
       "q1": "widzialność na drodze startowej",
       "q2": "prosimy o wektorowanie radarowe",
       "q3": "meldunek o widzialności drogi startowej",
@@ -12252,7 +12252,7 @@
     },
     {
       "name": "PL060-0222",
-      "text": "Skrót “SSR\" oznacza:",
+      "text": "Skrót \"SSR\" oznacza:",
       "q1": "wtórny radar dozorowania",
       "q2": "radar poszukiwawczy i dozorujący",
       "q3": "wytrzymałość nawierzchni drogi startowej",
@@ -12261,10 +12261,10 @@
     {
       "name": "PL060-0224",
       "text": "Stacja DME znajduje się na wysokości 1000 ft AMSL. QNH=1013.25 hPa. Samolot leci na poziomie FL370, 15 NM od stacji DME. Odczyt DME będzie wynosił:",
-      "q1": "16 Mm",
-      "q2": "15 Mm",
-      "q3": "18 Mm",
-      "q4": "37 Mm"
+      "q1": "16 NM",
+      "q2": "15 NM",
+      "q3": "18 NM",
+      "q4": "37 NM"
     },
     {
       "name": "PL060-0229",
@@ -12325,18 +12325,18 @@
     {
       "name": "PL060-0236",
       "text": "Statek powietrzny startuje z lotniska o elewacji 1500 ft MSL i wznosi się z prędkością pionową 600 ft/min. Jego średnia prędkość podróżna wynosi 90 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 75?",
-      "q1": "15 Mm",
-      "q2": "18 Mm",
-      "q3": "20 Mm",
-      "q4": "12 Mm"
+      "q1": "15 NM",
+      "q2": "18 NM",
+      "q3": "20 NM",
+      "q4": "12 NM"
     },
     {
       "name": "PL060-0237",
       "text": "Statek powietrzny startuje z lotniska o elewacji 500 ft MSL i wznosi się z prędkością pionową 500 ft/min. Jego średnia prędkość podróżna wynosi 100 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 80?",
-      "q1": "25 Mm",
-      "q2": "18 Mm",
-      "q3": "21 Mm",
-      "q4": "12.5 Mm"
+      "q1": "25 NM",
+      "q2": "18 NM",
+      "q3": "21 NM",
+      "q4": "12.5 NM"
     },
     {
       "name": "PL060-0243",
@@ -12382,8 +12382,8 @@
       "name": "PL060-0248",
       "text": "VOR jest radionawigacyjnym systemem:",
       "q1": "kątowym",
-      "q2": "odległościowo- kątowym,",
-      "q3": "odległościowym,",
+      "q2": "odległościowo-kątowym",
+      "q3": "odległościowym",
       "q4": "hiperbolicznym"
     },
     {
@@ -12493,10 +12493,10 @@
     {
       "name": "PL060-0274",
       "text": "Zniżanie jest planowane z wysokości 7000 ft w ten sposób, żeby osiągnąć 1000 ft AMSL w odległości 6 NM od stacji VOR/DME. Prędkość podróżna wynosi 180kt a prędkość opadania 1000ft/min. Odległość od stacji w chwili rozpoczęcia zniżania wynosi:",
-      "q1": "24 Mm",
-      "q2": "18 Mm",
-      "q3": "60 Mm",
-      "q4": "13 Mm"
+      "q1": "24 NM",
+      "q2": "18 NM",
+      "q3": "60 NM",
+      "q4": "13 NM"
     },
     {
       "name": "PL060-0275",
@@ -13248,7 +13248,7 @@
     },
     {
       "name": "PL080-0021",
-      "text": "Co to jest \"środek parcia profilu\" ?",
+      "text": "Co to jest \"środek parcia profilu\"?",
       "q1": "Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych występujących na profilu",
       "q2": "Punkt przyłożenia oporu.",
       "q3": "Punkt, w którym wielkość ciśnienia jest średnia.",
@@ -13281,10 +13281,10 @@
     {
       "name": "PL080-0025",
       "text": "Co to jest gęstość powietrza?",
-      "q1": "Ilość masy powietrza zawartej w 1 m? objętości.",
+      "q1": "Ilość masy powietrza zawartej w 1 m<sup>2</sup> objętości.",
       "q2": "Przeciwieństwo lepkości atmosferycznej.",
-      "q3": "Liczba molekuł tlenu i azotu w 1 cm? objętości.",
-      "q4": "Ciężar 1 m? powietrza."
+      "q3": "Liczba molekuł tlenu i azotu w 1 cm<sup>2</sup> objętości.",
+      "q4": "Ciężar 1 m<sup>2</sup> powietrza."
     },
     {
       "name": "PL080-0026",
@@ -13584,7 +13584,7 @@
     },
     {
       "name": "PL080-0065",
-      "text": "Jak w jednostkach podstawowych układu SI można zapisać wielkość ciśnienia 1000 hPa ?",
+      "text": "Jak w jednostkach podstawowych układu SI można zapisać wielkość ciśnienia 1000 hPa?",
       "q1": "100000 N/m?",
       "q2": "1000000 N/m?",
       "q3": "1000 N/m?",
@@ -13617,10 +13617,10 @@
     {
       "name": "PL080-0072",
       "text": "Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach \"milimetrów słupa rtęci\" odpowiada po = 1013,25 hPa?.",
-      "q1": "760 mm Hg.",
-      "q2": "800 mm Hg",
-      "q3": "750 mm Hg",
-      "q4": "860 mm Hg"
+      "q1": "760 mm/Hg",
+      "q2": "800 mm/Hg",
+      "q3": "750 mm/Hg",
+      "q4": "860 mm/Hg"
     },
     {
       "name": "PL080-0073",
@@ -13657,10 +13657,10 @@
     {
       "name": "PL080-0077",
       "text": "Jaką wielkość, wyrażoną w Kelwinach (K)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?",
-      "q1": "To  =  288  K.",
-      "q2": "To  =  258  K.",
-      "q3": "To  =  277  K.",
-      "q4": "To  =  301  K."
+      "q1": "To  =  288 K.",
+      "q2": "To  =  258 K.",
+      "q3": "To  =  277 K.",
+      "q4": "To  =  301 K."
     },
     {
       "name": "PL080-0078",
@@ -13672,16 +13672,16 @@
     },
     {
       "name": "PL080-0079",
-      "text": "Jaką wielkość, wyrażoną w stopniach Celsiusza (?C)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?",
-      "q1": "t = +15 &lt; sup &gt; o&lt; /sup &gt; C",
-      "q2": "t = +10 &lt; sup &gt; o&lt; /sup &gt; C",
-      "q3": "t = +20 &lt; sup &gt; o&lt; /sup &gt; C",
-      "q4": "t = +16,5 &lt; sup &gt; o&lt; /sup &gt; C"
+      "text": "Jaką wielkość, wyrażoną w stopniach Celsiusza (°C)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?",
+      "q1": "t = +15°C",
+      "q2": "t = +10°C",
+      "q3": "t = +20°C",
+      "q4": "t = +16,5°C"
     },
     {
       "name": "PL080-0080",
-      "text": "Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (&lt; sup&gt;?&lt; / sup&gt; C) i temperatury T wyrażonej w Kelwinach (K)?",
-      "q1": "T = t + 273.",
+      "text": "Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (°C) i temperatury T wyrażonej w Kelwinach (K)?",
+      "q1": "T = t + 273",
       "q2": "T = t + 233",
       "q3": "T = t + 283",
       "q4": "T = t + 373"
@@ -16042,7 +16042,7 @@
     },
     {
       "name": "PL090-0004",
-      "text": "Literę “O\" wymawia się jako:",
+      "text": "Literę \"O\" wymawia się jako:",
       "q1": "Oscar",
       "q2": "Ontario",
       "q3": "Oklahoma",
